@@ -102,11 +102,41 @@ function FinanceDetail({ term, carPrice, deposit, monthly, gmfv, interestRate })
   )
 }
 
+function CarImage({ make, model, imageUrl }) {
+  const [imgError, setImgError] = useState(false)
+
+  if (!imageUrl || imgError) {
+    return (
+      <div className="w-full h-24 bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg flex items-center justify-center mb-3">
+        <div className="text-center">
+          <span className="text-xl font-bold text-gray-200 tracking-wider block">{make}</span>
+          <span className="text-[10px] text-gray-300">{model}</span>
+        </div>
+      </div>
+    )
+  }
+
+  return (
+    <div className="w-full h-24 bg-gray-50 rounded-lg mb-3 overflow-hidden flex items-center justify-center">
+      <img
+        src={imageUrl}
+        alt={`${make} ${model}`}
+        className="h-full w-full object-contain"
+        loading="lazy"
+        onError={() => setImgError(true)}
+      />
+    </div>
+  )
+}
+
 export default function CarCard({ car, mode, deposit, calculatedData, targetMonthly, selectedTerm }) {
   const [showDetails, setShowDetails] = useState(false)
 
   return (
     <div className="bg-white rounded-xl border border-gray-200 p-4 hover:shadow-md transition-shadow flex flex-col">
+      {/* Car Image */}
+      <CarImage make={car.make} model={car.model} imageUrl={car.imageUrl} />
+
       {/* Header */}
       <div className="flex items-start justify-between mb-3">
         <div>

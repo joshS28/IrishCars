@@ -6393,7 +6393,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-3-Main-Hero-Desktop-LHD-Animation.jpg"
     },
     {
       "make": "Tesla",
@@ -6428,7 +6429,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-Y-Main-Hero-Desktop-LHD-Animation.jpg"
     },
     {
       "make": "Tesla",
@@ -6463,7 +6465,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from RWD price + typical LR premium",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as Model 3 RWD"
+      "rate_note": "Assumed same as Model 3 RWD",
+      "imageUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-3-Main-Hero-Desktop-LHD-Animation.jpg"
     },
     {
       "make": "Tesla",
@@ -6498,7 +6501,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from RWD price + typical LR premium",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as Model Y RWD"
+      "rate_note": "Assumed same as Model Y RWD",
+      "imageUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-Y-Main-Hero-Desktop-LHD-Animation.jpg"
     },
     {
       "make": "Tesla",
@@ -6533,7 +6537,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check tesla.com/en_ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as Model 3 RWD"
+      "rate_note": "Assumed same as Model 3 RWD",
+      "imageUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-3-Main-Hero-Desktop-LHD-Animation.jpg"
     },
     {
       "make": "Tesla",
@@ -6568,7 +6573,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check tesla.com/en_ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as Model Y RWD"
+      "rate_note": "Assumed same as Model Y RWD",
+      "imageUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-Y-Main-Hero-Desktop-LHD-Animation.jpg"
     },
     {
       "make": "Toyota",
