@@ -91,7 +91,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "From Alfa Romeo Ireland website"
+      "price_note": "From Alfa Romeo Ireland website",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check alfaromeo.ie"
     },
     {
       "make": "Audi",
@@ -124,7 +126,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Audi Ireland finance calc, April 2026"
     },
     {
       "make": "Audi",
@@ -157,7 +161,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "No Irish source for this specific trim"
+      "price_note": "No Irish source for this specific trim",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as Q4 40 - verify on audi.ie"
     },
     {
       "make": "Audi",
@@ -165,7 +171,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 68500,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -174,23 +180,25 @@
       "finance_24m": {
         "gmfv_eur": 37675,
         "amount_financed_eur": 58500,
-        "monthly_payment_10k_deposit_eur": 1025.84,
+        "monthly_payment_10k_deposit_eur": 1066.53,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 28770,
         "amount_financed_eur": 58500,
-        "monthly_payment_10k_deposit_eur": 969.93,
+        "monthly_payment_10k_deposit_eur": 1007.18,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 21920,
         "amount_financed_eur": 58500,
-        "monthly_payment_10k_deposit_eur": 895.55,
+        "monthly_payment_10k_deposit_eur": 930.26,
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from European pricing"
+      "price_note": "Estimated from European pricing",
+      "rate_verified": "verified",
+      "rate_source": "Audi Cork dealer, Sept 2025"
     },
     {
       "make": "Audi",
@@ -223,7 +231,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Audi range - verify on audi.ie"
     },
     {
       "make": "Audi",
@@ -231,7 +241,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 107235,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -240,23 +250,25 @@
       "finance_24m": {
         "gmfv_eur": 58979.25,
         "amount_financed_eur": 97235,
-        "monthly_payment_10k_deposit_eur": 1851.23,
+        "monthly_payment_10k_deposit_eur": 1917.45,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 45038.7,
         "amount_financed_eur": 97235,
-        "monthly_payment_10k_deposit_eur": 1685.1,
+        "monthly_payment_10k_deposit_eur": 1745.94,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 34315.2,
         "amount_financed_eur": 97235,
-        "monthly_payment_10k_deposit_eur": 1529.38,
+        "monthly_payment_10k_deposit_eur": 1586.27,
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as Q6 - verify on audi.ie"
     },
     {
       "make": "Audi",
@@ -264,7 +276,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 120000,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -273,23 +285,25 @@
       "finance_24m": {
         "gmfv_eur": 66000,
         "amount_financed_eur": 110000,
-        "monthly_payment_10k_deposit_eur": 2123.24,
+        "monthly_payment_10k_deposit_eur": 2197.87,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 50400,
         "amount_financed_eur": 110000,
-        "monthly_payment_10k_deposit_eur": 1920.78,
+        "monthly_payment_10k_deposit_eur": 1989.39,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 38400,
         "amount_financed_eur": 110000,
-        "monthly_payment_10k_deposit_eur": 1738.26,
+        "monthly_payment_10k_deposit_eur": 1802.46,
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check audi.ie for current price"
+      "price_note": "Estimated - check audi.ie for current price",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check audi.ie"
     },
     {
       "make": "Audi",
@@ -297,7 +311,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 177650,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -306,23 +320,25 @@
       "finance_24m": {
         "gmfv_eur": 97707.5,
         "amount_financed_eur": 167650,
-        "monthly_payment_10k_deposit_eur": 3351.68,
+        "monthly_payment_10k_deposit_eur": 3464.32,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 74613,
         "amount_financed_eur": 167650,
-        "monthly_payment_10k_deposit_eur": 2985.18,
+        "monthly_payment_10k_deposit_eur": 3088.9,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 56848,
         "amount_financed_eur": 167650,
-        "monthly_payment_10k_deposit_eur": 2681.61,
+        "monthly_payment_10k_deposit_eur": 2778.8,
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check audi.ie"
     },
     {
       "make": "BMW",
@@ -355,7 +371,9 @@
         "deposit_for_400pm_eur": 45380.34
       },
       "price_verified": "verified",
-      "price_source": "BMW Ireland press release"
+      "price_source": "BMW Ireland press release",
+      "rate_verified": "verified",
+      "rate_source": "BMW Ireland"
     },
     {
       "make": "BMW",
@@ -388,7 +406,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "BMW Ireland"
     },
     {
       "make": "BMW",
@@ -421,7 +441,9 @@
         "deposit_for_400pm_eur": 75974.89
       },
       "price_verified": "estimated",
-      "price_note": "New Neue Klasse model - verify on bmw.ie"
+      "price_note": "New Neue Klasse model - verify on bmw.ie",
+      "rate_verified": "verified",
+      "rate_source": "BMW Ireland"
     },
     {
       "make": "BMW",
@@ -454,7 +476,9 @@
         "deposit_for_400pm_eur": 37193.59
       },
       "price_verified": "estimated",
-      "price_note": "RTE listed Touring variant - sedan price estimated"
+      "price_note": "RTE listed Touring variant - sedan price estimated",
+      "rate_verified": "verified",
+      "rate_source": "BMW Ireland"
     },
     {
       "make": "BMW",
@@ -487,7 +511,9 @@
         "deposit_for_400pm_eur": 77200.14
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "BMW Ireland"
     },
     {
       "make": "BMW",
@@ -520,7 +546,9 @@
         "deposit_for_400pm_eur": 47362.13
       },
       "price_verified": "estimated",
-      "price_note": "No official Irish source found"
+      "price_note": "No official Irish source found",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed BMW standard rate"
     },
     {
       "make": "BMW",
@@ -553,7 +581,9 @@
         "deposit_for_400pm_eur": 59151.75
       },
       "price_verified": "estimated",
-      "price_note": "No official Irish source found"
+      "price_note": "No official Irish source found",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed BMW standard rate"
     },
     {
       "make": "BMW",
@@ -586,7 +616,9 @@
         "deposit_for_400pm_eur": 160277.45
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "BMW Ireland"
     },
     {
       "make": "BMW",
@@ -619,7 +651,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed BMW standard rate"
     },
     {
       "make": "BYD",
@@ -652,7 +686,9 @@
         "deposit_for_400pm_eur": 1597.06
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "BYD",
@@ -685,7 +721,9 @@
         "deposit_for_400pm_eur": 7023.24
       },
       "price_verified": "verified",
-      "price_source": "Original dataset"
+      "price_source": "Original dataset",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "BYD",
@@ -718,7 +756,9 @@
         "deposit_for_400pm_eur": 9430.19
       },
       "price_verified": "verified",
-      "price_source": "Original dataset"
+      "price_source": "Original dataset",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "BYD",
@@ -751,7 +791,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Not yet confirmed for Irish market"
+      "price_note": "Not yet confirmed for Irish market",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from BYD range"
     },
     {
       "make": "BYD",
@@ -784,7 +826,9 @@
         "deposit_for_400pm_eur": 20938.47
       },
       "price_verified": "verified",
-      "price_source": "Original dataset"
+      "price_source": "Original dataset",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "BYD",
@@ -817,7 +861,9 @@
         "deposit_for_400pm_eur": 8426.34
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from Comfort trim pricing"
+      "price_note": "Estimated from Comfort trim pricing",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as Comfort trim"
     },
     {
       "make": "BYD",
@@ -850,7 +896,9 @@
         "deposit_for_400pm_eur": 38048.84
       },
       "price_verified": "estimated",
-      "price_note": "From original dataset - not independently verified"
+      "price_note": "From original dataset - not independently verified",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "BYD",
@@ -883,7 +931,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from BYD range"
     },
     {
       "make": "BYD",
@@ -916,7 +966,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Citroen",
@@ -949,7 +1001,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "Citroen Ireland website"
+      "price_source": "Citroen Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Citroen Ireland offers, 2026"
     },
     {
       "make": "Citroen",
@@ -982,7 +1036,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from European pricing"
+      "price_note": "Estimated from European pricing",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Citroen range"
     },
     {
       "make": "Citroen",
@@ -1015,7 +1071,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Citroen Ireland offers, 2026"
     },
     {
       "make": "Citroen",
@@ -1048,7 +1106,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from e-C4 pricing"
+      "price_note": "Estimated from e-C4 pricing",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as e-C4"
     },
     {
       "make": "Citroen",
@@ -1081,7 +1141,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Citroen range"
     },
     {
       "make": "Citroen",
@@ -1114,7 +1176,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Partially confirmed - check citroen.ie"
+      "price_note": "Partially confirmed - check citroen.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Citroen range"
     },
     {
       "make": "Cupra",
@@ -1147,7 +1211,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Not yet on sale - pre-release pricing"
+      "price_note": "Not yet on sale - pre-release pricing",
+      "rate_verified": "estimated",
+      "rate_note": "Not yet on sale"
     },
     {
       "make": "Cupra",
@@ -1180,7 +1246,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Cupra Ireland"
     },
     {
       "make": "Cupra",
@@ -1213,7 +1281,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Cupra Ireland"
     },
     {
       "make": "Cupra",
@@ -1246,7 +1316,9 @@
         "deposit_for_400pm_eur": 11934.33
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from Cupra Ireland"
+      "price_note": "Estimated from Cupra Ireland",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Cupra range"
     },
     {
       "make": "Cupra",
@@ -1279,7 +1351,9 @@
         "deposit_for_400pm_eur": 37302.51
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Cupra Ireland"
     },
     {
       "make": "Cupra",
@@ -1312,7 +1386,9 @@
         "deposit_for_400pm_eur": 17033.34
       },
       "price_verified": "estimated",
-      "price_note": "From Cupra Ireland offers page"
+      "price_note": "From Cupra Ireland offers page",
+      "rate_verified": "verified",
+      "rate_source": "Cupra Ireland offers"
     },
     {
       "make": "Cupra",
@@ -1345,7 +1421,9 @@
         "deposit_for_400pm_eur": 18333.88
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - not yet widely available"
+      "price_note": "Estimated - not yet widely available",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Cupra range"
     },
     {
       "make": "Cupra",
@@ -1378,7 +1456,9 @@
         "deposit_for_400pm_eur": 21708.66
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from base Tavascan price"
+      "price_note": "Estimated from base Tavascan price",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Tavascan base"
     },
     {
       "make": "Dacia",
@@ -1411,7 +1491,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "Dacia Ireland / RTE April 2026 guide"
+      "price_source": "Dacia Ireland / RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check dacia.ie"
     },
     {
       "make": "Dacia",
@@ -1444,7 +1526,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "Dacia Ireland website"
+      "price_source": "Dacia Ireland website",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check dacia.ie"
     },
     {
       "make": "DS",
@@ -1477,7 +1561,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check dsautomobiles.ie"
+      "price_note": "Estimated - check dsautomobiles.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check dsautomobiles.ie"
     },
     {
       "make": "DS",
@@ -1510,7 +1596,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check dsautomobiles.ie"
+      "price_note": "Estimated - check dsautomobiles.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check dsautomobiles.ie"
     },
     {
       "make": "Fiat",
@@ -1543,7 +1631,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Fiat Ireland finance, Nov 2025-Jan 2026"
     },
     {
       "make": "Fiat",
@@ -1576,7 +1666,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Converted from UK pricing"
+      "price_note": "Converted from UK pricing",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Fiat range"
     },
     {
       "make": "Fiat",
@@ -1609,7 +1701,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Fiat Ireland finance, Nov 2025-Jan 2026"
     },
     {
       "make": "Ford",
@@ -1617,7 +1711,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 32916,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 0,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
@@ -1626,23 +1720,25 @@
       "finance_24m": {
         "gmfv_eur": 18103.8,
         "amount_financed_eur": 22916,
-        "monthly_payment_10k_deposit_eur": 267.59,
+        "monthly_payment_10k_deposit_eur": 200.51,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 13824.72,
         "amount_financed_eur": 22916,
-        "monthly_payment_10k_deposit_eur": 312.94,
+        "monthly_payment_10k_deposit_eur": 252.54,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 10533.12,
         "amount_financed_eur": 22916,
-        "monthly_payment_10k_deposit_eur": 313.27,
+        "monthly_payment_10k_deposit_eur": 257.98,
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Spirit Ford Ireland, 261 offers"
     },
     {
       "make": "Ford",
@@ -1650,7 +1746,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 43555,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 0,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
@@ -1659,23 +1755,25 @@
       "finance_24m": {
         "gmfv_eur": 23955.25,
         "amount_financed_eur": 33555,
-        "monthly_payment_10k_deposit_eur": 494.3,
+        "monthly_payment_10k_deposit_eur": 399.99,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 18293.1,
         "amount_financed_eur": 33555,
-        "monthly_payment_10k_deposit_eur": 509.37,
+        "monthly_payment_10k_deposit_eur": 423.94,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 13937.6,
         "amount_financed_eur": 33555,
-        "monthly_payment_10k_deposit_eur": 487.36,
+        "monthly_payment_10k_deposit_eur": 408.7,
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Spirit Ford Ireland, 261 offers"
     },
     {
       "make": "Ford",
@@ -1708,7 +1806,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "0% may be available - check ford.ie"
     },
     {
       "make": "Ford",
@@ -1741,7 +1841,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - not in RTE guide"
+      "price_note": "Estimated - not in RTE guide",
+      "rate_verified": "estimated",
+      "rate_note": "Promotional 0% may be available - check ford.ie"
     },
     {
       "make": "Honda",
@@ -1774,7 +1876,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check honda.ie"
     },
     {
       "make": "Hyundai",
@@ -1807,7 +1911,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Hyundai Ireland"
     },
     {
       "make": "Hyundai",
@@ -1840,7 +1946,9 @@
         "deposit_for_400pm_eur": 2693.68
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from Kona Electric pricing"
+      "price_note": "Estimated from Kona Electric pricing",
+      "rate_verified": "verified",
+      "rate_source": "Bright Hyundai Ireland"
     },
     {
       "make": "Hyundai",
@@ -1873,7 +1981,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Hyundai Ireland"
     },
     {
       "make": "Hyundai",
@@ -1906,7 +2016,9 @@
         "deposit_for_400pm_eur": 31573.1
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Bright Hyundai Ireland"
     },
     {
       "make": "Hyundai",
@@ -1939,7 +2051,9 @@
         "deposit_for_400pm_eur": 32288.98
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Hyundai Ireland"
     },
     {
       "make": "Hyundai",
@@ -1947,7 +2061,7 @@
       "year": "2025",
       "type": "HEV",
       "price_eur": 42995,
-      "interest_rate_pct": 3.49,
+      "interest_rate_pct": 4.99,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -1956,23 +2070,25 @@
       "finance_24m": {
         "gmfv_eur": 23647.25,
         "amount_financed_eur": 32995,
-        "monthly_payment_10k_deposit_eur": 472.58,
-        "deposit_for_400pm_eur": 11680.18
+        "monthly_payment_10k_deposit_eur": 508.39,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 18057.9,
         "amount_financed_eur": 32995,
-        "monthly_payment_10k_deposit_eur": 490.14,
-        "deposit_for_400pm_eur": 13076.71
+        "monthly_payment_10k_deposit_eur": 522.7,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 13758.4,
         "amount_financed_eur": 32995,
-        "monthly_payment_10k_deposit_eur": 469.98,
-        "deposit_for_400pm_eur": 13130.96
+        "monthly_payment_10k_deposit_eur": 500.13,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check hyundai.ie"
+      "price_note": "Estimated - check hyundai.ie",
+      "rate_verified": "verified",
+      "rate_source": "Bright Hyundai Ireland"
     },
     {
       "make": "Hyundai",
@@ -1980,7 +2096,7 @@
       "year": "2025",
       "type": "PHEV",
       "price_eur": 47770,
-      "interest_rate_pct": 4.9,
+      "interest_rate_pct": 4.99,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -1989,23 +2105,25 @@
       "finance_24m": {
         "gmfv_eur": 26273.5,
         "amount_financed_eur": 37770,
-        "monthly_payment_10k_deposit_eur": 611.14,
-        "deposit_for_400pm_eur": 62468.72
+        "monthly_payment_10k_deposit_eur": 613.57,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 20063.4,
         "amount_financed_eur": 37770,
-        "monthly_payment_10k_deposit_eur": 611.81,
-        "deposit_for_400pm_eur": 51729.5
+        "monthly_payment_10k_deposit_eur": 614.03,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 15286.4,
         "amount_financed_eur": 37770,
-        "monthly_payment_10k_deposit_eur": 579.18,
-        "deposit_for_400pm_eur": 42937.23
+        "monthly_payment_10k_deposit_eur": 581.25,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "From original dataset - verify on hyundai.ie"
+      "price_note": "From original dataset - verify on hyundai.ie",
+      "rate_verified": "estimated",
+      "rate_note": "From Bright Hyundai - may differ"
     },
     {
       "make": "Hyundai",
@@ -2013,7 +2131,7 @@
       "year": "2025",
       "type": "HEV",
       "price_eur": 55995,
-      "interest_rate_pct": 4.9,
+      "interest_rate_pct": 3.99,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -2022,23 +2140,25 @@
       "finance_24m": {
         "gmfv_eur": 30797.25,
         "amount_financed_eur": 45995,
-        "monthly_payment_10k_deposit_eur": 791.82,
-        "deposit_for_400pm_eur": 18940.26
+        "monthly_payment_10k_deposit_eur": 762.29,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 23517.9,
         "amount_financed_eur": 45995,
-        "monthly_payment_10k_deposit_eur": 768.68,
-        "deposit_for_400pm_eur": 22319.77
+        "monthly_payment_10k_deposit_eur": 741.71,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 17918.4,
         "amount_financed_eur": 45995,
-        "monthly_payment_10k_deposit_eur": 718.48,
-        "deposit_for_400pm_eur": 23856.58
+        "monthly_payment_10k_deposit_eur": 693.4,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check hyundai.ie"
+      "price_note": "Estimated - check hyundai.ie",
+      "rate_verified": "verified",
+      "rate_source": "Bright Hyundai Ireland"
     },
     {
       "make": "Hyundai",
@@ -2046,7 +2166,7 @@
       "year": "2025",
       "type": "PHEV",
       "price_eur": 61995,
-      "interest_rate_pct": 4.9,
+      "interest_rate_pct": 3.99,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -2055,23 +2175,25 @@
       "finance_24m": {
         "gmfv_eur": 34097.25,
         "amount_financed_eur": 51995,
-        "monthly_payment_10k_deposit_eur": 923.63,
-        "deposit_for_400pm_eur": 21947.72
+        "monthly_payment_10k_deposit_eur": 890.5,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 26037.9,
         "amount_financed_eur": 51995,
-        "monthly_payment_10k_deposit_eur": 883.11,
-        "deposit_for_400pm_eur": 26143.61
+        "monthly_payment_10k_deposit_eur": 852.82,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 19838.4,
         "amount_financed_eur": 51995,
-        "monthly_payment_10k_deposit_eur": 820.09,
-        "deposit_for_400pm_eur": 28277.69
+        "monthly_payment_10k_deposit_eur": 791.88,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check hyundai.ie"
+      "price_note": "Estimated - check hyundai.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as Santa Fe Hybrid"
     },
     {
       "make": "Hyundai",
@@ -2104,7 +2226,9 @@
         "deposit_for_400pm_eur": 82449.2
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Hyundai Ireland"
     },
     {
       "make": "Jeep",
@@ -2137,7 +2261,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "Jeep Ireland / RTE April 2026 guide"
+      "price_source": "Jeep Ireland / RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check jeep.com/ie"
     },
     {
       "make": "Kia",
@@ -2170,7 +2296,9 @@
         "deposit_for_400pm_eur": 6568.13
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check kia.com/ie"
+      "price_note": "Estimated - check kia.com/ie",
+      "rate_verified": "verified",
+      "rate_source": "Kia Ireland 261 offers"
     },
     {
       "make": "Kia",
@@ -2203,7 +2331,9 @@
         "deposit_for_400pm_eur": 11288.12
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check kia.com/ie"
+      "price_note": "Estimated - check kia.com/ie",
+      "rate_verified": "verified",
+      "rate_source": "Kia Ireland 261 offers"
     },
     {
       "make": "Kia",
@@ -2236,7 +2366,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Kia Ireland 261 offers"
     },
     {
       "make": "Kia",
@@ -2269,7 +2401,9 @@
         "deposit_for_400pm_eur": 13321.34
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check kia.com/ie"
+      "price_note": "Estimated - check kia.com/ie",
+      "rate_verified": "verified",
+      "rate_source": "Kia Ireland 261 offers"
     },
     {
       "make": "Kia",
@@ -2302,7 +2436,9 @@
         "deposit_for_400pm_eur": 34423
       },
       "price_verified": "verified",
-      "price_source": "Kia Ireland website"
+      "price_source": "Kia Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Kia Ireland 261 offers"
     },
     {
       "make": "Kia",
@@ -2335,7 +2471,9 @@
         "deposit_for_400pm_eur": 12199
       },
       "price_verified": "estimated",
-      "price_note": "From Kia Ireland website - verify trim"
+      "price_note": "From Kia Ireland website - verify trim",
+      "rate_verified": "verified",
+      "rate_source": "Kia Ireland 261 offers"
     },
     {
       "make": "Kia",
@@ -2368,7 +2506,9 @@
         "deposit_for_400pm_eur": 13185
       },
       "price_verified": "estimated",
-      "price_note": "From Kia Ireland website - verify trim"
+      "price_note": "From Kia Ireland website - verify trim",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed 0% like other Kia EVs"
     },
     {
       "make": "Kia",
@@ -2376,7 +2516,7 @@
       "year": "2025",
       "type": "HEV",
       "price_eur": 48000,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 0,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -2385,23 +2525,25 @@
       "finance_24m": {
         "gmfv_eur": 26400,
         "amount_financed_eur": 38000,
-        "monthly_payment_10k_deposit_eur": 589.01,
-        "deposit_for_400pm_eur": 14357.1
+        "monthly_payment_10k_deposit_eur": 483.33,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 20160,
         "amount_financed_eur": 38000,
-        "monthly_payment_10k_deposit_eur": 591.43,
-        "deposit_for_400pm_eur": 16493.82
+        "monthly_payment_10k_deposit_eur": 495.56,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 15360,
         "amount_financed_eur": 38000,
-        "monthly_payment_10k_deposit_eur": 560.1,
-        "deposit_for_400pm_eur": 17104.59
+        "monthly_payment_10k_deposit_eur": 471.67,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check kia.com/ie"
+      "price_note": "Estimated - check kia.com/ie",
+      "rate_verified": "verified",
+      "rate_source": "Kia Ireland 261 offers"
     },
     {
       "make": "Kia",
@@ -2409,7 +2551,7 @@
       "year": "2025",
       "type": "PHEV",
       "price_eur": 49495,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 0,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -2418,23 +2560,25 @@
       "finance_24m": {
         "gmfv_eur": 27222.25,
         "amount_financed_eur": 39495,
-        "monthly_payment_10k_deposit_eur": 620.87,
-        "deposit_for_400pm_eur": 15091.45
+        "monthly_payment_10k_deposit_eur": 511.36,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 20787.9,
         "amount_financed_eur": 39495,
-        "monthly_payment_10k_deposit_eur": 619.04,
-        "deposit_for_400pm_eur": 17430.14
+        "monthly_payment_10k_deposit_eur": 519.64,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 15838.4,
         "amount_financed_eur": 39495,
-        "monthly_payment_10k_deposit_eur": 584.56,
-        "deposit_for_400pm_eur": 18190.19
+        "monthly_payment_10k_deposit_eur": 492.85,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check kia.com/ie"
+      "price_note": "Estimated - check kia.com/ie",
+      "rate_verified": "verified",
+      "rate_source": "Kia Ireland 261 offers"
     },
     {
       "make": "Kia",
@@ -2467,7 +2611,9 @@
         "deposit_for_400pm_eur": 43993
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Kia Ireland 261 offers"
     },
     {
       "make": "Kia",
@@ -2500,7 +2646,9 @@
         "deposit_for_400pm_eur": 28940.87
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check kia.com/ie"
+      "price_note": "Estimated - check kia.com/ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Kia standard rate"
     },
     {
       "make": "Kia",
@@ -2533,7 +2681,9 @@
         "deposit_for_400pm_eur": 80972.54
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Kia Ireland 261 offers"
     },
     {
       "make": "Lexus",
@@ -2566,7 +2716,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check lexus.ie"
     },
     {
       "make": "Lotus",
@@ -2599,7 +2751,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from European pricing"
+      "price_note": "Estimated from European pricing",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - no Irish PCP data"
     },
     {
       "make": "Lotus",
@@ -2632,7 +2786,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from European pricing"
+      "price_note": "Estimated from European pricing",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - no Irish PCP data"
     },
     {
       "make": "Mazda",
@@ -2665,7 +2821,9 @@
         "deposit_for_400pm_eur": 1608.94
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check mazda.ie"
+      "price_note": "Estimated - check mazda.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Mazda range"
     },
     {
       "make": "Mazda",
@@ -2698,7 +2856,9 @@
         "deposit_for_400pm_eur": 33005.77
       },
       "price_verified": "estimated",
-      "price_note": "From original dataset - verify on mazda.ie"
+      "price_note": "From original dataset - verify on mazda.ie",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Mazda",
@@ -2731,7 +2891,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Mazda range"
     },
     {
       "make": "Mazda",
@@ -2764,7 +2926,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Not yet on sale - estimated pricing"
+      "price_note": "Not yet on sale - estimated pricing",
+      "rate_verified": "estimated",
+      "rate_note": "Not yet on sale - assumed Mazda rate"
     },
     {
       "make": "Mazda",
@@ -2797,7 +2961,9 @@
         "deposit_for_400pm_eur": 19543.65
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from web search"
+      "price_note": "Estimated from web search",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Mazda range"
     },
     {
       "make": "Mazda",
@@ -2830,7 +2996,9 @@
         "deposit_for_400pm_eur": 27011.16
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check mazda.ie"
+      "price_note": "Estimated - check mazda.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Mazda range"
     },
     {
       "make": "Mercedes-Benz",
@@ -2863,7 +3031,9 @@
         "deposit_for_400pm_eur": 21962.88
       },
       "price_verified": "verified",
-      "price_source": "Mercedes-Benz Ireland / RTE guide"
+      "price_source": "Mercedes-Benz Ireland / RTE guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check mercedes-benz.ie"
     },
     {
       "make": "Mercedes-Benz",
@@ -2896,7 +3066,9 @@
         "deposit_for_400pm_eur": 52289.77
       },
       "price_verified": "verified",
-      "price_source": "Mercedes-Benz Ireland website"
+      "price_source": "Mercedes-Benz Ireland website",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check mercedes-benz.ie"
     },
     {
       "make": "Mercedes-Benz",
@@ -2929,7 +3101,9 @@
         "deposit_for_400pm_eur": 54759.23
       },
       "price_verified": "estimated",
-      "price_note": "May be outdated - check mercedes-benz.ie"
+      "price_note": "May be outdated - check mercedes-benz.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check mercedes-benz.ie"
     },
     {
       "make": "Mercedes-Benz",
@@ -2962,7 +3136,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check mercedes-benz.ie"
     },
     {
       "make": "Mercedes-Benz",
@@ -2995,7 +3171,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "From Mercedes Ireland website scrape"
+      "price_note": "From Mercedes Ireland website scrape",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check mercedes-benz.ie"
     },
     {
       "make": "Mercedes-Benz",
@@ -3028,7 +3206,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check mercedes-benz.ie"
     },
     {
       "make": "Mercedes-Benz",
@@ -3061,7 +3241,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check mercedes-benz.ie"
     },
     {
       "make": "Mercedes-Benz",
@@ -3094,7 +3276,9 @@
         "deposit_for_400pm_eur": 73837.19
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from Mercedes Ireland website"
+      "price_note": "Estimated from Mercedes Ireland website",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check mercedes-benz.ie"
     },
     {
       "make": "Mercedes-Benz",
@@ -3127,7 +3311,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "From web search - verify on mercedes-benz.ie"
+      "price_note": "From web search - verify on mercedes-benz.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check mercedes-benz.ie"
     },
     {
       "make": "Mercedes-Benz",
@@ -3160,7 +3346,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "From web search - verify on mercedes-benz.ie"
+      "price_note": "From web search - verify on mercedes-benz.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check mercedes-benz.ie"
     },
     {
       "make": "MG",
@@ -3193,7 +3381,9 @@
         "deposit_for_400pm_eur": -2023.51
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check mg.ie"
+      "price_note": "Estimated - check mg.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from MG range"
     },
     {
       "make": "MG",
@@ -3226,7 +3416,9 @@
         "deposit_for_400pm_eur": 1920.65
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check mg.ie"
+      "price_note": "Estimated - check mg.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as ZS EV"
     },
     {
       "make": "MG",
@@ -3259,7 +3451,9 @@
         "deposit_for_400pm_eur": 16935.72
       },
       "price_verified": "verified",
-      "price_source": "MG Ireland website"
+      "price_source": "MG Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "MG Ireland"
     },
     {
       "make": "MG",
@@ -3292,7 +3486,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "MG Ireland"
     },
     {
       "make": "MG",
@@ -3325,7 +3521,9 @@
         "deposit_for_400pm_eur": 18220.71
       },
       "price_verified": "verified",
-      "price_source": "MG Ireland website"
+      "price_source": "MG Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "MG Ireland"
     },
     {
       "make": "MG",
@@ -3358,7 +3556,9 @@
         "deposit_for_400pm_eur": 18213.62
       },
       "price_verified": "verified",
-      "price_source": "MG Ireland website"
+      "price_source": "MG Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "MG Ireland"
     },
     {
       "make": "MG",
@@ -3391,7 +3591,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from MG range"
     },
     {
       "make": "MG",
@@ -3424,7 +3626,9 @@
         "deposit_for_400pm_eur": 9774.13
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check mg.ie"
+      "price_note": "Estimated - check mg.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from MG range"
     },
     {
       "make": "MG",
@@ -3457,7 +3661,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Not yet on sale in Ireland"
+      "price_note": "Not yet on sale in Ireland",
+      "rate_verified": "estimated",
+      "rate_note": "Not yet on sale"
     },
     {
       "make": "MG",
@@ -3490,7 +3696,9 @@
         "deposit_for_400pm_eur": 33640.62
       },
       "price_verified": "verified",
-      "price_source": "MG Ireland website"
+      "price_source": "MG Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "MG Ireland"
     },
     {
       "make": "MG",
@@ -3523,7 +3731,9 @@
         "deposit_for_400pm_eur": 33640.62
       },
       "price_verified": "verified",
-      "price_source": "MG Ireland website"
+      "price_source": "MG Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "MG Ireland"
     },
     {
       "make": "MG",
@@ -3556,7 +3766,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from MG range"
     },
     {
       "make": "MINI",
@@ -3589,7 +3801,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "BMW Group Ireland press / RTE guide"
+      "price_source": "BMW Group Ireland press / RTE guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed BMW Group rate - check mini.ie"
     },
     {
       "make": "MINI",
@@ -3622,7 +3836,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "BMW Group Ireland press / RTE guide"
+      "price_source": "BMW Group Ireland press / RTE guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed BMW Group rate - check mini.ie"
     },
     {
       "make": "MINI",
@@ -3655,7 +3871,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed BMW Group rate - check mini.ie"
     },
     {
       "make": "Nissan",
@@ -3663,7 +3881,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 23495,
-      "interest_rate_pct": 5.9,
+      "interest_rate_pct": 0,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
@@ -3672,23 +3890,25 @@
       "finance_24m": {
         "gmfv_eur": 12922.25,
         "amount_financed_eur": 13495,
-        "monthly_payment_10k_deposit_eur": 88.89,
-        "deposit_for_400pm_eur": 2973.4
+        "monthly_payment_10k_deposit_eur": 23.86,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 9867.9,
         "amount_financed_eur": 13495,
-        "monthly_payment_10k_deposit_eur": 158.7,
-        "deposit_for_400pm_eur": 2056.28
+        "monthly_payment_10k_deposit_eur": 100.75,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 7518.4,
         "amount_financed_eur": 13495,
-        "monthly_payment_10k_deposit_eur": 177.05,
-        "deposit_for_400pm_eur": 488.26
+        "monthly_payment_10k_deposit_eur": 124.51,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "Nissan Ireland website"
+      "price_source": "Nissan Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Nissan Ireland - 0% on 40kWh Leaf"
     },
     {
       "make": "Nissan",
@@ -3696,7 +3916,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 25995,
-      "interest_rate_pct": 5.9,
+      "interest_rate_pct": 3.99,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
@@ -3705,23 +3925,25 @@
       "finance_24m": {
         "gmfv_eur": 14297.25,
         "amount_financed_eur": 15995,
-        "monthly_payment_10k_deposit_eur": 145.46,
+        "monthly_payment_10k_deposit_eur": 121.26,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 10917.9,
         "amount_financed_eur": 15995,
-        "monthly_payment_10k_deposit_eur": 207.9,
+        "monthly_payment_10k_deposit_eur": 186.18,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 8318.4,
         "amount_financed_eur": 15995,
-        "monthly_payment_10k_deposit_eur": 220.83,
+        "monthly_payment_10k_deposit_eur": 200.95,
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "From Nissan Ireland website"
+      "price_note": "From Nissan Ireland website",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Nissan range"
     },
     {
       "make": "Nissan",
@@ -3729,7 +3951,7 @@
       "year": "2025",
       "type": "HEV",
       "price_eur": 30900,
-      "interest_rate_pct": 5.9,
+      "interest_rate_pct": 3.99,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -3738,23 +3960,25 @@
       "finance_24m": {
         "gmfv_eur": 16995,
         "amount_financed_eur": 20900,
-        "monthly_payment_10k_deposit_eur": 256.45,
-        "deposit_for_400pm_eur": 6757.91
+        "monthly_payment_10k_deposit_eur": 226.07,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 12978,
         "amount_financed_eur": 20900,
-        "monthly_payment_10k_deposit_eur": 304.45,
-        "deposit_for_400pm_eur": 6854.57
+        "monthly_payment_10k_deposit_eur": 277.01,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 9888,
         "amount_financed_eur": 20900,
-        "monthly_payment_10k_deposit_eur": 306.73,
-        "deposit_for_400pm_eur": 6020.71
+        "monthly_payment_10k_deposit_eur": 281.47,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "From Nissan Ireland website"
+      "price_note": "From Nissan Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Nissan Ireland PCP offers"
     },
     {
       "make": "Nissan",
@@ -3762,7 +3986,7 @@
       "year": "2026",
       "type": "BEV",
       "price_eur": 34995,
-      "interest_rate_pct": 5.9,
+      "interest_rate_pct": 3.99,
       "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
@@ -3770,24 +3994,26 @@
       "url": "https://www.nissan.ie/vehicles/new-vehicles/leaf.html",
       "finance_24m": {
         "gmfv_eur": 19247.25,
-        "amount_financed_eur": 21495,
-        "monthly_payment_10k_deposit_eur": 194.15,
-        "deposit_for_400pm_eur": 39570.57
+        "amount_financed_eur": 24995,
+        "monthly_payment_10k_deposit_eur": 313.57,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 14697.9,
-        "amount_financed_eur": 21495,
-        "monthly_payment_10k_deposit_eur": 278.74,
-        "deposit_for_400pm_eur": 30645.94
+        "amount_financed_eur": 24995,
+        "monthly_payment_10k_deposit_eur": 352.84,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 11198.4,
-        "amount_financed_eur": 21495,
-        "monthly_payment_10k_deposit_eur": 296.4,
-        "deposit_for_400pm_eur": 23278.97
+        "amount_financed_eur": 24995,
+        "monthly_payment_10k_deposit_eur": 348.69,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Original dataset - new Leaf may have different price"
+      "price_note": "Original dataset - new Leaf may have different price",
+      "rate_verified": "verified",
+      "rate_source": "Nissan Ireland PCP offers"
     },
     {
       "make": "Nissan",
@@ -3795,7 +4021,7 @@
       "year": "2025",
       "type": "HEV",
       "price_eur": 39900,
-      "interest_rate_pct": 5.9,
+      "interest_rate_pct": 3.99,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -3804,23 +4030,25 @@
       "finance_24m": {
         "gmfv_eur": 21945,
         "amount_financed_eur": 29900,
-        "monthly_payment_10k_deposit_eur": 460.11,
-        "deposit_for_400pm_eur": 11357.6
+        "monthly_payment_10k_deposit_eur": 418.38,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 16758,
         "amount_financed_eur": 29900,
-        "monthly_payment_10k_deposit_eur": 481.6,
-        "deposit_for_400pm_eur": 12686.39
+        "monthly_payment_10k_deposit_eur": 443.67,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 12768,
         "amount_financed_eur": 29900,
-        "monthly_payment_10k_deposit_eur": 464.34,
-        "deposit_for_400pm_eur": 12744.82
+        "monthly_payment_10k_deposit_eur": 429.2,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "From Nissan Ireland website"
+      "price_note": "From Nissan Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Nissan Ireland PCP offers"
     },
     {
       "make": "Nissan",
@@ -3828,7 +4056,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 39995,
-      "interest_rate_pct": 5.9,
+      "interest_rate_pct": 3.99,
       "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
@@ -3837,23 +4065,25 @@
       "finance_24m": {
         "gmfv_eur": 21997.25,
         "amount_financed_eur": 29995,
-        "monthly_payment_10k_deposit_eur": 462.26,
+        "monthly_payment_10k_deposit_eur": 420.41,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 16797.9,
         "amount_financed_eur": 29995,
-        "monthly_payment_10k_deposit_eur": 483.47,
+        "monthly_payment_10k_deposit_eur": 445.43,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 12798.4,
         "amount_financed_eur": 29995,
-        "monthly_payment_10k_deposit_eur": 466,
+        "monthly_payment_10k_deposit_eur": 430.76,
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Nissan Ireland 2-4-1 deals"
     },
     {
       "make": "Nissan",
@@ -3861,7 +4091,7 @@
       "year": "2025",
       "type": "HEV",
       "price_eur": 49495,
-      "interest_rate_pct": 5.9,
+      "interest_rate_pct": 3.99,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -3870,23 +4100,25 @@
       "finance_24m": {
         "gmfv_eur": 27222.25,
         "amount_financed_eur": 39495,
-        "monthly_payment_10k_deposit_eur": 677.23,
-        "deposit_for_400pm_eur": 16261.37
+        "monthly_payment_10k_deposit_eur": 623.4,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 20787.9,
         "amount_financed_eur": 39495,
-        "monthly_payment_10k_deposit_eur": 670.47,
-        "deposit_for_400pm_eur": 18903.75
+        "monthly_payment_10k_deposit_eur": 621.34,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 15838.4,
         "amount_financed_eur": 39495,
-        "monthly_payment_10k_deposit_eur": 632.36,
-        "deposit_for_400pm_eur": 19913.48
+        "monthly_payment_10k_deposit_eur": 586.7,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "From Nissan Ireland website"
+      "price_note": "From Nissan Ireland website",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Nissan range"
     },
     {
       "make": "Nissan",
@@ -3894,7 +4126,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 63995,
-      "interest_rate_pct": 5.9,
+      "interest_rate_pct": 3.99,
       "typical_pcp_term_months": 36,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -3903,23 +4135,25 @@
       "finance_24m": {
         "gmfv_eur": 35197.25,
         "amount_financed_eur": 53995,
-        "monthly_payment_10k_deposit_eur": 1005.33,
-        "deposit_for_400pm_eur": 86249.37
+        "monthly_payment_10k_deposit_eur": 933.24,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 26877.9,
         "amount_financed_eur": 53995,
-        "monthly_payment_10k_deposit_eur": 955.88,
-        "deposit_for_400pm_eur": 73354.52
+        "monthly_payment_10k_deposit_eur": 889.85,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 20478.4,
         "amount_financed_eur": 53995,
-        "monthly_payment_10k_deposit_eur": 886.29,
-        "deposit_for_400pm_eur": 63112.38
+        "monthly_payment_10k_deposit_eur": 824.71,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "May be outdated - check nissan.ie"
+      "price_note": "May be outdated - check nissan.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as 63kWh Ariya"
     },
     {
       "make": "Opel",
@@ -3952,7 +4186,9 @@
         "deposit_for_400pm_eur": 10010.9
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Opel Ireland"
     },
     {
       "make": "Opel",
@@ -3985,7 +4221,9 @@
         "deposit_for_400pm_eur": 14916.68
       },
       "price_verified": "verified",
-      "price_source": "Opel Ireland website"
+      "price_source": "Opel Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Opel Ireland"
     },
     {
       "make": "Opel",
@@ -4018,7 +4256,9 @@
         "deposit_for_400pm_eur": 13521.5
       },
       "price_verified": "verified",
-      "price_source": "Opel Ireland website"
+      "price_source": "Opel Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Opel Ireland"
     },
     {
       "make": "Opel",
@@ -4051,7 +4291,9 @@
         "deposit_for_400pm_eur": 20050.22
       },
       "price_verified": "verified",
-      "price_source": "Opel Ireland website"
+      "price_source": "Opel Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Opel Ireland"
     },
     {
       "make": "Opel",
@@ -4084,7 +4326,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Opel range"
     },
     {
       "make": "Opel",
@@ -4117,7 +4361,9 @@
         "deposit_for_400pm_eur": 17970.14
       },
       "price_verified": "verified",
-      "price_source": "Opel Ireland website"
+      "price_source": "Opel Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Opel Ireland"
     },
     {
       "make": "Opel",
@@ -4150,7 +4396,9 @@
         "deposit_for_400pm_eur": 6914.1
       },
       "price_verified": "estimated",
-      "price_note": "From Opel Ireland offers"
+      "price_note": "From Opel Ireland offers",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Opel range"
     },
     {
       "make": "Opel",
@@ -4183,7 +4431,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Opel range"
     },
     {
       "make": "Opel",
@@ -4216,7 +4466,9 @@
         "deposit_for_400pm_eur": 7629.1
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check opel.ie"
+      "price_note": "Estimated - check opel.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Opel range"
     },
     {
       "make": "Opel",
@@ -4249,7 +4501,9 @@
         "deposit_for_400pm_eur": 28512.19
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Opel Ireland"
     },
     {
       "make": "Opel",
@@ -4282,7 +4536,9 @@
         "deposit_for_400pm_eur": 30895.56
       },
       "price_verified": "verified",
-      "price_source": "Opel Ireland website"
+      "price_source": "Opel Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Opel Ireland"
     },
     {
       "make": "Opel",
@@ -4315,7 +4571,9 @@
         "deposit_for_400pm_eur": 34470.72
       },
       "price_verified": "verified",
-      "price_source": "Opel Ireland website"
+      "price_source": "Opel Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Opel Ireland"
     },
     {
       "make": "Opel",
@@ -4348,7 +4606,9 @@
         "deposit_for_400pm_eur": 11204.14
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from Astra Electric"
+      "price_note": "Estimated from Astra Electric",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Opel range"
     },
     {
       "make": "Opel",
@@ -4381,7 +4641,9 @@
         "deposit_for_400pm_eur": 37018.41
       },
       "price_verified": "verified",
-      "price_source": "Opel Ireland website"
+      "price_source": "Opel Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Opel Ireland"
     },
     {
       "make": "Opel",
@@ -4414,7 +4676,9 @@
         "deposit_for_400pm_eur": 34496.73
       },
       "price_verified": "verified",
-      "price_source": "Opel Ireland website"
+      "price_source": "Opel Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Opel Ireland"
     },
     {
       "make": "Opel",
@@ -4447,7 +4711,9 @@
         "deposit_for_400pm_eur": 39566.11
       },
       "price_verified": "verified",
-      "price_source": "Opel Ireland website"
+      "price_source": "Opel Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Opel Ireland"
     },
     {
       "make": "Peugeot",
@@ -4480,7 +4746,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Peugeot",
@@ -4513,7 +4781,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Peugeot",
@@ -4546,7 +4816,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Peugeot EV range"
     },
     {
       "make": "Peugeot",
@@ -4579,7 +4851,9 @@
         "deposit_for_400pm_eur": 9839.45
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check peugeot.ie"
+      "price_note": "Estimated - check peugeot.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed for hybrid models"
     },
     {
       "make": "Peugeot",
@@ -4612,7 +4886,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Peugeot EV range"
     },
     {
       "make": "Peugeot",
@@ -4645,7 +4921,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Peugeot EV range"
     },
     {
       "make": "Peugeot",
@@ -4678,7 +4956,9 @@
         "deposit_for_400pm_eur": 38935.55
       },
       "price_verified": "estimated",
-      "price_note": "From original dataset - verify"
+      "price_note": "From original dataset - verify",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Peugeot",
@@ -4711,7 +4991,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Peugeot EV range"
     },
     {
       "make": "Peugeot",
@@ -4744,7 +5026,9 @@
         "deposit_for_400pm_eur": 40203.03
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check peugeot.ie"
+      "price_note": "Estimated - check peugeot.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed for hybrid models"
     },
     {
       "make": "Peugeot",
@@ -4777,7 +5061,9 @@
         "deposit_for_400pm_eur": 20368.65
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check peugeot.ie"
+      "price_note": "Estimated - check peugeot.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed for hybrid models"
     },
     {
       "make": "Peugeot",
@@ -4810,7 +5096,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Peugeot EV range"
     },
     {
       "make": "Polestar",
@@ -4843,7 +5131,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "Polestar Ireland / RTE guide"
+      "price_source": "Polestar Ireland / RTE guide",
+      "rate_verified": "verified",
+      "rate_source": "Polestar Ireland PCP, 261 offers"
     },
     {
       "make": "Polestar",
@@ -4876,7 +5166,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "From Polestar Ireland website"
+      "price_note": "From Polestar Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Polestar Ireland PCP"
     },
     {
       "make": "Polestar",
@@ -4909,7 +5201,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Spirit Polestar Dublin, 261 offers"
     },
     {
       "make": "Polestar",
@@ -4942,7 +5236,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Polestar Ireland PCP, 261 offers"
     },
     {
       "make": "Porsche",
@@ -4975,7 +5271,9 @@
         "deposit_for_400pm_eur": 50835.65
       },
       "price_verified": "estimated",
-      "price_note": "From web search"
+      "price_note": "From web search",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check porsche.ie configurator"
     },
     {
       "make": "Porsche",
@@ -5008,7 +5306,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check porsche.ie configurator"
     },
     {
       "make": "Porsche",
@@ -5041,7 +5341,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "Porsche Ireland configurator"
+      "price_source": "Porsche Ireland configurator",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check porsche.ie configurator"
     },
     {
       "make": "Porsche",
@@ -5074,7 +5376,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check porsche.ie configurator"
     },
     {
       "make": "Porsche",
@@ -5107,7 +5411,9 @@
         "deposit_for_400pm_eur": 143421.99
       },
       "price_verified": "estimated",
-      "price_note": "From original dataset - may be outdated"
+      "price_note": "From original dataset - may be outdated",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check porsche.ie configurator"
     },
     {
       "make": "Porsche",
@@ -5140,7 +5446,9 @@
         "deposit_for_400pm_eur": 145542.82
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check Porsche Ireland configurator"
+      "price_note": "Estimated - check Porsche Ireland configurator",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check porsche.ie configurator"
     },
     {
       "make": "Porsche",
@@ -5173,7 +5481,9 @@
         "deposit_for_400pm_eur": 98282.23
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from Porsche range"
+      "price_note": "Estimated from Porsche range",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check porsche.ie configurator"
     },
     {
       "make": "Porsche",
@@ -5206,7 +5516,9 @@
         "deposit_for_400pm_eur": 118914.06
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from Porsche range"
+      "price_note": "Estimated from Porsche range",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check porsche.ie configurator"
     },
     {
       "make": "Renault",
@@ -5239,7 +5551,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Not yet on sale in Ireland"
+      "price_note": "Not yet on sale in Ireland",
+      "rate_verified": "estimated",
+      "rate_note": "Not yet on sale"
     },
     {
       "make": "Renault",
@@ -5272,7 +5586,9 @@
         "deposit_for_400pm_eur": 11862.99
       },
       "price_verified": "verified",
-      "price_source": "Renault Ireland price list April 2026"
+      "price_source": "Renault Ireland price list April 2026",
+      "rate_verified": "verified",
+      "rate_source": "Renault Ireland offers"
     },
     {
       "make": "Renault",
@@ -5305,7 +5621,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Renault range"
     },
     {
       "make": "Renault",
@@ -5338,7 +5656,9 @@
         "deposit_for_400pm_eur": 3667.16
       },
       "price_verified": "verified",
-      "price_source": "Renault Ireland price list April 2026"
+      "price_source": "Renault Ireland price list April 2026",
+      "rate_verified": "verified",
+      "rate_source": "Renault Ireland offers"
     },
     {
       "make": "Renault",
@@ -5371,7 +5691,9 @@
         "deposit_for_400pm_eur": 21088.94
       },
       "price_verified": "verified",
-      "price_source": "Renault Ireland price list April 2026"
+      "price_source": "Renault Ireland price list April 2026",
+      "rate_verified": "verified",
+      "rate_source": "Renault Ireland offers"
     },
     {
       "make": "Renault",
@@ -5404,7 +5726,9 @@
         "deposit_for_400pm_eur": 5482.54
       },
       "price_verified": "estimated",
-      "price_note": "From Renault price list - higher trim"
+      "price_note": "From Renault price list - higher trim",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Renault range"
     },
     {
       "make": "Renault",
@@ -5437,7 +5761,9 @@
         "deposit_for_400pm_eur": 5482.54
       },
       "price_verified": "verified",
-      "price_source": "Renault Ireland price list April 2026"
+      "price_source": "Renault Ireland price list April 2026",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Renault range"
     },
     {
       "make": "Renault",
@@ -5470,7 +5796,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Renault Ireland offers"
     },
     {
       "make": "Renault",
@@ -5503,7 +5831,9 @@
         "deposit_for_400pm_eur": 29696.87
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Renault Ireland offers"
     },
     {
       "make": "Renault",
@@ -5536,7 +5866,9 @@
         "deposit_for_400pm_eur": 12744.05
       },
       "price_verified": "verified",
-      "price_source": "Renault Ireland price list April 2026"
+      "price_source": "Renault Ireland price list April 2026",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Renault range"
     },
     {
       "make": "Renault",
@@ -5569,7 +5901,9 @@
         "deposit_for_400pm_eur": 15285.58
       },
       "price_verified": "verified",
-      "price_source": "Renault Ireland price list April 2026"
+      "price_source": "Renault Ireland price list April 2026",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as base Scenic"
     },
     {
       "make": "Renault",
@@ -5602,7 +5936,9 @@
         "deposit_for_400pm_eur": 16737.89
       },
       "price_verified": "verified",
-      "price_source": "Renault Ireland price list April 2026"
+      "price_source": "Renault Ireland price list April 2026",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Renault range"
     },
     {
       "make": "Skoda",
@@ -5635,7 +5971,9 @@
         "deposit_for_400pm_eur": 7690.6
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from base Elroq"
+      "price_note": "Estimated from base Elroq",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as base Elroq"
     },
     {
       "make": "Skoda",
@@ -5668,7 +6006,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Skoda",
@@ -5701,7 +6041,9 @@
         "deposit_for_400pm_eur": 11770.6
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from base Elroq"
+      "price_note": "Estimated from base Elroq",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as base Elroq"
     },
     {
       "make": "Skoda",
@@ -5734,7 +6076,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Skoda",
@@ -5767,7 +6111,9 @@
         "deposit_for_400pm_eur": 39274
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check skoda.ie"
+      "price_note": "Estimated - check skoda.ie",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Skoda",
@@ -5800,7 +6146,9 @@
         "deposit_for_400pm_eur": 13406
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from Enyaq pricing"
+      "price_note": "Estimated from Enyaq pricing",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as Enyaq"
     },
     {
       "make": "Skoda",
@@ -5833,7 +6181,9 @@
         "deposit_for_400pm_eur": 52041.07
       },
       "price_verified": "verified",
-      "price_source": "Original dataset"
+      "price_source": "Original dataset",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Skoda",
@@ -5866,7 +6216,9 @@
         "deposit_for_400pm_eur": 22319.28
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check skoda.ie"
+      "price_note": "Estimated - check skoda.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as Superb PHEV"
     },
     {
       "make": "Smart",
@@ -5899,7 +6251,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "Smart Ireland / RTE April 2026 guide"
+      "price_source": "Smart Ireland / RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check smartelectric.ie"
     },
     {
       "make": "Smart",
@@ -5932,7 +6286,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check smartelectric.ie"
     },
     {
       "make": "Subaru",
@@ -5965,7 +6321,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "Subaru Ireland / RTE guide"
+      "price_source": "Subaru Ireland / RTE guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check subaru.ie"
     },
     {
       "make": "Suzuki",
@@ -5998,7 +6356,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "From dealer listing - verify on suzuki.ie"
+      "price_note": "From dealer listing - verify on suzuki.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check suzuki.ie"
     },
     {
       "make": "Tesla",
@@ -6031,7 +6391,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Tesla",
@@ -6064,7 +6426,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Tesla",
@@ -6097,7 +6461,9 @@
         "deposit_for_400pm_eur": 13600.86
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from RWD price + typical LR premium"
+      "price_note": "Estimated from RWD price + typical LR premium",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as Model 3 RWD"
     },
     {
       "make": "Tesla",
@@ -6130,7 +6496,9 @@
         "deposit_for_400pm_eur": 17368.34
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from RWD price + typical LR premium"
+      "price_note": "Estimated from RWD price + typical LR premium",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as Model Y RWD"
     },
     {
       "make": "Tesla",
@@ -6163,7 +6531,9 @@
         "deposit_for_400pm_eur": 18884.35
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check tesla.com/en_ie"
+      "price_note": "Estimated - check tesla.com/en_ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as Model 3 RWD"
     },
     {
       "make": "Tesla",
@@ -6196,7 +6566,9 @@
         "deposit_for_400pm_eur": 22299.59
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check tesla.com/en_ie"
+      "price_note": "Estimated - check tesla.com/en_ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as Model Y RWD"
     },
     {
       "make": "Toyota",
@@ -6204,7 +6576,7 @@
       "year": "2026",
       "type": "HEV",
       "price_eur": 24195,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 5.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -6213,23 +6585,25 @@
       "finance_24m": {
         "gmfv_eur": 13307.25,
         "amount_financed_eur": 14195,
-        "monthly_payment_10k_deposit_eur": 81.76,
-        "deposit_for_400pm_eur": 27284.54
+        "monthly_payment_10k_deposit_eur": 104.73,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 10161.9,
         "amount_financed_eur": 14195,
-        "monthly_payment_10k_deposit_eur": 151.92,
-        "deposit_for_400pm_eur": 19667.85
+        "monthly_payment_10k_deposit_eur": 172.47,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 7742.4,
         "amount_financed_eur": 14195,
-        "monthly_payment_10k_deposit_eur": 170.57,
-        "deposit_for_400pm_eur": 13070.07
+        "monthly_payment_10k_deposit_eur": 189.31,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "Toyota Ireland website"
+      "price_source": "Toyota Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "CompleteCar.ie Toyota 261 offers"
     },
     {
       "make": "Toyota",
@@ -6262,7 +6636,9 @@
         "deposit_for_400pm_eur": 16135.79
       },
       "price_verified": "verified",
-      "price_source": "Toyota Ireland website"
+      "price_source": "Toyota Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Toyota",
@@ -6295,7 +6671,9 @@
         "deposit_for_400pm_eur": 4396.94
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check toyota.ie"
+      "price_note": "Estimated - check toyota.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check toyota.ie"
     },
     {
       "make": "Toyota",
@@ -6328,7 +6706,9 @@
         "deposit_for_400pm_eur": 24912.09
       },
       "price_verified": "verified",
-      "price_source": "Toyota Ireland website"
+      "price_source": "Toyota Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Toyota",
@@ -6361,7 +6741,9 @@
         "deposit_for_400pm_eur": 26175.24
       },
       "price_verified": "verified",
-      "price_source": "Toyota Ireland website"
+      "price_source": "Toyota Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Toyota",
@@ -6394,7 +6776,9 @@
         "deposit_for_400pm_eur": 8754.82
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check toyota.ie"
+      "price_note": "Estimated - check toyota.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as Corolla"
     },
     {
       "make": "Toyota",
@@ -6427,7 +6811,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Not yet on sale in Ireland"
+      "price_note": "Not yet on sale in Ireland",
+      "rate_verified": "estimated",
+      "rate_note": "Not yet on sale"
     },
     {
       "make": "Toyota",
@@ -6460,7 +6846,9 @@
         "deposit_for_400pm_eur": 30655.54
       },
       "price_verified": "verified",
-      "price_source": "Toyota Ireland website"
+      "price_source": "Toyota Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Toyota",
@@ -6493,7 +6881,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "CompleteCar.ie - 3.9% or €2k booster"
     },
     {
       "make": "Toyota",
@@ -6501,7 +6891,7 @@
       "year": "2026",
       "type": "PHEV",
       "price_eur": 42205,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -6510,23 +6900,25 @@
       "finance_24m": {
         "gmfv_eur": 23212.75,
         "amount_financed_eur": 32205,
-        "monthly_payment_10k_deposit_eur": 465.53,
-        "deposit_for_400pm_eur": 54457.94
+        "monthly_payment_10k_deposit_eur": 488.89,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 17726.1,
         "amount_financed_eur": 32205,
-        "monthly_payment_10k_deposit_eur": 484.44,
-        "deposit_for_400pm_eur": 44408.13
+        "monthly_payment_10k_deposit_eur": 505.68,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 13505.6,
         "amount_financed_eur": 32205,
-        "monthly_payment_10k_deposit_eur": 465.27,
-        "deposit_for_400pm_eur": 36012.07
+        "monthly_payment_10k_deposit_eur": 484.94,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "Toyota Ireland website"
+      "price_source": "Toyota Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "CompleteCar.ie - 4.9% or €2k booster"
     },
     {
       "make": "Toyota",
@@ -6559,7 +6951,9 @@
         "deposit_for_400pm_eur": 40575.14
       },
       "price_verified": "verified",
-      "price_source": "Toyota Ireland website"
+      "price_source": "Toyota Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Toyota",
@@ -6592,7 +6986,9 @@
         "deposit_for_400pm_eur": 41705.66
       },
       "price_verified": "verified",
-      "price_source": "Toyota Ireland website"
+      "price_source": "Toyota Ireland website",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Toyota",
@@ -6625,7 +7021,9 @@
         "deposit_for_400pm_eur": 21498.66
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check toyota.ie"
+      "price_note": "Estimated - check toyota.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as RAV4 Hybrid"
     },
     {
       "make": "Toyota",
@@ -6658,7 +7056,9 @@
         "deposit_for_400pm_eur": 28277.69
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check toyota.ie"
+      "price_note": "Estimated - check toyota.ie",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from Toyota range"
     },
     {
       "make": "Volkswagen",
@@ -6691,7 +7091,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Volkswagen",
@@ -6724,7 +7126,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Volkswagen",
@@ -6757,7 +7161,9 @@
         "deposit_for_400pm_eur": 9594.75
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from ID.3 Pure pricing"
+      "price_note": "Estimated from ID.3 Pure pricing",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as ID.3 Pure"
     },
     {
       "make": "Volkswagen",
@@ -6790,7 +7196,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Volkswagen",
@@ -6823,7 +7231,9 @@
         "deposit_for_400pm_eur": 11148.4
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from ID.4 Pure"
+      "price_note": "Estimated from ID.4 Pure",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as ID.4 Pure"
     },
     {
       "make": "Volkswagen",
@@ -6856,7 +7266,9 @@
         "deposit_for_400pm_eur": 12780.4
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from ID.5 Pure"
+      "price_note": "Estimated from ID.5 Pure",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as ID.5 Pure"
     },
     {
       "make": "Volkswagen",
@@ -6889,7 +7301,9 @@
         "deposit_for_400pm_eur": 46505.11
       },
       "price_verified": "estimated",
-      "price_note": "From original dataset"
+      "price_note": "From original dataset",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Volkswagen",
@@ -6922,7 +7336,9 @@
         "deposit_for_400pm_eur": 50315.8
       },
       "price_verified": "estimated",
-      "price_note": "From original dataset"
+      "price_note": "From original dataset",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Volkswagen",
@@ -6955,7 +7371,9 @@
         "deposit_for_400pm_eur": 20454.2
       },
       "price_verified": "estimated",
-      "price_note": "Estimated"
+      "price_note": "Estimated",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed same as ID.5 range"
     },
     {
       "make": "Volkswagen",
@@ -6988,7 +7406,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Volkswagen",
@@ -7021,7 +7441,9 @@
         "deposit_for_400pm_eur": 68588.49
       },
       "price_verified": "estimated",
-      "price_note": "From original dataset"
+      "price_note": "From original dataset",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Volkswagen",
@@ -7054,7 +7476,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from ID.7 range"
     },
     {
       "make": "Volkswagen",
@@ -7087,7 +7511,9 @@
         "deposit_for_400pm_eur": 71598.48
       },
       "price_verified": "estimated",
-      "price_note": "From original dataset"
+      "price_note": "From original dataset",
+      "rate_verified": "verified",
+      "rate_source": "Original dataset"
     },
     {
       "make": "Volkswagen",
@@ -7120,7 +7546,9 @@
         "deposit_for_400pm_eur": 32592.34
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from ID.Buzz Pro"
+      "price_note": "Estimated from ID.Buzz Pro",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from ID.7 range"
     },
     {
       "make": "Volvo",
@@ -7128,7 +7556,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 41555,
-      "interest_rate_pct": 4.9,
+      "interest_rate_pct": 3.95,
       "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
@@ -7137,23 +7565,25 @@
       "finance_24m": {
         "gmfv_eur": 22855.25,
         "amount_financed_eur": 31555,
-        "monthly_payment_10k_deposit_eur": 474.61,
+        "monthly_payment_10k_deposit_eur": 452.82,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 17453.1,
         "amount_financed_eur": 31555,
-        "monthly_payment_10k_deposit_eur": 493.28,
+        "monthly_payment_10k_deposit_eur": 473.48,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 13297.6,
         "amount_financed_eur": 31555,
-        "monthly_payment_10k_deposit_eur": 473.93,
+        "monthly_payment_10k_deposit_eur": 455.6,
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "verified",
+      "rate_source": "Volvo Ireland - Core 3.95%, Plus/Ultra 0%"
     },
     {
       "make": "Volvo",
@@ -7161,7 +7591,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 49655,
-      "interest_rate_pct": 4.9,
+      "interest_rate_pct": 3.95,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
@@ -7170,23 +7600,25 @@
       "finance_24m": {
         "gmfv_eur": 27310.25,
         "amount_financed_eur": 39655,
-        "monthly_payment_10k_deposit_eur": 652.55,
-        "deposit_for_400pm_eur": 15762.38
+        "monthly_payment_10k_deposit_eur": 625.69,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 20855.1,
         "amount_financed_eur": 39655,
-        "monthly_payment_10k_deposit_eur": 647.76,
-        "deposit_for_400pm_eur": 18279.23
+        "monthly_payment_10k_deposit_eur": 623.28,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 15889.6,
         "amount_financed_eur": 39655,
-        "monthly_payment_10k_deposit_eur": 611.11,
-        "deposit_for_400pm_eur": 19184.95
+        "monthly_payment_10k_deposit_eur": 588.37,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Estimated from EX30 Plus pricing"
+      "price_note": "Estimated from EX30 Plus pricing",
+      "rate_verified": "estimated",
+      "rate_note": "Assumed from EX30 range"
     },
     {
       "make": "Volvo",
@@ -7219,7 +7651,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check volvocars.com/ie"
     },
     {
       "make": "Volvo",
@@ -7252,7 +7686,9 @@
         "deposit_for_400pm_eur": 23119.73
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check volvocars.com/ie"
+      "price_note": "Estimated - check volvocars.com/ie",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check volvocars.com/ie"
     },
     {
       "make": "Volvo",
@@ -7285,7 +7721,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check volvocars.com/ie"
     },
     {
       "make": "Volvo",
@@ -7318,7 +7756,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Not yet on sale - estimated pricing"
+      "price_note": "Not yet on sale - estimated pricing",
+      "rate_verified": "estimated",
+      "rate_note": "Not yet on sale"
     },
     {
       "make": "Volvo",
@@ -7351,7 +7791,9 @@
         "deposit_for_400pm_eur": 31961.94
       },
       "price_verified": "estimated",
-      "price_note": "Estimated - check volvocars.com/ie"
+      "price_note": "Estimated - check volvocars.com/ie",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check volvocars.com/ie"
     },
     {
       "make": "Volvo",
@@ -7384,7 +7826,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Not yet on sale"
     },
     {
       "make": "Volvo",
@@ -7417,7 +7861,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
-      "price_source": "RTE April 2026 guide"
+      "price_source": "RTE April 2026 guide",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check volvocars.com/ie"
     },
     {
       "make": "Xpeng",
@@ -7450,7 +7896,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "From Irish Times article Feb 2025"
+      "price_note": "From Irish Times article Feb 2025",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check with MSL Xpeng Dublin"
     },
     {
       "make": "Xpeng",
@@ -7483,7 +7931,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "Not yet confirmed for Ireland"
+      "price_note": "Not yet confirmed for Ireland",
+      "rate_verified": "estimated",
+      "rate_note": "Estimated - check with MSL Xpeng Dublin"
     },
     {
       "make": "Zeekr",
@@ -7516,7 +7966,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "No Irish pricing confirmed yet"
+      "price_note": "No Irish pricing confirmed yet",
+      "rate_verified": "estimated",
+      "rate_note": "No Irish PCP data yet"
     },
     {
       "make": "Zeekr",
@@ -7549,7 +8001,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "No Irish pricing confirmed yet"
+      "price_note": "No Irish pricing confirmed yet",
+      "rate_verified": "estimated",
+      "rate_note": "No Irish PCP data yet"
     },
     {
       "make": "Zeekr",
@@ -7582,7 +8036,9 @@
         "deposit_for_400pm_eur": 0
       },
       "price_verified": "estimated",
-      "price_note": "No Irish pricing confirmed yet"
+      "price_note": "No Irish pricing confirmed yet",
+      "rate_verified": "estimated",
+      "rate_note": "No Irish PCP data yet"
     }
   ]
 }

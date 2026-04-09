@@ -135,7 +135,12 @@ export default function CarCard({ car, mode, deposit, calculatedData, targetMont
               <PriceWarning note={car.price_note} />
             )}
           </div>
-          <div className="text-[10px] text-gray-400">{car.interest_rate_pct}% APR</div>
+          <div className="flex items-center justify-end gap-1">
+            <span className="text-[10px] text-gray-400">{car.interest_rate_pct}% APR</span>
+            {car.rate_verified === 'estimated' && (
+              <PriceWarning note={car.rate_note} />
+            )}
+          </div>
         </div>
       </div>
 
