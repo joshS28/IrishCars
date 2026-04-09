@@ -9,6 +9,32 @@ const TYPE_COLORS = {
   PHEV: 'bg-purple-100 text-purple-800',
 }
 
+function PriceWarning({ note }) {
+  const [show, setShow] = useState(false)
+
+  return (
+    <span className="relative inline-flex">
+      <span
+        className="inline-flex items-center gap-0.5 bg-amber-100 text-amber-700 text-[9px] font-medium px-1.5 py-0.5 rounded-full cursor-help border border-amber-200"
+        onMouseEnter={() => setShow(true)}
+        onMouseLeave={() => setShow(false)}
+        onClick={() => setShow(!show)}
+      >
+        Est.
+        <svg xmlns="http://www.w3.org/2000/svg" className="h-2.5 w-2.5" viewBox="0 0 20 20" fill="currentColor">
+          <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+        </svg>
+      </span>
+      {show && (
+        <span className="absolute z-[100] top-full right-0 mt-1 w-52 bg-gray-900 text-white text-[10px] rounded-lg px-2.5 py-2 shadow-lg leading-tight pointer-events-none">
+          {note || 'Price is estimated and may not be accurate'}
+          <span className="absolute bottom-full right-3 border-4 border-transparent border-b-gray-900" />
+        </span>
+      )}
+    </span>
+  )
+}
+
 function FinanceColumn({ label, deposit, monthly, gmfv, isDepositResult }) {
   const depositNegative = deposit < 0
   const monthlyNegative = monthly < 0
@@ -103,7 +129,12 @@ export default function CarCard({ car, mode, deposit, calculatedData, targetMont
           </div>
         </div>
         <div className="text-right">
-          <div className="text-lg font-bold text-gray-900">{formatCurrency(car.price_eur)}</div>
+          <div className="flex items-center justify-end gap-1.5">
+            <span className="text-lg font-bold text-gray-900">{formatCurrency(car.price_eur)}</span>
+            {car.price_verified === 'estimated' && (
+              <PriceWarning note={car.price_note} />
+            )}
+          </div>
           <div className="text-[10px] text-gray-400">{car.interest_rate_pct}% APR</div>
         </div>
       </div>

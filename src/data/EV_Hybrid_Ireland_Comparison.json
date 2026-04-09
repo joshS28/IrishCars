@@ -89,38 +89,42 @@
         "amount_financed_eur": 24995,
         "monthly_payment_10k_deposit_eur": 362.83,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Alfa Romeo Ireland website"
     },
     {
       "make": "Audi",
       "model": "Q4 e-tron 40",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 48390,
+      "price_eur": 51980,
       "interest_rate_pct": 3.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 48390,
+      "net_price_after_grant_eur": 51980,
       "url": "https://www.audi.ie/en/models/q4-e-tron/",
       "finance_24m": {
-        "gmfv_eur": 26614.5,
-        "amount_financed_eur": 38390,
-        "monthly_payment_10k_deposit_eur": 597.32,
+        "gmfv_eur": 28589,
+        "amount_financed_eur": 41980,
+        "monthly_payment_10k_deposit_eur": 673.82,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 20323.8,
-        "amount_financed_eur": 38390,
-        "monthly_payment_10k_deposit_eur": 598.64,
+        "gmfv_eur": 21831.6,
+        "amount_financed_eur": 41980,
+        "monthly_payment_10k_deposit_eur": 664.92,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 15484.8,
-        "amount_financed_eur": 38390,
-        "monthly_payment_10k_deposit_eur": 566.48,
+        "gmfv_eur": 16633.6,
+        "amount_financed_eur": 41980,
+        "monthly_payment_10k_deposit_eur": 625.22,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Audi",
@@ -151,7 +155,9 @@
         "amount_financed_eur": 46390,
         "monthly_payment_10k_deposit_eur": 697.39,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "No Irish source for this specific trim"
     },
     {
       "make": "Audi",
@@ -182,7 +188,9 @@
         "amount_financed_eur": 58500,
         "monthly_payment_10k_deposit_eur": 895.55,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from European pricing"
     },
     {
       "make": "Audi",
@@ -213,38 +221,42 @@
         "amount_financed_eur": 64500,
         "monthly_payment_10k_deposit_eur": 993.73,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Audi",
       "model": "SQ6 e-tron",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 94500,
+      "price_eur": 107235,
       "interest_rate_pct": 3.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 94500,
+      "net_price_after_grant_eur": 107235,
       "url": "https://www.audi.ie/en/models/q6-e-tron/",
       "finance_24m": {
-        "gmfv_eur": 51975,
-        "amount_financed_eur": 84500,
-        "monthly_payment_10k_deposit_eur": 1579.87,
+        "gmfv_eur": 58979.25,
+        "amount_financed_eur": 97235,
+        "monthly_payment_10k_deposit_eur": 1851.23,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 39690,
-        "amount_financed_eur": 84500,
-        "monthly_payment_10k_deposit_eur": 1449.97,
+        "gmfv_eur": 45038.7,
+        "amount_financed_eur": 97235,
+        "monthly_payment_10k_deposit_eur": 1685.1,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 30240,
-        "amount_financed_eur": 84500,
-        "monthly_payment_10k_deposit_eur": 1320.99,
+        "gmfv_eur": 34315.2,
+        "amount_financed_eur": 97235,
+        "monthly_payment_10k_deposit_eur": 1529.38,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Audi",
@@ -275,7 +287,9 @@
         "amount_financed_eur": 110000,
         "monthly_payment_10k_deposit_eur": 1738.26,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check audi.ie for current price"
     },
     {
       "make": "Audi",
@@ -306,7 +320,9 @@
         "amount_financed_eur": 167650,
         "monthly_payment_10k_deposit_eur": 2681.61,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "BMW",
@@ -337,38 +353,42 @@
         "amount_financed_eur": 38975,
         "monthly_payment_10k_deposit_eur": 578.42,
         "deposit_for_400pm_eur": 45380.34
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "BMW Ireland press release"
     },
     {
       "make": "BMW",
       "model": "iX2 xDrive30",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 59275,
+      "price_eur": 70695,
       "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 59275,
+      "net_price_after_grant_eur": 70695,
       "url": "https://www.bmw.ie/en/all-models/bmw-i/ix2/bmw-ix2.html",
       "finance_24m": {
-        "gmfv_eur": 32601.25,
-        "amount_financed_eur": 49275,
-        "monthly_payment_10k_deposit_eur": 863.88,
-        "deposit_for_400pm_eur": 20584.34
+        "gmfv_eur": 38882.25,
+        "amount_financed_eur": 60695,
+        "monthly_payment_10k_deposit_eur": 1114.75,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 24895.5,
-        "amount_financed_eur": 49275,
-        "monthly_payment_10k_deposit_eur": 831.24,
-        "deposit_for_400pm_eur": 24410.14
+        "gmfv_eur": 29691.9,
+        "amount_financed_eur": 60695,
+        "monthly_payment_10k_deposit_eur": 1049.04,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 18968,
-        "amount_financed_eur": 49275,
-        "monthly_payment_10k_deposit_eur": 774.03,
-        "deposit_for_400pm_eur": 26273.45
-      }
+        "gmfv_eur": 22622.4,
+        "amount_financed_eur": 60695,
+        "monthly_payment_10k_deposit_eur": 967.44,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "BMW",
@@ -399,7 +419,9 @@
         "amount_financed_eur": 63925,
         "monthly_payment_10k_deposit_eur": 1022.14,
         "deposit_for_400pm_eur": 75974.89
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "New Neue Klasse model - verify on bmw.ie"
     },
     {
       "make": "BMW",
@@ -430,7 +452,9 @@
         "amount_financed_eur": 64095,
         "monthly_payment_10k_deposit_eur": 1025.02,
         "deposit_for_400pm_eur": 37193.59
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "RTE listed Touring variant - sedan price estimated"
     },
     {
       "make": "BMW",
@@ -461,7 +485,9 @@
         "amount_financed_eur": 64895,
         "monthly_payment_10k_deposit_eur": 1038.57,
         "deposit_for_400pm_eur": 77200.14
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "BMW",
@@ -492,7 +518,9 @@
         "amount_financed_eur": 77895,
         "monthly_payment_10k_deposit_eur": 1258.73,
         "deposit_for_400pm_eur": 47362.13
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "No official Irish source found"
     },
     {
       "make": "BMW",
@@ -523,38 +551,9 @@
         "amount_financed_eur": 93895,
         "monthly_payment_10k_deposit_eur": 1529.7,
         "deposit_for_400pm_eur": 59151.75
-      }
-    },
-    {
-      "make": "BMW",
-      "model": "i7 xDrive60",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 138995,
-      "interest_rate_pct": 4.9,
-      "typical_pcp_term_months": 37,
-      "grant_eligible": "No",
-      "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 138995,
-      "url": "https://www.bmw.ie/en/all-models/bmw-i/i7/2022/bmw-i7-saloon-highlights.html",
-      "finance_24m": {
-        "gmfv_eur": 76447.25,
-        "amount_financed_eur": 128995,
-        "monthly_payment_10k_deposit_eur": 2615.15,
-        "deposit_for_400pm_eur": 0
       },
-      "finance_36m": {
-        "gmfv_eur": 58377.9,
-        "amount_financed_eur": 128995,
-        "monthly_payment_10k_deposit_eur": 2351.67,
-        "deposit_for_400pm_eur": 0
-      },
-      "finance_48m": {
-        "gmfv_eur": 44478.4,
-        "amount_financed_eur": 128995,
-        "monthly_payment_10k_deposit_eur": 2124.15,
-        "deposit_for_400pm_eur": 0
-      }
+      "price_verified": "estimated",
+      "price_note": "No official Irish source found"
     },
     {
       "make": "BMW",
@@ -585,7 +584,42 @@
         "amount_financed_eur": 130665,
         "monthly_payment_10k_deposit_eur": 2152.43,
         "deposit_for_400pm_eur": 160277.45
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
+    },
+    {
+      "make": "BMW",
+      "model": "i7 xDrive60",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 142555,
+      "interest_rate_pct": 4.9,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "No",
+      "seai_grant_eur": 0,
+      "net_price_after_grant_eur": 142555,
+      "url": "https://www.bmw.ie/en/all-models/bmw-i/i7/2022/bmw-i7-saloon-highlights.html",
+      "finance_24m": {
+        "gmfv_eur": 78405.25,
+        "amount_financed_eur": 132555,
+        "monthly_payment_10k_deposit_eur": 2693.36,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 59873.1,
+        "amount_financed_eur": 132555,
+        "monthly_payment_10k_deposit_eur": 2419.56,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 45617.6,
+        "amount_financed_eur": 132555,
+        "monthly_payment_10k_deposit_eur": 2184.44,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "BYD",
@@ -616,7 +650,9 @@
         "amount_financed_eur": 4485,
         "monthly_payment_10k_deposit_eur": -11.61,
         "deposit_for_400pm_eur": 1597.06
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "BYD",
@@ -647,7 +683,9 @@
         "amount_financed_eur": 8730,
         "monthly_payment_10k_deposit_eur": 56.88,
         "deposit_for_400pm_eur": 7023.24
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Original dataset"
     },
     {
       "make": "BYD",
@@ -678,7 +716,9 @@
         "amount_financed_eur": 10613,
         "monthly_payment_10k_deposit_eur": 87.27,
         "deposit_for_400pm_eur": 9430.19
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Original dataset"
     },
     {
       "make": "BYD",
@@ -709,7 +749,9 @@
         "amount_financed_eur": 14990,
         "monthly_payment_10k_deposit_eur": 179.66,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Not yet confirmed for Irish market"
     },
     {
       "make": "BYD",
@@ -740,7 +782,9 @@
         "amount_financed_eur": 19610,
         "monthly_payment_10k_deposit_eur": 224.74,
         "deposit_for_400pm_eur": 20938.47
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Original dataset"
     },
     {
       "make": "BYD",
@@ -771,7 +815,9 @@
         "amount_financed_eur": 27110,
         "monthly_payment_10k_deposit_eur": 365.24,
         "deposit_for_400pm_eur": 8426.34
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from Comfort trim pricing"
     },
     {
       "make": "BYD",
@@ -802,69 +848,75 @@
         "amount_financed_eur": 33900,
         "monthly_payment_10k_deposit_eur": 513.64,
         "deposit_for_400pm_eur": 38048.84
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From original dataset - not independently verified"
     },
     {
       "make": "BYD",
       "model": "Seal Design",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 47435,
+      "price_eur": 45435,
       "interest_rate_pct": 3.5,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 47435,
+      "net_price_after_grant_eur": 45435,
       "url": "https://www.bydauto.ie/en/seal",
       "finance_24m": {
-        "gmfv_eur": 26089.25,
-        "amount_financed_eur": 37435,
-        "monthly_payment_10k_deposit_eur": 566.26,
-        "deposit_for_400pm_eur": 13848.39
+        "gmfv_eur": 24989.25,
+        "amount_financed_eur": 35435,
+        "monthly_payment_10k_deposit_eur": 524.17,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 19922.7,
-        "amount_financed_eur": 37435,
-        "monthly_payment_10k_deposit_eur": 571.25,
-        "deposit_for_400pm_eur": 15844.45
+        "gmfv_eur": 19082.7,
+        "amount_financed_eur": 35435,
+        "monthly_payment_10k_deposit_eur": 534.81,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 15179.2,
-        "amount_financed_eur": 37435,
-        "monthly_payment_10k_deposit_eur": 541.82,
-        "deposit_for_400pm_eur": 16343.86
-      }
+        "gmfv_eur": 14539.2,
+        "amount_financed_eur": 35435,
+        "monthly_payment_10k_deposit_eur": 509.55,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "BYD",
       "model": "Sealion 7",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 51125,
+      "price_eur": 49125,
       "interest_rate_pct": 3.5,
       "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 47625,
+      "net_price_after_grant_eur": 49125,
       "url": "https://www.bydauto.ie/en/sealion-7",
       "finance_24m": {
-        "gmfv_eur": 28118.75,
-        "amount_financed_eur": 37625,
-        "monthly_payment_10k_deposit_eur": 492.71,
-        "deposit_for_400pm_eur": 64586.74
+        "gmfv_eur": 27018.75,
+        "amount_financed_eur": 39125,
+        "monthly_payment_10k_deposit_eur": 601.83,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 21472.5,
-        "amount_financed_eur": 37625,
-        "monthly_payment_10k_deposit_eur": 535.93,
-        "deposit_for_400pm_eur": 53309.26
+        "gmfv_eur": 20632.5,
+        "amount_financed_eur": 39125,
+        "monthly_payment_10k_deposit_eur": 602.05,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 16360,
-        "amount_financed_eur": 37625,
-        "monthly_payment_10k_deposit_eur": 523.12,
-        "deposit_for_400pm_eur": 43958.31
-      }
+        "gmfv_eur": 15720,
+        "amount_financed_eur": 39125,
+        "monthly_payment_10k_deposit_eur": 569.09,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Citroen",
@@ -895,7 +947,9 @@
         "amount_financed_eur": 13400,
         "monthly_payment_10k_deposit_eur": 157.56,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Citroen Ireland website"
     },
     {
       "make": "Citroen",
@@ -926,69 +980,42 @@
         "amount_financed_eur": 17900,
         "monthly_payment_10k_deposit_eur": 231.19,
         "deposit_for_400pm_eur": 0
-      }
-    },
-    {
-      "make": "Citroen",
-      "model": "e-Berlingo Electric",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 34995,
-      "interest_rate_pct": 3.9,
-      "typical_pcp_term_months": 37,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 34995,
-      "url": "https://www.citroen.ie/models/e-berlingo.html",
-      "finance_24m": {
-        "gmfv_eur": 19247.25,
-        "amount_financed_eur": 24995,
-        "monthly_payment_10k_deposit_eur": 311.89,
-        "deposit_for_400pm_eur": 0
       },
-      "finance_36m": {
-        "gmfv_eur": 14697.9,
-        "amount_financed_eur": 24995,
-        "monthly_payment_10k_deposit_eur": 351.32,
-        "deposit_for_400pm_eur": 0
-      },
-      "finance_48m": {
-        "gmfv_eur": 11198.4,
-        "amount_financed_eur": 24995,
-        "monthly_payment_10k_deposit_eur": 347.29,
-        "deposit_for_400pm_eur": 0
-      }
+      "price_verified": "estimated",
+      "price_note": "Estimated from European pricing"
     },
     {
       "make": "Citroen",
       "model": "e-C4",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 35495,
+      "price_eur": 31328,
       "interest_rate_pct": 3.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 35495,
+      "net_price_after_grant_eur": 31328,
       "url": "https://www.citroen.ie/models/e-c4.html",
       "finance_24m": {
-        "gmfv_eur": 19522.25,
-        "amount_financed_eur": 25495,
-        "monthly_payment_10k_deposit_eur": 322.55,
+        "gmfv_eur": 17230.4,
+        "amount_financed_eur": 21328,
+        "monthly_payment_10k_deposit_eur": 233.75,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 14907.9,
-        "amount_financed_eur": 25495,
-        "monthly_payment_10k_deposit_eur": 360.55,
+        "gmfv_eur": 13157.76,
+        "amount_financed_eur": 21328,
+        "monthly_payment_10k_deposit_eur": 283.62,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 11358.4,
-        "amount_financed_eur": 25495,
-        "monthly_payment_10k_deposit_eur": 355.47,
+        "gmfv_eur": 10024.96,
+        "amount_financed_eur": 21328,
+        "monthly_payment_10k_deposit_eur": 287.29,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Citroen",
@@ -1019,7 +1046,42 @@
         "amount_financed_eur": 26495,
         "monthly_payment_10k_deposit_eur": 371.84,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from e-C4 pricing"
+    },
+    {
+      "make": "Citroen",
+      "model": "e-Berlingo Electric",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 36782,
+      "interest_rate_pct": 3.9,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 36782,
+      "url": "https://www.citroen.ie/models/e-berlingo.html",
+      "finance_24m": {
+        "gmfv_eur": 20230.1,
+        "amount_financed_eur": 26782,
+        "monthly_payment_10k_deposit_eur": 349.97,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 15448.44,
+        "amount_financed_eur": 26782,
+        "monthly_payment_10k_deposit_eur": 384.32,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 11770.24,
+        "amount_financed_eur": 26782,
+        "monthly_payment_10k_deposit_eur": 376.53,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Citroen",
@@ -1050,7 +1112,9 @@
         "amount_financed_eur": 29939,
         "monthly_payment_10k_deposit_eur": 428.19,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Partially confirmed - check citroen.ie"
     },
     {
       "make": "Cupra",
@@ -1081,38 +1145,75 @@
         "amount_financed_eur": 18500,
         "monthly_payment_10k_deposit_eur": 252.83,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Not yet on sale - pre-release pricing"
     },
     {
       "make": "Cupra",
       "model": "Born e-Boost 59kWh",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 36697,
+      "price_eur": 37330,
       "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 33197,
+      "net_price_after_grant_eur": 37330,
       "url": "https://www.cupraofficial.ie/cars/born/",
       "finance_24m": {
-        "gmfv_eur": 20183.35,
-        "amount_financed_eur": 23197,
-        "monthly_payment_10k_deposit_eur": 214.49,
-        "deposit_for_400pm_eur": 42372.99
+        "gmfv_eur": 20531.5,
+        "amount_financed_eur": 27330,
+        "monthly_payment_10k_deposit_eur": 381.79,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 15412.74,
-        "amount_financed_eur": 23197,
-        "monthly_payment_10k_deposit_eur": 295.89,
-        "deposit_for_400pm_eur": 33140.41
+        "gmfv_eur": 15678.6,
+        "amount_financed_eur": 27330,
+        "monthly_payment_10k_deposit_eur": 412.7,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 11743.04,
-        "amount_financed_eur": 23197,
-        "monthly_payment_10k_deposit_eur": 311.21,
-        "deposit_for_400pm_eur": 25450.38
-      }
+        "gmfv_eur": 11945.6,
+        "amount_financed_eur": 27330,
+        "monthly_payment_10k_deposit_eur": 402.37,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
+    },
+    {
+      "make": "Cupra",
+      "model": "Born VZ 79kWh",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 39635,
+      "interest_rate_pct": 4.9,
+      "typical_pcp_term_months": 36,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 39635,
+      "url": "https://www.cupraofficial.ie/cars/born/",
+      "finance_24m": {
+        "gmfv_eur": 21799.25,
+        "amount_financed_eur": 29635,
+        "monthly_payment_10k_deposit_eur": 432.43,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 16646.7,
+        "amount_financed_eur": 29635,
+        "monthly_payment_10k_deposit_eur": 456.66,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 12683.2,
+        "amount_financed_eur": 29635,
+        "monthly_payment_10k_deposit_eur": 441.41,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Cupra",
@@ -1143,38 +1244,9 @@
         "amount_financed_eur": 29815,
         "monthly_payment_10k_deposit_eur": 444.46,
         "deposit_for_400pm_eur": 11934.33
-      }
-    },
-    {
-      "make": "Cupra",
-      "model": "Born VZ 79kWh",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 41775,
-      "interest_rate_pct": 4.9,
-      "typical_pcp_term_months": 36,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 38275,
-      "url": "https://www.cupraofficial.ie/cars/born/",
-      "finance_24m": {
-        "gmfv_eur": 22976.25,
-        "amount_financed_eur": 28275,
-        "monthly_payment_10k_deposit_eur": 326.05,
-        "deposit_for_400pm_eur": 49983.68
       },
-      "finance_36m": {
-        "gmfv_eur": 17545.5,
-        "amount_financed_eur": 28275,
-        "monthly_payment_10k_deposit_eur": 392.74,
-        "deposit_for_400pm_eur": 40060.16
-      },
-      "finance_48m": {
-        "gmfv_eur": 13368,
-        "amount_financed_eur": 28275,
-        "monthly_payment_10k_deposit_eur": 397.21,
-        "deposit_for_400pm_eur": 31864.65
-      }
+      "price_verified": "estimated",
+      "price_note": "Estimated from Cupra Ireland"
     },
     {
       "make": "Cupra",
@@ -1205,7 +1277,9 @@
         "amount_financed_eur": 32580,
         "monthly_payment_10k_deposit_eur": 470.12,
         "deposit_for_400pm_eur": 37302.51
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Cupra",
@@ -1236,7 +1310,9 @@
         "amount_financed_eur": 36735,
         "monthly_payment_10k_deposit_eur": 561.65,
         "deposit_for_400pm_eur": 17033.34
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Cupra Ireland offers page"
     },
     {
       "make": "Cupra",
@@ -1267,7 +1343,9 @@
         "amount_financed_eur": 38500,
         "monthly_payment_10k_deposit_eur": 591.55,
         "deposit_for_400pm_eur": 18333.88
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - not yet widely available"
     },
     {
       "make": "Cupra",
@@ -1298,7 +1376,9 @@
         "amount_financed_eur": 43080,
         "monthly_payment_10k_deposit_eur": 669.11,
         "deposit_for_400pm_eur": 21708.66
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from base Tavascan price"
     },
     {
       "make": "Dacia",
@@ -1329,7 +1409,9 @@
         "amount_financed_eur": 5990,
         "monthly_payment_10k_deposit_eur": 36.31,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Dacia Ireland / RTE April 2026 guide"
     },
     {
       "make": "Dacia",
@@ -1360,7 +1442,9 @@
         "amount_financed_eur": 7990,
         "monthly_payment_10k_deposit_eur": 69.03,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Dacia Ireland website"
     },
     {
       "make": "DS",
@@ -1391,7 +1475,9 @@
         "amount_financed_eur": 28995,
         "monthly_payment_10k_deposit_eur": 412.75,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check dsautomobiles.ie"
     },
     {
       "make": "DS",
@@ -1422,38 +1508,42 @@
         "amount_financed_eur": 35995,
         "monthly_payment_10k_deposit_eur": 527.29,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check dsautomobiles.ie"
     },
     {
       "make": "Fiat",
       "model": "500e",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 25495,
+      "price_eur": 24995,
       "interest_rate_pct": 3.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 25495,
+      "net_price_after_grant_eur": 24995,
       "url": "https://www.fiat.ie/models/500-electric",
       "finance_24m": {
-        "gmfv_eur": 14022.25,
-        "amount_financed_eur": 15495,
-        "monthly_payment_10k_deposit_eur": 109.46,
+        "gmfv_eur": 13747.25,
+        "amount_financed_eur": 14995,
+        "monthly_payment_10k_deposit_eur": 98.81,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 10707.9,
-        "amount_financed_eur": 15495,
-        "monthly_payment_10k_deposit_eur": 175.92,
+        "gmfv_eur": 10497.9,
+        "amount_financed_eur": 14995,
+        "monthly_payment_10k_deposit_eur": 166.69,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 8158.4,
-        "amount_financed_eur": 15495,
-        "monthly_payment_10k_deposit_eur": 191.84,
+        "gmfv_eur": 7998.4,
+        "amount_financed_eur": 14995,
+        "monthly_payment_10k_deposit_eur": 183.66,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Fiat",
@@ -1484,38 +1574,42 @@
         "amount_financed_eur": 15495,
         "monthly_payment_10k_deposit_eur": 191.84,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Converted from UK pricing"
     },
     {
       "make": "Fiat",
       "model": "600e",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 32495,
+      "price_eur": 32995,
       "interest_rate_pct": 3.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 32495,
+      "net_price_after_grant_eur": 32995,
       "url": "https://www.fiat.ie/models/600-electric",
       "finance_24m": {
-        "gmfv_eur": 17872.25,
-        "amount_financed_eur": 22495,
-        "monthly_payment_10k_deposit_eur": 258.62,
+        "gmfv_eur": 18147.25,
+        "amount_financed_eur": 22995,
+        "monthly_payment_10k_deposit_eur": 269.28,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 13647.9,
-        "amount_financed_eur": 22495,
-        "monthly_payment_10k_deposit_eur": 305.16,
+        "gmfv_eur": 13857.9,
+        "amount_financed_eur": 22995,
+        "monthly_payment_10k_deposit_eur": 314.4,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 10398.4,
-        "amount_financed_eur": 22495,
-        "monthly_payment_10k_deposit_eur": 306.38,
+        "gmfv_eur": 10558.4,
+        "amount_financed_eur": 22995,
+        "monthly_payment_10k_deposit_eur": 314.57,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Ford",
@@ -1546,7 +1640,9 @@
         "amount_financed_eur": 22916,
         "monthly_payment_10k_deposit_eur": 313.27,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Ford",
@@ -1577,7 +1673,9 @@
         "amount_financed_eur": 33555,
         "monthly_payment_10k_deposit_eur": 487.36,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Ford",
@@ -1608,7 +1706,9 @@
         "amount_financed_eur": 37232,
         "monthly_payment_10k_deposit_eur": 547.53,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Ford",
@@ -1639,69 +1739,75 @@
         "amount_financed_eur": 42995,
         "monthly_payment_10k_deposit_eur": 641.83,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - not in RTE guide"
     },
     {
       "make": "Honda",
       "model": "e:Ny1",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 44995,
+      "price_eur": 54995,
       "interest_rate_pct": 3.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 44995,
+      "net_price_after_grant_eur": 54995,
       "url": "https://www.honda.ie/product/247/honda-e-ny1",
       "finance_24m": {
-        "gmfv_eur": 24747.25,
-        "amount_financed_eur": 34995,
-        "monthly_payment_10k_deposit_eur": 524.98,
+        "gmfv_eur": 30247.25,
+        "amount_financed_eur": 44995,
+        "monthly_payment_10k_deposit_eur": 738.07,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 18897.9,
-        "amount_financed_eur": 34995,
-        "monthly_payment_10k_deposit_eur": 535.95,
+        "gmfv_eur": 23097.9,
+        "amount_financed_eur": 44995,
+        "monthly_payment_10k_deposit_eur": 720.58,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 14398.4,
-        "amount_financed_eur": 34995,
-        "monthly_payment_10k_deposit_eur": 510.93,
+        "gmfv_eur": 17598.4,
+        "amount_financed_eur": 44995,
+        "monthly_payment_10k_deposit_eur": 674.56,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Hyundai",
       "model": "Inster",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 18995,
+      "price_eur": 19595,
       "interest_rate_pct": 2.49,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 15495,
+      "net_price_after_grant_eur": 19595,
       "url": "https://www.hyundai.ie/electric/",
       "finance_24m": {
-        "gmfv_eur": 10447.25,
-        "amount_financed_eur": 5495,
-        "monthly_payment_10k_deposit_eur": -190.06,
-        "deposit_for_400pm_eur": 16079.82
+        "gmfv_eur": 10777.25,
+        "amount_financed_eur": 9595,
+        "monthly_payment_10k_deposit_eur": -28.19,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 7977.9,
-        "amount_financed_eur": 5495,
-        "monthly_payment_10k_deposit_eur": -55.09,
-        "deposit_for_400pm_eur": 9037.78
+        "gmfv_eur": 8229.9,
+        "amount_financed_eur": 9595,
+        "monthly_payment_10k_deposit_eur": 56.47,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 6078.4,
-        "amount_financed_eur": 5495,
-        "monthly_payment_10k_deposit_eur": -0.17,
-        "deposit_for_400pm_eur": 2740.93
-      }
+        "gmfv_eur": 6270.4,
+        "amount_financed_eur": 9595,
+        "monthly_payment_10k_deposit_eur": 85.85,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Hyundai",
@@ -1732,38 +1838,42 @@
         "amount_financed_eur": 19495,
         "monthly_payment_10k_deposit_eur": 239.92,
         "deposit_for_400pm_eur": 2693.68
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from Kona Electric pricing"
     },
     {
       "make": "Hyundai",
       "model": "Kona Electric",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 31995,
+      "price_eur": 36995,
       "interest_rate_pct": 2.49,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 28495,
+      "net_price_after_grant_eur": 36995,
       "url": "https://www.hyundai.ie/electric/",
       "finance_24m": {
-        "gmfv_eur": 17597.25,
-        "amount_financed_eur": 18495,
-        "monthly_payment_10k_deposit_eur": 74.9,
-        "deposit_for_400pm_eur": 35882.82
+        "gmfv_eur": 20347.25,
+        "amount_financed_eur": 26995,
+        "monthly_payment_10k_deposit_eur": 326.45,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 13437.9,
-        "amount_financed_eur": 18495,
-        "monthly_payment_10k_deposit_eur": 173.82,
-        "deposit_for_400pm_eur": 27105.17
+        "gmfv_eur": 15537.9,
+        "amount_financed_eur": 26995,
+        "monthly_payment_10k_deposit_eur": 362.86,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 10238.4,
-        "amount_financed_eur": 18495,
-        "monthly_payment_10k_deposit_eur": 202.14,
-        "deposit_for_400pm_eur": 19506.95
-      }
+        "gmfv_eur": 11838.4,
+        "amount_financed_eur": 26995,
+        "monthly_payment_10k_deposit_eur": 356.64,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Hyundai",
@@ -1794,7 +1904,9 @@
         "amount_financed_eur": 27935,
         "monthly_payment_10k_deposit_eur": 366.59,
         "deposit_for_400pm_eur": 31573.1
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Hyundai",
@@ -1825,7 +1937,9 @@
         "amount_financed_eur": 28495,
         "monthly_payment_10k_deposit_eur": 375.62,
         "deposit_for_400pm_eur": 32288.98
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Hyundai",
@@ -1856,7 +1970,9 @@
         "amount_financed_eur": 32995,
         "monthly_payment_10k_deposit_eur": 469.98,
         "deposit_for_400pm_eur": 13130.96
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check hyundai.ie"
     },
     {
       "make": "Hyundai",
@@ -1887,7 +2003,9 @@
         "amount_financed_eur": 37770,
         "monthly_payment_10k_deposit_eur": 579.18,
         "deposit_for_400pm_eur": 42937.23
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From original dataset - verify on hyundai.ie"
     },
     {
       "make": "Hyundai",
@@ -1918,7 +2036,9 @@
         "amount_financed_eur": 45995,
         "monthly_payment_10k_deposit_eur": 718.48,
         "deposit_for_400pm_eur": 23856.58
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check hyundai.ie"
     },
     {
       "make": "Hyundai",
@@ -1949,7 +2069,9 @@
         "amount_financed_eur": 51995,
         "monthly_payment_10k_deposit_eur": 820.09,
         "deposit_for_400pm_eur": 28277.69
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check hyundai.ie"
     },
     {
       "make": "Hyundai",
@@ -1980,7 +2102,9 @@
         "amount_financed_eur": 68495,
         "monthly_payment_10k_deposit_eur": 1042.59,
         "deposit_for_400pm_eur": 82449.2
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Jeep",
@@ -2011,7 +2135,9 @@
         "amount_financed_eur": 19995,
         "monthly_payment_10k_deposit_eur": 265.48,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Jeep Ireland / RTE April 2026 guide"
     },
     {
       "make": "Kia",
@@ -2042,38 +2168,9 @@
         "amount_financed_eur": 23490,
         "monthly_payment_10k_deposit_eur": 322.67,
         "deposit_for_400pm_eur": 6568.13
-      }
-    },
-    {
-      "make": "Kia",
-      "model": "EV3",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 36790,
-      "interest_rate_pct": 0,
-      "typical_pcp_term_months": 37,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 33290,
-      "url": "https://www.kia.com/ie/new-cars/ev3/",
-      "finance_24m": {
-        "gmfv_eur": 20234.5,
-        "amount_financed_eur": 23290,
-        "monthly_payment_10k_deposit_eur": 127.31,
-        "deposit_for_400pm_eur": 43924.5
       },
-      "finance_36m": {
-        "gmfv_eur": 15451.8,
-        "amount_financed_eur": 23290,
-        "monthly_payment_10k_deposit_eur": 217.73,
-        "deposit_for_400pm_eur": 34341.8
-      },
-      "finance_48m": {
-        "gmfv_eur": 11772.8,
-        "amount_financed_eur": 23290,
-        "monthly_payment_10k_deposit_eur": 239.94,
-        "deposit_for_400pm_eur": 25862.8
-      }
+      "price_verified": "estimated",
+      "price_note": "Estimated - check kia.com/ie"
     },
     {
       "make": "Kia",
@@ -2104,7 +2201,42 @@
         "amount_financed_eur": 29990,
         "monthly_payment_10k_deposit_eur": 429.03,
         "deposit_for_400pm_eur": 11288.12
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check kia.com/ie"
+    },
+    {
+      "make": "Kia",
+      "model": "EV3",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 40350,
+      "interest_rate_pct": 0,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 40350,
+      "url": "https://www.kia.com/ie/new-cars/ev3/",
+      "finance_24m": {
+        "gmfv_eur": 22192.5,
+        "amount_financed_eur": 30350,
+        "monthly_payment_10k_deposit_eur": 339.9,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 16947,
+        "amount_financed_eur": 30350,
+        "monthly_payment_10k_deposit_eur": 372.31,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 12912,
+        "amount_financed_eur": 30350,
+        "monthly_payment_10k_deposit_eur": 363.29,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Kia",
@@ -2135,7 +2267,9 @@
         "amount_financed_eur": 32790,
         "monthly_payment_10k_deposit_eur": 474.84,
         "deposit_for_400pm_eur": 13321.34
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check kia.com/ie"
     },
     {
       "make": "Kia",
@@ -2166,7 +2300,9 @@
         "amount_financed_eur": 29775,
         "monthly_payment_10k_deposit_eur": 331.81,
         "deposit_for_400pm_eur": 34423
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Kia Ireland website"
     },
     {
       "make": "Kia",
@@ -2197,7 +2333,9 @@
         "amount_financed_eur": 36175,
         "monthly_payment_10k_deposit_eur": 445.81,
         "deposit_for_400pm_eur": 12199
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Kia Ireland website - verify trim"
     },
     {
       "make": "Kia",
@@ -2228,7 +2366,9 @@
         "amount_financed_eur": 37625,
         "monthly_payment_10k_deposit_eur": 466.35,
         "deposit_for_400pm_eur": 13185
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Kia Ireland website - verify trim"
     },
     {
       "make": "Kia",
@@ -2259,7 +2399,9 @@
         "amount_financed_eur": 38000,
         "monthly_payment_10k_deposit_eur": 560.1,
         "deposit_for_400pm_eur": 17104.59
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check kia.com/ie"
     },
     {
       "make": "Kia",
@@ -2290,7 +2432,9 @@
         "amount_financed_eur": 39495,
         "monthly_payment_10k_deposit_eur": 584.56,
         "deposit_for_400pm_eur": 18190.19
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check kia.com/ie"
     },
     {
       "make": "Kia",
@@ -2321,7 +2465,9 @@
         "amount_financed_eur": 37025,
         "monthly_payment_10k_deposit_eur": 434.52,
         "deposit_for_400pm_eur": 43993
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Kia",
@@ -2352,7 +2498,9 @@
         "amount_financed_eur": 54300,
         "monthly_payment_10k_deposit_eur": 826.82,
         "deposit_for_400pm_eur": 28940.87
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check kia.com/ie"
     },
     {
       "make": "Kia",
@@ -2383,7 +2531,9 @@
         "amount_financed_eur": 67500,
         "monthly_payment_10k_deposit_eur": 1042.82,
         "deposit_for_400pm_eur": 80972.54
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Lexus",
@@ -2414,7 +2564,9 @@
         "amount_financed_eur": 56280,
         "monthly_payment_10k_deposit_eur": 892.66,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Lotus",
@@ -2445,7 +2597,9 @@
         "amount_financed_eur": 95995,
         "monthly_payment_10k_deposit_eur": 1565.27,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from European pricing"
     },
     {
       "make": "Lotus",
@@ -2476,7 +2630,9 @@
         "amount_financed_eur": 102995,
         "monthly_payment_10k_deposit_eur": 1683.82,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from European pricing"
     },
     {
       "make": "Mazda",
@@ -2507,38 +2663,9 @@
         "amount_financed_eur": 14995,
         "monthly_payment_10k_deposit_eur": 203.32,
         "deposit_for_400pm_eur": 1608.94
-      }
-    },
-    {
-      "make": "Mazda",
-      "model": "MX-30 EV",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 34995,
-      "interest_rate_pct": 5.9,
-      "typical_pcp_term_months": 37,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 34995,
-      "url": "https://www.mazda.ie/cars/mazda-mx-30/",
-      "finance_24m": {
-        "gmfv_eur": 19247.25,
-        "amount_financed_eur": 24995,
-        "monthly_payment_10k_deposit_eur": 349.12,
-        "deposit_for_400pm_eur": 0
       },
-      "finance_36m": {
-        "gmfv_eur": 14697.9,
-        "amount_financed_eur": 24995,
-        "monthly_payment_10k_deposit_eur": 385.06,
-        "deposit_for_400pm_eur": 0
-      },
-      "finance_48m": {
-        "gmfv_eur": 11198.4,
-        "amount_financed_eur": 24995,
-        "monthly_payment_10k_deposit_eur": 378.44,
-        "deposit_for_400pm_eur": 0
-      }
+      "price_verified": "estimated",
+      "price_note": "Estimated - check mazda.ie"
     },
     {
       "make": "Mazda",
@@ -2569,7 +2696,42 @@
         "amount_financed_eur": 29965,
         "monthly_payment_10k_deposit_eur": 465.47,
         "deposit_for_400pm_eur": 33005.77
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From original dataset - verify on mazda.ie"
+    },
+    {
+      "make": "Mazda",
+      "model": "MX-30 EV",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 42932,
+      "interest_rate_pct": 5.9,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 42932,
+      "url": "https://www.mazda.ie/cars/mazda-mx-30/",
+      "finance_24m": {
+        "gmfv_eur": 23612.6,
+        "amount_financed_eur": 32932,
+        "monthly_payment_10k_deposit_eur": 528.72,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 18031.44,
+        "amount_financed_eur": 32932,
+        "monthly_payment_10k_deposit_eur": 541.28,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 13738.24,
+        "amount_financed_eur": 32932,
+        "monthly_payment_10k_deposit_eur": 517.43,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Mazda",
@@ -2600,7 +2762,9 @@
         "amount_financed_eur": 32995,
         "monthly_payment_10k_deposit_eur": 518.54,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Not yet on sale - estimated pricing"
     },
     {
       "make": "Mazda",
@@ -2631,7 +2795,9 @@
         "amount_financed_eur": 39000,
         "monthly_payment_10k_deposit_eur": 623.7,
         "deposit_for_400pm_eur": 19543.65
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from web search"
     },
     {
       "make": "Mazda",
@@ -2662,7 +2828,9 @@
         "amount_financed_eur": 48995,
         "monthly_payment_10k_deposit_eur": 798.73,
         "deposit_for_400pm_eur": 27011.16
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check mazda.ie"
     },
     {
       "make": "Mercedes-Benz",
@@ -2693,7 +2861,9 @@
         "amount_financed_eur": 43425,
         "monthly_payment_10k_deposit_eur": 674.95,
         "deposit_for_400pm_eur": 21962.88
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Mercedes-Benz Ireland / RTE guide"
     },
     {
       "make": "Mercedes-Benz",
@@ -2724,7 +2894,9 @@
         "amount_financed_eur": 44445,
         "monthly_payment_10k_deposit_eur": 671.06,
         "deposit_for_400pm_eur": 52289.77
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Mercedes-Benz Ireland website"
     },
     {
       "make": "Mercedes-Benz",
@@ -2755,38 +2927,42 @@
         "amount_financed_eur": 46400,
         "monthly_payment_10k_deposit_eur": 704.17,
         "deposit_for_400pm_eur": 54759.23
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "May be outdated - check mercedes-benz.ie"
     },
     {
       "make": "Mercedes-Benz",
       "model": "EQE 300 Saloon",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 73690,
+      "price_eur": 74070,
       "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 73690,
+      "net_price_after_grant_eur": 74070,
       "url": "https://www.mercedes-benz.ie/passengercars/models/saloon/eqe/overview.html",
       "finance_24m": {
-        "gmfv_eur": 40529.5,
-        "amount_financed_eur": 63690,
-        "monthly_payment_10k_deposit_eur": 1180.54,
-        "deposit_for_400pm_eur": 27809.77
+        "gmfv_eur": 40738.5,
+        "amount_financed_eur": 64070,
+        "monthly_payment_10k_deposit_eur": 1188.89,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 30949.8,
-        "amount_financed_eur": 63690,
-        "monthly_payment_10k_deposit_eur": 1106.16,
-        "deposit_for_400pm_eur": 33596.93
+        "gmfv_eur": 31109.4,
+        "amount_financed_eur": 64070,
+        "monthly_payment_10k_deposit_eur": 1113.41,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 23580.8,
-        "amount_financed_eur": 63690,
-        "monthly_payment_10k_deposit_eur": 1018.16,
-        "deposit_for_400pm_eur": 36895.16
-      }
+        "gmfv_eur": 23702.4,
+        "amount_financed_eur": 64070,
+        "monthly_payment_10k_deposit_eur": 1024.59,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Mercedes-Benz",
@@ -2817,69 +2993,75 @@
         "amount_financed_eur": 65935,
         "monthly_payment_10k_deposit_eur": 1056.18,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Mercedes Ireland website scrape"
     },
     {
       "make": "Mercedes-Benz",
       "model": "EQE SUV",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 95220,
+      "price_eur": 95450,
       "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 95220,
+      "net_price_after_grant_eur": 95450,
       "url": "https://www.mercedes-benz.ie/passengercars/models/suv/eqe-suv/overview.html",
       "finance_24m": {
-        "gmfv_eur": 52371,
-        "amount_financed_eur": 85220,
-        "monthly_payment_10k_deposit_eur": 1653.51,
-        "deposit_for_400pm_eur": 38601.54
+        "gmfv_eur": 52497.5,
+        "amount_financed_eur": 85450,
+        "monthly_payment_10k_deposit_eur": 1658.56,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 39992.4,
-        "amount_financed_eur": 85220,
-        "monthly_payment_10k_deposit_eur": 1516.78,
-        "deposit_for_400pm_eur": 47318.17
+        "gmfv_eur": 40089,
+        "amount_financed_eur": 85450,
+        "monthly_payment_10k_deposit_eur": 1521.17,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 30470.4,
-        "amount_financed_eur": 85220,
-        "monthly_payment_10k_deposit_eur": 1382.79,
-        "deposit_for_400pm_eur": 52759.57
-      }
+        "gmfv_eur": 30544,
+        "amount_financed_eur": 85450,
+        "monthly_payment_10k_deposit_eur": 1386.68,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Mercedes-Benz",
       "model": "EQS 450+ Saloon",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 99660,
+      "price_eur": 100485,
       "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 99660,
+      "net_price_after_grant_eur": 100485,
       "url": "https://www.mercedes-benz.ie/passengercars/models/saloon/eqs/overview.html",
       "finance_24m": {
-        "gmfv_eur": 54813,
-        "amount_financed_eur": 89660,
-        "monthly_payment_10k_deposit_eur": 1751.05,
-        "deposit_for_400pm_eur": 40827.06
+        "gmfv_eur": 55266.75,
+        "amount_financed_eur": 90485,
+        "monthly_payment_10k_deposit_eur": 1769.17,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 41857.2,
-        "amount_financed_eur": 89660,
-        "monthly_payment_10k_deposit_eur": 1601.46,
-        "deposit_for_400pm_eur": 50147.82
+        "gmfv_eur": 42203.7,
+        "amount_financed_eur": 90485,
+        "monthly_payment_10k_deposit_eur": 1617.2,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 31891.2,
-        "amount_financed_eur": 89660,
-        "monthly_payment_10k_deposit_eur": 1457.98,
-        "deposit_for_400pm_eur": 56031.19
-      }
+        "gmfv_eur": 32155.2,
+        "amount_financed_eur": 90485,
+        "monthly_payment_10k_deposit_eur": 1471.95,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Mercedes-Benz",
@@ -2910,7 +3092,9 @@
         "amount_financed_eur": 113825,
         "monthly_payment_10k_deposit_eur": 1867.24,
         "deposit_for_400pm_eur": 73837.19
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from Mercedes Ireland website"
     },
     {
       "make": "Mercedes-Benz",
@@ -2941,7 +3125,9 @@
         "amount_financed_eur": 115830,
         "monthly_payment_10k_deposit_eur": 1901.19,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From web search - verify on mercedes-benz.ie"
     },
     {
       "make": "Mercedes-Benz",
@@ -2972,7 +3158,9 @@
         "amount_financed_eur": 156280,
         "monthly_payment_10k_deposit_eur": 2586.24,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From web search - verify on mercedes-benz.ie"
     },
     {
       "make": "MG",
@@ -3003,38 +3191,9 @@
         "amount_financed_eur": 12495,
         "monthly_payment_10k_deposit_eur": 134.4,
         "deposit_for_400pm_eur": -2023.51
-      }
-    },
-    {
-      "make": "MG",
-      "model": "MG4 EV Standard Range",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 27495,
-      "interest_rate_pct": 2.9,
-      "typical_pcp_term_months": 36,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 23995,
-      "url": "https://www.mg.ie/mg4-ev/",
-      "finance_24m": {
-        "gmfv_eur": 15122.25,
-        "amount_financed_eur": 13995,
-        "monthly_payment_10k_deposit_eur": -11.86,
-        "deposit_for_400pm_eur": 28950.13
       },
-      "finance_36m": {
-        "gmfv_eur": 11547.9,
-        "amount_financed_eur": 13995,
-        "monthly_payment_10k_deposit_eur": 98.96,
-        "deposit_for_400pm_eur": 20806.35
-      },
-      "finance_48m": {
-        "gmfv_eur": 8798.4,
-        "amount_financed_eur": 13995,
-        "monthly_payment_10k_deposit_eur": 136.06,
-        "deposit_for_400pm_eur": 13723.24
-      }
+      "price_verified": "estimated",
+      "price_note": "Estimated - check mg.ie"
     },
     {
       "make": "MG",
@@ -3065,7 +3224,9 @@
         "amount_financed_eur": 18995,
         "monthly_payment_10k_deposit_eur": 225.07,
         "deposit_for_400pm_eur": 1920.65
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check mg.ie"
     },
     {
       "make": "MG",
@@ -3096,38 +3257,42 @@
         "amount_financed_eur": 16495,
         "monthly_payment_10k_deposit_eur": 175.54,
         "deposit_for_400pm_eur": 16935.72
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "MG Ireland website"
     },
     {
       "make": "MG",
-      "model": "MGS5 EV",
+      "model": "MG4 EV Standard Range",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 29995,
+      "price_eur": 30995,
       "interest_rate_pct": 2.9,
-      "typical_pcp_term_months": 37,
+      "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 29995,
-      "url": "https://www.mg.ie/mgs5-ev/",
+      "net_price_after_grant_eur": 30995,
+      "url": "https://www.mg.ie/mg4-ev/",
       "finance_24m": {
-        "gmfv_eur": 16497.25,
-        "amount_financed_eur": 19995,
-        "monthly_payment_10k_deposit_eur": 190.05,
-        "deposit_for_400pm_eur": 5110.31
+        "gmfv_eur": 17047.25,
+        "amount_financed_eur": 20995,
+        "monthly_payment_10k_deposit_eur": 210.7,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 12597.9,
-        "amount_financed_eur": 19995,
-        "monthly_payment_10k_deposit_eur": 245.24,
-        "deposit_for_400pm_eur": 4670.13
+        "gmfv_eur": 13017.9,
+        "amount_financed_eur": 20995,
+        "monthly_payment_10k_deposit_eur": 263.09,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 9598.4,
-        "amount_financed_eur": 19995,
-        "monthly_payment_10k_deposit_eur": 252.86,
-        "deposit_for_400pm_eur": 3339.05
-      }
+        "gmfv_eur": 9918.4,
+        "amount_financed_eur": 20995,
+        "monthly_payment_10k_deposit_eur": 268.65,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "MG",
@@ -3158,7 +3323,9 @@
         "amount_financed_eur": 17495,
         "monthly_payment_10k_deposit_eur": 191.34,
         "deposit_for_400pm_eur": 18220.71
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "MG Ireland website"
     },
     {
       "make": "MG",
@@ -3189,7 +3356,42 @@
         "amount_financed_eur": 17495,
         "monthly_payment_10k_deposit_eur": 179.75,
         "deposit_for_400pm_eur": 18213.62
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "MG Ireland website"
+    },
+    {
+      "make": "MG",
+      "model": "MGS5 EV",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 33495,
+      "interest_rate_pct": 2.9,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 33495,
+      "url": "https://www.mg.ie/mgs5-ev/",
+      "finance_24m": {
+        "gmfv_eur": 18422.25,
+        "amount_financed_eur": 23495,
+        "monthly_payment_10k_deposit_eur": 262.33,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 14067.9,
+        "amount_financed_eur": 23495,
+        "monthly_payment_10k_deposit_eur": 307.73,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 10718.4,
+        "amount_financed_eur": 23495,
+        "monthly_payment_10k_deposit_eur": 308.14,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "MG",
@@ -3220,7 +3422,9 @@
         "amount_financed_eur": 28995,
         "monthly_payment_10k_deposit_eur": 395.01,
         "deposit_for_400pm_eur": 9774.13
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check mg.ie"
     },
     {
       "make": "MG",
@@ -3251,7 +3455,9 @@
         "amount_financed_eur": 29995,
         "monthly_payment_10k_deposit_eur": 410.81,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Not yet on sale in Ireland"
     },
     {
       "make": "MG",
@@ -3282,7 +3488,9 @@
         "amount_financed_eur": 29495,
         "monthly_payment_10k_deposit_eur": 380.87,
         "deposit_for_400pm_eur": 33640.62
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "MG Ireland website"
     },
     {
       "make": "MG",
@@ -3313,38 +3521,42 @@
         "amount_financed_eur": 29495,
         "monthly_payment_10k_deposit_eur": 380.87,
         "deposit_for_400pm_eur": 33640.62
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "MG Ireland website"
     },
     {
       "make": "MG",
       "model": "Cyberster",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 55995,
+      "price_eur": 69900,
       "interest_rate_pct": 2.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 55995,
+      "net_price_after_grant_eur": 69900,
       "url": "https://www.mg.ie/cyberster/",
       "finance_24m": {
-        "gmfv_eur": 30797.25,
-        "amount_financed_eur": 45995,
-        "monthly_payment_10k_deposit_eur": 726.97,
+        "gmfv_eur": 38445,
+        "amount_financed_eur": 59900,
+        "monthly_payment_10k_deposit_eur": 1014.12,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 23517.9,
-        "amount_financed_eur": 45995,
-        "monthly_payment_10k_deposit_eur": 709.51,
+        "gmfv_eur": 29358,
+        "amount_financed_eur": 59900,
+        "monthly_payment_10k_deposit_eur": 957.8,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 17918.4,
-        "amount_financed_eur": 45995,
-        "monthly_payment_10k_deposit_eur": 663.52,
+        "gmfv_eur": 22368,
+        "amount_financed_eur": 59900,
+        "monthly_payment_10k_deposit_eur": 883.14,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "MINI",
@@ -3375,7 +3587,9 @@
         "amount_financed_eur": 18471,
         "monthly_payment_10k_deposit_eur": 252.34,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "BMW Group Ireland press / RTE guide"
     },
     {
       "make": "MINI",
@@ -3406,38 +3620,42 @@
         "amount_financed_eur": 24567,
         "monthly_payment_10k_deposit_eur": 355.58,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "BMW Group Ireland press / RTE guide"
     },
     {
       "make": "MINI",
       "model": "Countryman Electric",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 44995,
+      "price_eur": 39250,
       "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 44995,
+      "net_price_after_grant_eur": 39250,
       "url": "https://www.mini.ie/en_IE/home/range/all-electric-mini-countryman.html",
       "finance_24m": {
-        "gmfv_eur": 24747.25,
-        "amount_financed_eur": 34995,
-        "monthly_payment_10k_deposit_eur": 550.18,
+        "gmfv_eur": 21587.5,
+        "amount_financed_eur": 29250,
+        "monthly_payment_10k_deposit_eur": 423.97,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 18897.9,
-        "amount_financed_eur": 34995,
-        "monthly_payment_10k_deposit_eur": 558.89,
+        "gmfv_eur": 16485,
+        "amount_financed_eur": 29250,
+        "monthly_payment_10k_deposit_eur": 449.32,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 14398.4,
-        "amount_financed_eur": 34995,
-        "monthly_payment_10k_deposit_eur": 532.19,
+        "gmfv_eur": 12560,
+        "amount_financed_eur": 29250,
+        "monthly_payment_10k_deposit_eur": 434.89,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Nissan",
@@ -3468,7 +3686,9 @@
         "amount_financed_eur": 13495,
         "monthly_payment_10k_deposit_eur": 177.05,
         "deposit_for_400pm_eur": 488.26
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Nissan Ireland website"
     },
     {
       "make": "Nissan",
@@ -3499,7 +3719,9 @@
         "amount_financed_eur": 15995,
         "monthly_payment_10k_deposit_eur": 220.83,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Nissan Ireland website"
     },
     {
       "make": "Nissan",
@@ -3530,7 +3752,9 @@
         "amount_financed_eur": 20900,
         "monthly_payment_10k_deposit_eur": 306.73,
         "deposit_for_400pm_eur": 6020.71
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Nissan Ireland website"
     },
     {
       "make": "Nissan",
@@ -3561,7 +3785,9 @@
         "amount_financed_eur": 21495,
         "monthly_payment_10k_deposit_eur": 296.4,
         "deposit_for_400pm_eur": 23278.97
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Original dataset - new Leaf may have different price"
     },
     {
       "make": "Nissan",
@@ -3592,38 +3818,42 @@
         "amount_financed_eur": 29900,
         "monthly_payment_10k_deposit_eur": 464.34,
         "deposit_for_400pm_eur": 12744.82
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Nissan Ireland website"
     },
     {
       "make": "Nissan",
       "model": "Ariya 63kWh",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 48995,
+      "price_eur": 39995,
       "interest_rate_pct": 5.9,
       "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 45495,
+      "net_price_after_grant_eur": 39995,
       "url": "https://www.nissan.ie/vehicles/new-vehicles/all-new-nissan-ariya/",
       "finance_24m": {
-        "gmfv_eur": 26947.25,
-        "amount_financed_eur": 35495,
-        "monthly_payment_10k_deposit_eur": 510.95,
-        "deposit_for_400pm_eur": 60415.51
+        "gmfv_eur": 21997.25,
+        "amount_financed_eur": 29995,
+        "monthly_payment_10k_deposit_eur": 462.26,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 20577.9,
-        "amount_financed_eur": 35495,
-        "monthly_payment_10k_deposit_eur": 554.31,
-        "deposit_for_400pm_eur": 49574.22
+        "gmfv_eur": 16797.9,
+        "amount_financed_eur": 29995,
+        "monthly_payment_10k_deposit_eur": 483.47,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 15678.4,
-        "amount_financed_eur": 35495,
-        "monthly_payment_10k_deposit_eur": 541.57,
-        "deposit_for_400pm_eur": 40819.24
-      }
+        "gmfv_eur": 12798.4,
+        "amount_financed_eur": 29995,
+        "monthly_payment_10k_deposit_eur": 466,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Nissan",
@@ -3654,7 +3884,9 @@
         "amount_financed_eur": 39495,
         "monthly_payment_10k_deposit_eur": 632.36,
         "deposit_for_400pm_eur": 19913.48
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Nissan Ireland website"
     },
     {
       "make": "Nissan",
@@ -3685,7 +3917,9 @@
         "amount_financed_eur": 53995,
         "monthly_payment_10k_deposit_eur": 886.29,
         "deposit_for_400pm_eur": 63112.38
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "May be outdated - check nissan.ie"
     },
     {
       "make": "Opel",
@@ -3716,7 +3950,9 @@
         "amount_financed_eur": 11106,
         "monthly_payment_10k_deposit_eur": 90.43,
         "deposit_for_400pm_eur": 10010.9
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Opel",
@@ -3747,7 +3983,9 @@
         "amount_financed_eur": 15700,
         "monthly_payment_10k_deposit_eur": 185.02,
         "deposit_for_400pm_eur": 14916.68
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Opel Ireland website"
     },
     {
       "make": "Opel",
@@ -3778,7 +4016,9 @@
         "amount_financed_eur": 13838,
         "monthly_payment_10k_deposit_eur": 133.58,
         "deposit_for_400pm_eur": 13521.5
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Opel Ireland website"
     },
     {
       "make": "Opel",
@@ -3809,7 +4049,42 @@
         "amount_financed_eur": 19695,
         "monthly_payment_10k_deposit_eur": 248.12,
         "deposit_for_400pm_eur": 20050.22
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Opel Ireland website"
+    },
+    {
+      "make": "Opel",
+      "model": "Mokka Electric",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 30227,
+      "interest_rate_pct": 2.9,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 30227,
+      "url": "https://www.opel.ie/models/mokka-electric.html",
+      "finance_24m": {
+        "gmfv_eur": 16624.85,
+        "amount_financed_eur": 20227,
+        "monthly_payment_10k_deposit_eur": 194.84,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 12695.34,
+        "amount_financed_eur": 20227,
+        "monthly_payment_10k_deposit_eur": 249.38,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 9672.64,
+        "amount_financed_eur": 20227,
+        "monthly_payment_10k_deposit_eur": 256.52,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Opel",
@@ -3840,38 +4115,9 @@
         "amount_financed_eur": 17300,
         "monthly_payment_10k_deposit_eur": 188.26,
         "deposit_for_400pm_eur": 17970.14
-      }
-    },
-    {
-      "make": "Opel",
-      "model": "Mokka Electric",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 30978,
-      "interest_rate_pct": 2.9,
-      "typical_pcp_term_months": 37,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 30978,
-      "url": "https://www.opel.ie/models/mokka-electric.html",
-      "finance_24m": {
-        "gmfv_eur": 17037.9,
-        "amount_financed_eur": 20978,
-        "monthly_payment_10k_deposit_eur": 210.35,
-        "deposit_for_400pm_eur": 5583.09
       },
-      "finance_36m": {
-        "gmfv_eur": 13010.76,
-        "amount_financed_eur": 20978,
-        "monthly_payment_10k_deposit_eur": 262.79,
-        "deposit_for_400pm_eur": 5274.63
-      },
-      "finance_48m": {
-        "gmfv_eur": 9912.96,
-        "amount_financed_eur": 20978,
-        "monthly_payment_10k_deposit_eur": 268.38,
-        "deposit_for_400pm_eur": 4041.91
-      }
+      "price_verified": "verified",
+      "price_source": "Opel Ireland website"
     },
     {
       "make": "Opel",
@@ -3902,7 +4148,42 @@
         "amount_financed_eur": 24995,
         "monthly_payment_10k_deposit_eur": 331.83,
         "deposit_for_400pm_eur": 6914.1
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Opel Ireland offers"
+    },
+    {
+      "make": "Opel",
+      "model": "Astra Electric",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 35849,
+      "interest_rate_pct": 2.9,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 35849,
+      "url": "https://www.opel.ie/models/astra-electric.html",
+      "finance_24m": {
+        "gmfv_eur": 19716.95,
+        "amount_financed_eur": 25849,
+        "monthly_payment_10k_deposit_eur": 310.94,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 15056.58,
+        "amount_financed_eur": 25849,
+        "monthly_payment_10k_deposit_eur": 349.77,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 11471.68,
+        "amount_financed_eur": 25849,
+        "monthly_payment_10k_deposit_eur": 345.32,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Opel",
@@ -3933,38 +4214,9 @@
         "amount_financed_eur": 25995,
         "monthly_payment_10k_deposit_eur": 347.63,
         "deposit_for_400pm_eur": 7629.1
-      }
-    },
-    {
-      "make": "Opel",
-      "model": "Astra Electric",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 38995,
-      "interest_rate_pct": 2.9,
-      "typical_pcp_term_months": 37,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 38995,
-      "url": "https://www.opel.ie/models/astra-electric.html",
-      "finance_24m": {
-        "gmfv_eur": 21447.25,
-        "amount_financed_eur": 28995,
-        "monthly_payment_10k_deposit_eur": 375.91,
-        "deposit_for_400pm_eur": 9438.91
       },
-      "finance_36m": {
-        "gmfv_eur": 16377.9,
-        "amount_financed_eur": 28995,
-        "monthly_payment_10k_deposit_eur": 405.94,
-        "deposit_for_400pm_eur": 10204.73
-      },
-      "finance_48m": {
-        "gmfv_eur": 12478.4,
-        "amount_financed_eur": 28995,
-        "monthly_payment_10k_deposit_eur": 395.01,
-        "deposit_for_400pm_eur": 9774.13
-      }
+      "price_verified": "estimated",
+      "price_note": "Estimated - check opel.ie"
     },
     {
       "make": "Opel",
@@ -3995,7 +4247,9 @@
         "amount_financed_eur": 25565,
         "monthly_payment_10k_deposit_eur": 335.02,
         "deposit_for_400pm_eur": 28512.19
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Opel",
@@ -4026,7 +4280,9 @@
         "amount_financed_eur": 27436,
         "monthly_payment_10k_deposit_eur": 365.64,
         "deposit_for_400pm_eur": 30895.56
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Opel Ireland website"
     },
     {
       "make": "Opel",
@@ -4057,7 +4313,9 @@
         "amount_financed_eur": 30995,
         "monthly_payment_10k_deposit_eur": 445.47,
         "deposit_for_400pm_eur": 34470.72
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Opel Ireland website"
     },
     {
       "make": "Opel",
@@ -4088,7 +4346,9 @@
         "amount_financed_eur": 30995,
         "monthly_payment_10k_deposit_eur": 426.6,
         "deposit_for_400pm_eur": 11204.14
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from Astra Electric"
     },
     {
       "make": "Opel",
@@ -4119,7 +4379,9 @@
         "amount_financed_eur": 32995,
         "monthly_payment_10k_deposit_eur": 478.2,
         "deposit_for_400pm_eur": 37018.41
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Opel Ireland website"
     },
     {
       "make": "Opel",
@@ -4150,7 +4412,9 @@
         "amount_financed_eur": 30263,
         "monthly_payment_10k_deposit_eur": 411.9,
         "deposit_for_400pm_eur": 34496.73
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Opel Ireland website"
     },
     {
       "make": "Opel",
@@ -4181,69 +4445,108 @@
         "amount_financed_eur": 34995,
         "monthly_payment_10k_deposit_eur": 510.93,
         "deposit_for_400pm_eur": 39566.11
-      }
-    },
-    {
-      "make": "Peugeot",
-      "model": "e-2008",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 33995,
-      "interest_rate_pct": 1.9,
-      "typical_pcp_term_months": 36,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 30495,
-      "url": "https://www.peugeot.ie/our-models/new-peugeot-2008.html",
-      "finance_24m": {
-        "gmfv_eur": 18697.25,
-        "amount_financed_eur": 20495,
-        "monthly_payment_10k_deposit_eur": 106,
-        "deposit_for_400pm_eur": 39083.05
       },
-      "finance_36m": {
-        "gmfv_eur": 14277.9,
-        "amount_financed_eur": 20495,
-        "monthly_payment_10k_deposit_eur": 200.41,
-        "deposit_for_400pm_eur": 29995.9
-      },
-      "finance_48m": {
-        "gmfv_eur": 10878.4,
-        "amount_financed_eur": 20495,
-        "monthly_payment_10k_deposit_eur": 225.44,
-        "deposit_for_400pm_eur": 22103.42
-      }
+      "price_verified": "verified",
+      "price_source": "Opel Ireland website"
     },
     {
       "make": "Peugeot",
       "model": "e-208",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 34995,
+      "price_eur": 31995,
       "interest_rate_pct": 1.9,
       "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 31495,
+      "net_price_after_grant_eur": 31995,
       "url": "https://www.peugeot.ie/our-models/208.html",
       "finance_24m": {
-        "gmfv_eur": 19247.25,
-        "amount_financed_eur": 21495,
-        "monthly_payment_10k_deposit_eur": 126,
-        "deposit_for_400pm_eur": 40612.55
+        "gmfv_eur": 17597.25,
+        "amount_financed_eur": 21995,
+        "monthly_payment_10k_deposit_eur": 214.75,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 14697.9,
-        "amount_financed_eur": 21495,
-        "monthly_payment_10k_deposit_eur": 217.66,
-        "deposit_for_400pm_eur": 31392.64
+        "gmfv_eur": 13437.9,
+        "amount_financed_eur": 21995,
+        "monthly_payment_10k_deposit_eur": 266,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 11198.4,
-        "amount_financed_eur": 21495,
-        "monthly_payment_10k_deposit_eur": 240.67,
-        "deposit_for_400pm_eur": 23400.02
-      }
+        "gmfv_eur": 10238.4,
+        "amount_financed_eur": 21995,
+        "monthly_payment_10k_deposit_eur": 270.76,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-2008",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 33865,
+      "interest_rate_pct": 1.9,
+      "typical_pcp_term_months": 36,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 33865,
+      "url": "https://www.peugeot.ie/our-models/new-peugeot-2008.html",
+      "finance_24m": {
+        "gmfv_eur": 18625.75,
+        "amount_financed_eur": 23865,
+        "monthly_payment_10k_deposit_eur": 252.14,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 14223.3,
+        "amount_financed_eur": 23865,
+        "monthly_payment_10k_deposit_eur": 298.26,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 10836.8,
+        "amount_financed_eur": 23865,
+        "monthly_payment_10k_deposit_eur": 299.24,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-308",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 36390,
+      "interest_rate_pct": 1.9,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 36390,
+      "url": "https://www.peugeot.ie/our-models/peugeot-308.html",
+      "finance_24m": {
+        "gmfv_eur": 20014.5,
+        "amount_financed_eur": 26390,
+        "monthly_payment_10k_deposit_eur": 302.62,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 15283.8,
+        "amount_financed_eur": 26390,
+        "monthly_payment_10k_deposit_eur": 341.82,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 11644.8,
+        "amount_financed_eur": 26390,
+        "monthly_payment_10k_deposit_eur": 337.69,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Peugeot",
@@ -4274,7 +4577,9 @@
         "amount_financed_eur": 27995,
         "monthly_payment_10k_deposit_eur": 396.38,
         "deposit_for_400pm_eur": 9839.45
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check peugeot.ie"
     },
     {
       "make": "Peugeot",
@@ -4305,69 +4610,42 @@
         "amount_financed_eur": 28995,
         "monthly_payment_10k_deposit_eur": 377.37,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Peugeot",
       "model": "e-Rifter",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 38995,
+      "price_eur": 39130,
       "interest_rate_pct": 1.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 38995,
+      "net_price_after_grant_eur": 39130,
       "url": "https://www.peugeot.ie/our-models/peugeot-rifter.html",
       "finance_24m": {
-        "gmfv_eur": 21447.25,
-        "amount_financed_eur": 28995,
-        "monthly_payment_10k_deposit_eur": 354.71,
+        "gmfv_eur": 21521.5,
+        "amount_financed_eur": 29130,
+        "monthly_payment_10k_deposit_eur": 357.41,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 16377.9,
-        "amount_financed_eur": 28995,
-        "monthly_payment_10k_deposit_eur": 386.77,
+        "gmfv_eur": 16434.6,
+        "amount_financed_eur": 29130,
+        "monthly_payment_10k_deposit_eur": 389.1,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 12478.4,
-        "amount_financed_eur": 28995,
-        "monthly_payment_10k_deposit_eur": 377.37,
+        "gmfv_eur": 12521.6,
+        "amount_financed_eur": 29130,
+        "monthly_payment_10k_deposit_eur": 379.42,
         "deposit_for_400pm_eur": 0
-      }
-    },
-    {
-      "make": "Peugeot",
-      "model": "e-308",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 42995,
-      "interest_rate_pct": 1.9,
-      "typical_pcp_term_months": 37,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 42995,
-      "url": "https://www.peugeot.ie/our-models/peugeot-308.html",
-      "finance_24m": {
-        "gmfv_eur": 23647.25,
-        "amount_financed_eur": 32995,
-        "monthly_payment_10k_deposit_eur": 434.69,
-        "deposit_for_400pm_eur": 10816.22
       },
-      "finance_36m": {
-        "gmfv_eur": 18057.9,
-        "amount_financed_eur": 32995,
-        "monthly_payment_10k_deposit_eur": 455.78,
-        "deposit_for_400pm_eur": 11950.32
-      },
-      "finance_48m": {
-        "gmfv_eur": 13758.4,
-        "amount_financed_eur": 32995,
-        "monthly_payment_10k_deposit_eur": 438.29,
-        "deposit_for_400pm_eur": 11768.26
-      }
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Peugeot",
@@ -4398,7 +4676,42 @@
         "amount_financed_eur": 34500,
         "monthly_payment_10k_deposit_eur": 502.83,
         "deposit_for_400pm_eur": 38935.55
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From original dataset - verify"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-3008",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 44995,
+      "interest_rate_pct": 1.9,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 44995,
+      "url": "https://www.peugeot.ie/our-models/new-peugeot-3008.html",
+      "finance_24m": {
+        "gmfv_eur": 24747.25,
+        "amount_financed_eur": 34995,
+        "monthly_payment_10k_deposit_eur": 474.67,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 18897.9,
+        "amount_financed_eur": 34995,
+        "monthly_payment_10k_deposit_eur": 490.28,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 14398.4,
+        "amount_financed_eur": 34995,
+        "monthly_payment_10k_deposit_eur": 468.74,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Peugeot",
@@ -4429,38 +4742,9 @@
         "amount_financed_eur": 35495,
         "monthly_payment_10k_deposit_eur": 519.11,
         "deposit_for_400pm_eur": 40203.03
-      }
-    },
-    {
-      "make": "Peugeot",
-      "model": "e-3008",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 45495,
-      "interest_rate_pct": 1.9,
-      "typical_pcp_term_months": 37,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 45495,
-      "url": "https://www.peugeot.ie/our-models/new-peugeot-3008.html",
-      "finance_24m": {
-        "gmfv_eur": 25022.25,
-        "amount_financed_eur": 35495,
-        "monthly_payment_10k_deposit_eur": 484.67,
-        "deposit_for_400pm_eur": 11992.45
       },
-      "finance_36m": {
-        "gmfv_eur": 19107.9,
-        "amount_financed_eur": 35495,
-        "monthly_payment_10k_deposit_eur": 498.91,
-        "deposit_for_400pm_eur": 13458.45
-      },
-      "finance_48m": {
-        "gmfv_eur": 14558.4,
-        "amount_financed_eur": 35495,
-        "monthly_payment_10k_deposit_eur": 476.36,
-        "deposit_for_400pm_eur": 13526.76
-      }
+      "price_verified": "estimated",
+      "price_note": "Estimated - check peugeot.ie"
     },
     {
       "make": "Peugeot",
@@ -4491,38 +4775,42 @@
         "amount_financed_eur": 42495,
         "monthly_payment_10k_deposit_eur": 633.65,
         "deposit_for_400pm_eur": 20368.65
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check peugeot.ie"
     },
     {
       "make": "Peugeot",
       "model": "e-5008",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 55495,
+      "price_eur": 52495,
       "interest_rate_pct": 1.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 55495,
+      "net_price_after_grant_eur": 52495,
       "url": "https://www.peugeot.ie/our-models/new-peugeot-5008.html",
       "finance_24m": {
-        "gmfv_eur": 30522.25,
-        "amount_financed_eur": 45495,
-        "monthly_payment_10k_deposit_eur": 684.61,
-        "deposit_for_400pm_eur": 16697.37
+        "gmfv_eur": 28872.25,
+        "amount_financed_eur": 42495,
+        "monthly_payment_10k_deposit_eur": 624.63,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 23307.9,
-        "amount_financed_eur": 45495,
-        "monthly_payment_10k_deposit_eur": 671.43,
-        "deposit_for_400pm_eur": 19490.97
+        "gmfv_eur": 22047.9,
+        "amount_financed_eur": 42495,
+        "monthly_payment_10k_deposit_eur": 619.67,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 17758.4,
-        "amount_financed_eur": 45495,
-        "monthly_payment_10k_deposit_eur": 628.66,
-        "deposit_for_400pm_eur": 20560.77
-      }
+        "gmfv_eur": 16798.4,
+        "amount_financed_eur": 42495,
+        "monthly_payment_10k_deposit_eur": 582.97,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Polestar",
@@ -4553,7 +4841,9 @@
         "amount_financed_eur": 29897,
         "monthly_payment_10k_deposit_eur": 427.51,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Polestar Ireland / RTE guide"
     },
     {
       "make": "Polestar",
@@ -4584,100 +4874,75 @@
         "amount_financed_eur": 45195,
         "monthly_payment_10k_deposit_eur": 677.83,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Polestar Ireland website"
     },
     {
       "make": "Polestar",
       "model": "4",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 61190,
+      "price_eur": 58690,
       "interest_rate_pct": 3.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 61190,
+      "net_price_after_grant_eur": 58690,
       "url": "https://www.polestar.com/ie/polestar-4/",
       "finance_24m": {
-        "gmfv_eur": 33654.5,
-        "amount_financed_eur": 51190,
-        "monthly_payment_10k_deposit_eur": 870.07,
+        "gmfv_eur": 32279.5,
+        "amount_financed_eur": 48690,
+        "monthly_payment_10k_deposit_eur": 816.8,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 25699.8,
-        "amount_financed_eur": 51190,
-        "monthly_payment_10k_deposit_eur": 834.96,
+        "gmfv_eur": 24649.8,
+        "amount_financed_eur": 48690,
+        "monthly_payment_10k_deposit_eur": 788.81,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 19580.8,
-        "amount_financed_eur": 51190,
-        "monthly_payment_10k_deposit_eur": 775.93,
+        "gmfv_eur": 18780.8,
+        "amount_financed_eur": 48690,
+        "monthly_payment_10k_deposit_eur": 735.02,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Polestar",
       "model": "3",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 82995,
+      "price_eur": 101890,
       "interest_rate_pct": 3.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 82995,
+      "net_price_after_grant_eur": 101890,
       "url": "https://www.polestar.com/ie/polestar-3/",
       "finance_24m": {
-        "gmfv_eur": 45647.25,
-        "amount_financed_eur": 72995,
-        "monthly_payment_10k_deposit_eur": 1334.71,
+        "gmfv_eur": 56039.5,
+        "amount_financed_eur": 91890,
+        "monthly_payment_10k_deposit_eur": 1737.34,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 34857.9,
-        "amount_financed_eur": 72995,
-        "monthly_payment_10k_deposit_eur": 1237.55,
+        "gmfv_eur": 42793.8,
+        "amount_financed_eur": 91890,
+        "monthly_payment_10k_deposit_eur": 1586.41,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 26558.4,
-        "amount_financed_eur": 72995,
-        "monthly_payment_10k_deposit_eur": 1132.73,
+        "gmfv_eur": 32604.8,
+        "amount_financed_eur": 91890,
+        "monthly_payment_10k_deposit_eur": 1441.92,
         "deposit_for_400pm_eur": 0
-      }
-    },
-    {
-      "make": "Porsche",
-      "model": "Macan Electric",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 88746,
-      "interest_rate_pct": 4.9,
-      "typical_pcp_term_months": 37,
-      "grant_eligible": "No",
-      "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 88746,
-      "url": "https://www.porsche.com/uk/_ireland_/models/macan/",
-      "finance_24m": {
-        "gmfv_eur": 48810.3,
-        "amount_financed_eur": 78746,
-        "monthly_payment_10k_deposit_eur": 1511.29,
-        "deposit_for_400pm_eur": 35356.49
       },
-      "finance_36m": {
-        "gmfv_eur": 37273.32,
-        "amount_financed_eur": 78746,
-        "monthly_payment_10k_deposit_eur": 1393.31,
-        "deposit_for_400pm_eur": 43192.24
-      },
-      "finance_48m": {
-        "gmfv_eur": 28398.72,
-        "amount_financed_eur": 78746,
-        "monthly_payment_10k_deposit_eur": 1273.14,
-        "deposit_for_400pm_eur": 47989.19
-      }
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Porsche",
@@ -4708,38 +4973,42 @@
         "amount_financed_eur": 82609,
         "monthly_payment_10k_deposit_eur": 1338.57,
         "deposit_for_400pm_eur": 50835.65
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From web search"
     },
     {
       "make": "Porsche",
-      "model": "Taycan Sport Turismo",
+      "model": "Macan Electric",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 103704,
+      "price_eur": 96623,
       "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 103704,
-      "url": "https://www.porsche.com/uk/_ireland_/models/taycan/",
+      "net_price_after_grant_eur": 96623,
+      "url": "https://www.porsche.com/uk/_ireland_/models/macan/",
       "finance_24m": {
-        "gmfv_eur": 57037.2,
-        "amount_financed_eur": 93704,
-        "monthly_payment_10k_deposit_eur": 1839.88,
+        "gmfv_eur": 53142.65,
+        "amount_financed_eur": 86623,
+        "monthly_payment_10k_deposit_eur": 1684.33,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 43555.68,
-        "amount_financed_eur": 93704,
-        "monthly_payment_10k_deposit_eur": 1678.59,
+        "gmfv_eur": 40581.66,
+        "amount_financed_eur": 86623,
+        "monthly_payment_10k_deposit_eur": 1543.54,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 33185.28,
-        "amount_financed_eur": 93704,
-        "monthly_payment_10k_deposit_eur": 1526.47,
+        "gmfv_eur": 30919.36,
+        "amount_financed_eur": 86623,
+        "monthly_payment_10k_deposit_eur": 1406.55,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Porsche",
@@ -4770,7 +5039,42 @@
         "amount_financed_eur": 97551,
         "monthly_payment_10k_deposit_eur": 1591.62,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Porsche Ireland configurator"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan Sport Turismo",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 122254,
+      "interest_rate_pct": 4.9,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "No",
+      "seai_grant_eur": 0,
+      "net_price_after_grant_eur": 122254,
+      "url": "https://www.porsche.com/uk/_ireland_/models/taycan/",
+      "finance_24m": {
+        "gmfv_eur": 67239.7,
+        "amount_financed_eur": 112254,
+        "monthly_payment_10k_deposit_eur": 2247.39,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 51346.68,
+        "amount_financed_eur": 112254,
+        "monthly_payment_10k_deposit_eur": 2032.38,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 39121.28,
+        "amount_financed_eur": 112254,
+        "monthly_payment_10k_deposit_eur": 1840.63,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Porsche",
@@ -4801,7 +5105,9 @@
         "amount_financed_eur": 117321,
         "monthly_payment_10k_deposit_eur": 1926.44,
         "deposit_for_400pm_eur": 143421.99
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From original dataset - may be outdated"
     },
     {
       "make": "Porsche",
@@ -4832,7 +5138,9 @@
         "amount_financed_eur": 119000,
         "monthly_payment_10k_deposit_eur": 1954.88,
         "deposit_for_400pm_eur": 145542.82
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check Porsche Ireland configurator"
     },
     {
       "make": "Porsche",
@@ -4863,7 +5171,9 @@
         "amount_financed_eur": 147000,
         "monthly_payment_10k_deposit_eur": 2429.08,
         "deposit_for_400pm_eur": 98282.23
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from Porsche range"
     },
     {
       "make": "Porsche",
@@ -4894,7 +5204,9 @@
         "amount_financed_eur": 175000,
         "monthly_payment_10k_deposit_eur": 2903.28,
         "deposit_for_400pm_eur": 118914.06
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from Porsche range"
     },
     {
       "make": "Renault",
@@ -4925,7 +5237,9 @@
         "amount_financed_eur": 9995,
         "monthly_payment_10k_deposit_eur": 101.84,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Not yet on sale in Ireland"
     },
     {
       "make": "Renault",
@@ -4956,38 +5270,42 @@
         "amount_financed_eur": 12495,
         "monthly_payment_10k_deposit_eur": 121.15,
         "deposit_for_400pm_eur": 11862.99
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Renault Ireland price list April 2026"
     },
     {
       "make": "Renault",
       "model": "4 E-Tech Electric 40kWh",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 26995,
+      "price_eur": 27995,
       "interest_rate_pct": 3.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 26995,
+      "net_price_after_grant_eur": 27995,
       "url": "https://www.renault.ie/vehicles/renault-4.html",
       "finance_24m": {
-        "gmfv_eur": 14847.25,
-        "amount_financed_eur": 16995,
-        "monthly_payment_10k_deposit_eur": 141.42,
-        "deposit_for_400pm_eur": 4039.34
+        "gmfv_eur": 15397.25,
+        "amount_financed_eur": 17995,
+        "monthly_payment_10k_deposit_eur": 162.73,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 11337.9,
-        "amount_financed_eur": 16995,
-        "monthly_payment_10k_deposit_eur": 203.62,
-        "deposit_for_400pm_eur": 3338.32
+        "gmfv_eur": 11757.9,
+        "amount_financed_eur": 17995,
+        "monthly_payment_10k_deposit_eur": 222.08,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 8638.4,
-        "amount_financed_eur": 16995,
-        "monthly_payment_10k_deposit_eur": 216.39,
-        "deposit_for_400pm_eur": 1851.78
-      }
+        "gmfv_eur": 8958.4,
+        "amount_financed_eur": 17995,
+        "monthly_payment_10k_deposit_eur": 232.75,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Renault",
@@ -5018,7 +5336,9 @@
         "amount_financed_eur": 19495,
         "monthly_payment_10k_deposit_eur": 257.29,
         "deposit_for_400pm_eur": 3667.16
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Renault Ireland price list April 2026"
     },
     {
       "make": "Renault",
@@ -5049,7 +5369,9 @@
         "amount_financed_eur": 20490,
         "monthly_payment_10k_deposit_eur": 273.58,
         "deposit_for_400pm_eur": 21088.94
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Renault Ireland price list April 2026"
     },
     {
       "make": "Renault",
@@ -5080,7 +5402,9 @@
         "amount_financed_eur": 21995,
         "monthly_payment_10k_deposit_eur": 298.2,
         "deposit_for_400pm_eur": 5482.54
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Renault price list - higher trim"
     },
     {
       "make": "Renault",
@@ -5111,38 +5435,42 @@
         "amount_financed_eur": 21995,
         "monthly_payment_10k_deposit_eur": 298.2,
         "deposit_for_400pm_eur": 5482.54
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Renault Ireland price list April 2026"
     },
     {
       "make": "Renault",
       "model": "Megane E-Tech",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 34495,
+      "price_eur": 36570,
       "interest_rate_pct": 3.9,
       "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 30995,
+      "net_price_after_grant_eur": 36570,
       "url": "https://www.renault.ie/cars/megane-electric/versions.html",
       "finance_24m": {
-        "gmfv_eur": 18972.25,
-        "amount_financed_eur": 20995,
-        "monthly_payment_10k_deposit_eur": 149.41,
-        "deposit_for_400pm_eur": 39325.13
+        "gmfv_eur": 20113.5,
+        "amount_financed_eur": 26570,
+        "monthly_payment_10k_deposit_eur": 345.45,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 14487.9,
-        "amount_financed_eur": 20995,
-        "monthly_payment_10k_deposit_eur": 238.91,
-        "deposit_for_400pm_eur": 30316.93
+        "gmfv_eur": 15359.4,
+        "amount_financed_eur": 26570,
+        "monthly_payment_10k_deposit_eur": 380.4,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 11038.4,
-        "amount_financed_eur": 20995,
-        "monthly_payment_10k_deposit_eur": 260.24,
-        "deposit_for_400pm_eur": 22690.7
-      }
+        "gmfv_eur": 11702.4,
+        "amount_financed_eur": 26570,
+        "monthly_payment_10k_deposit_eur": 373.06,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Renault",
@@ -5173,7 +5501,9 @@
         "amount_financed_eur": 26495,
         "monthly_payment_10k_deposit_eur": 350.24,
         "deposit_for_400pm_eur": 29696.87
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Renault",
@@ -5204,7 +5534,9 @@
         "amount_financed_eur": 31995,
         "monthly_payment_10k_deposit_eur": 461.84,
         "deposit_for_400pm_eur": 12744.05
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Renault Ireland price list April 2026"
     },
     {
       "make": "Renault",
@@ -5235,7 +5567,9 @@
         "amount_financed_eur": 35495,
         "monthly_payment_10k_deposit_eur": 519.11,
         "deposit_for_400pm_eur": 15285.58
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Renault Ireland price list April 2026"
     },
     {
       "make": "Renault",
@@ -5266,38 +5600,9 @@
         "amount_financed_eur": 37495,
         "monthly_payment_10k_deposit_eur": 551.83,
         "deposit_for_400pm_eur": 16737.89
-      }
-    },
-    {
-      "make": "Skoda",
-      "model": "Elroq",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 36545,
-      "interest_rate_pct": 0,
-      "typical_pcp_term_months": 24,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 33045,
-      "url": "https://www.skoda.ie/models/elroq/elroq",
-      "finance_24m": {
-        "gmfv_eur": 20099.75,
-        "amount_financed_eur": 23045,
-        "monthly_payment_10k_deposit_eur": 122.72,
-        "deposit_for_400pm_eur": 43544.75
       },
-      "finance_36m": {
-        "gmfv_eur": 15348.9,
-        "amount_financed_eur": 23045,
-        "monthly_payment_10k_deposit_eur": 213.78,
-        "deposit_for_400pm_eur": 33993.9
-      },
-      "finance_48m": {
-        "gmfv_eur": 11694.4,
-        "amount_financed_eur": 23045,
-        "monthly_payment_10k_deposit_eur": 236.47,
-        "deposit_for_400pm_eur": 25539.4
-      }
+      "price_verified": "verified",
+      "price_source": "Renault Ireland price list April 2026"
     },
     {
       "make": "Skoda",
@@ -5328,38 +5633,42 @@
         "amount_financed_eur": 29545,
         "monthly_payment_10k_deposit_eur": 351.89,
         "deposit_for_400pm_eur": 7690.6
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from base Elroq"
     },
     {
       "make": "Skoda",
-      "model": "Enyaq",
+      "model": "Elroq",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 43060,
+      "price_eur": 43468,
       "interest_rate_pct": 0,
       "typical_pcp_term_months": 24,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 39560,
-      "url": "https://www.skoda.ie/models/enyaq/enyaq",
+      "net_price_after_grant_eur": 43468,
+      "url": "https://www.skoda.ie/models/elroq/elroq",
       "finance_24m": {
-        "gmfv_eur": 23683,
-        "amount_financed_eur": 29560,
-        "monthly_payment_10k_deposit_eur": 244.88,
-        "deposit_for_400pm_eur": 53643
+        "gmfv_eur": 23907.4,
+        "amount_financed_eur": 33468,
+        "monthly_payment_10k_deposit_eur": 398.36,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 18085.2,
-        "amount_financed_eur": 29560,
-        "monthly_payment_10k_deposit_eur": 318.74,
-        "deposit_for_400pm_eur": 43245.2
+        "gmfv_eur": 18256.56,
+        "amount_financed_eur": 33468,
+        "monthly_payment_10k_deposit_eur": 422.54,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 13779.2,
-        "amount_financed_eur": 29560,
-        "monthly_payment_10k_deposit_eur": 328.77,
-        "deposit_for_400pm_eur": 34139.2
-      }
+        "gmfv_eur": 13909.76,
+        "amount_financed_eur": 33468,
+        "monthly_payment_10k_deposit_eur": 407.46,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Skoda",
@@ -5390,7 +5699,42 @@
         "amount_financed_eur": 35545,
         "monthly_payment_10k_deposit_eur": 436.89,
         "deposit_for_400pm_eur": 11770.6
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from base Elroq"
+    },
+    {
+      "make": "Skoda",
+      "model": "Enyaq",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 45980,
+      "interest_rate_pct": 0,
+      "typical_pcp_term_months": 24,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 45980,
+      "url": "https://www.skoda.ie/models/enyaq/enyaq",
+      "finance_24m": {
+        "gmfv_eur": 25289,
+        "amount_financed_eur": 35980,
+        "monthly_payment_10k_deposit_eur": 445.46,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 19311.6,
+        "amount_financed_eur": 35980,
+        "monthly_payment_10k_deposit_eur": 463.01,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 14713.6,
+        "amount_financed_eur": 35980,
+        "monthly_payment_10k_deposit_eur": 443.05,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Skoda",
@@ -5421,7 +5765,9 @@
         "amount_financed_eur": 33450,
         "monthly_payment_10k_deposit_eur": 383.88,
         "deposit_for_400pm_eur": 39274
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check skoda.ie"
     },
     {
       "make": "Skoda",
@@ -5452,7 +5798,9 @@
         "amount_financed_eur": 37950,
         "monthly_payment_10k_deposit_eur": 470.96,
         "deposit_for_400pm_eur": 13406
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from Enyaq pricing"
     },
     {
       "make": "Skoda",
@@ -5483,7 +5831,9 @@
         "amount_financed_eur": 44385,
         "monthly_payment_10k_deposit_eur": 611.75,
         "deposit_for_400pm_eur": 52041.07
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Original dataset"
     },
     {
       "make": "Skoda",
@@ -5514,69 +5864,75 @@
         "amount_financed_eur": 47995,
         "monthly_payment_10k_deposit_eur": 666.73,
         "deposit_for_400pm_eur": 22319.28
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check skoda.ie"
     },
     {
       "make": "Smart",
       "model": "#1",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 28816,
+      "price_eur": 25316,
       "interest_rate_pct": 3.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 28816,
+      "net_price_after_grant_eur": 25316,
       "url": "https://smartelectric.ie/new-cars/smart-1/",
       "finance_24m": {
-        "gmfv_eur": 15848.8,
-        "amount_financed_eur": 18816,
-        "monthly_payment_10k_deposit_eur": 180.23,
+        "gmfv_eur": 13923.8,
+        "amount_financed_eur": 15316,
+        "monthly_payment_10k_deposit_eur": 105.65,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 12102.72,
-        "amount_financed_eur": 18816,
-        "monthly_payment_10k_deposit_eur": 237.24,
+        "gmfv_eur": 10632.72,
+        "amount_financed_eur": 15316,
+        "monthly_payment_10k_deposit_eur": 172.62,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 9221.12,
-        "amount_financed_eur": 18816,
-        "monthly_payment_10k_deposit_eur": 246.18,
+        "gmfv_eur": 8101.12,
+        "amount_financed_eur": 15316,
+        "monthly_payment_10k_deposit_eur": 188.91,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Smart Ireland / RTE April 2026 guide"
     },
     {
       "make": "Smart",
       "model": "#3",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 35950,
+      "price_eur": 38714,
       "interest_rate_pct": 3.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 35950,
+      "net_price_after_grant_eur": 38714,
       "url": "https://smartelectric.ie/new-cars/smart-3/",
       "finance_24m": {
-        "gmfv_eur": 19772.5,
-        "amount_financed_eur": 25950,
-        "monthly_payment_10k_deposit_eur": 332.24,
+        "gmfv_eur": 21292.7,
+        "amount_financed_eur": 28714,
+        "monthly_payment_10k_deposit_eur": 391.14,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 15099,
-        "amount_financed_eur": 25950,
-        "monthly_payment_10k_deposit_eur": 368.95,
+        "gmfv_eur": 16259.88,
+        "amount_financed_eur": 28714,
+        "monthly_payment_10k_deposit_eur": 419.99,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 11504,
-        "amount_financed_eur": 25950,
-        "monthly_payment_10k_deposit_eur": 362.92,
+        "gmfv_eur": 12388.48,
+        "amount_financed_eur": 28714,
+        "monthly_payment_10k_deposit_eur": 408.15,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Subaru",
@@ -5607,7 +5963,9 @@
         "amount_financed_eur": 34995,
         "monthly_payment_10k_deposit_eur": 532.19,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Subaru Ireland / RTE guide"
     },
     {
       "make": "Suzuki",
@@ -5638,69 +5996,75 @@
         "amount_financed_eur": 20595,
         "monthly_payment_10k_deposit_eur": 275.29,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From dealer listing - verify on suzuki.ie"
     },
     {
       "make": "Tesla",
       "model": "Model 3 RWD",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 36484,
+      "price_eur": 39990,
       "interest_rate_pct": 1.99,
       "typical_pcp_term_months": 48,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 32984,
+      "net_price_after_grant_eur": 39990,
       "url": "https://www.tesla.com/en_ie/model3",
       "finance_24m": {
-        "gmfv_eur": 20066.2,
-        "amount_financed_eur": 22984,
-        "monthly_payment_10k_deposit_eur": 157.39,
-        "deposit_for_400pm_eur": 42864.06
+        "gmfv_eur": 21994.5,
+        "amount_financed_eur": 29990,
+        "monthly_payment_10k_deposit_eur": 376.57,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 15323.28,
-        "amount_financed_eur": 22984,
-        "monthly_payment_10k_deposit_eur": 244.8,
-        "deposit_for_400pm_eur": 33452.61
+        "gmfv_eur": 16795.8,
+        "amount_financed_eur": 29990,
+        "monthly_payment_10k_deposit_eur": 405.71,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 11674.88,
-        "amount_financed_eur": 22984,
-        "monthly_payment_10k_deposit_eur": 264.66,
-        "deposit_for_400pm_eur": 25325.26
-      }
+        "gmfv_eur": 12796.8,
+        "amount_financed_eur": 29990,
+        "monthly_payment_10k_deposit_eur": 394.15,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Tesla",
       "model": "Model Y RWD",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 41832,
+      "price_eur": 42990,
       "interest_rate_pct": 1.99,
       "typical_pcp_term_months": 48,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 38332,
+      "net_price_after_grant_eur": 42990,
       "url": "https://www.tesla.com/en_ie/modely",
       "finance_24m": {
-        "gmfv_eur": 23007.6,
-        "amount_financed_eur": 28332,
-        "monthly_payment_10k_deposit_eur": 264.63,
-        "deposit_for_400pm_eur": 51038.78
+        "gmfv_eur": 23644.5,
+        "amount_financed_eur": 32990,
+        "monthly_payment_10k_deposit_eur": 436.73,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 17569.44,
-        "amount_financed_eur": 28332,
-        "monthly_payment_10k_deposit_eur": 337.36,
-        "deposit_for_400pm_eur": 40916.71
+        "gmfv_eur": 18055.8,
+        "amount_financed_eur": 32990,
+        "monthly_payment_10k_deposit_eur": 457.63,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 13386.24,
-        "amount_financed_eur": 28332,
-        "monthly_payment_10k_deposit_eur": 346.38,
-        "deposit_for_400pm_eur": 32253.78
-      }
+        "gmfv_eur": 13756.8,
+        "amount_financed_eur": 32990,
+        "monthly_payment_10k_deposit_eur": 440,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Tesla",
@@ -5731,7 +6095,9 @@
         "amount_financed_eur": 35484,
         "monthly_payment_10k_deposit_eur": 478.11,
         "deposit_for_400pm_eur": 13600.86
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from RWD price + typical LR premium"
     },
     {
       "make": "Tesla",
@@ -5762,7 +6128,9 @@
         "amount_financed_eur": 40832,
         "monthly_payment_10k_deposit_eur": 559.82,
         "deposit_for_400pm_eur": 17368.34
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from RWD price + typical LR premium"
     },
     {
       "make": "Tesla",
@@ -5793,7 +6161,9 @@
         "amount_financed_eur": 42984,
         "monthly_payment_10k_deposit_eur": 592.71,
         "deposit_for_400pm_eur": 18884.35
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check tesla.com/en_ie"
     },
     {
       "make": "Tesla",
@@ -5824,7 +6194,9 @@
         "amount_financed_eur": 47832,
         "monthly_payment_10k_deposit_eur": 666.79,
         "deposit_for_400pm_eur": 22299.59
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check tesla.com/en_ie"
     },
     {
       "make": "Toyota",
@@ -5855,7 +6227,9 @@
         "amount_financed_eur": 14195,
         "monthly_payment_10k_deposit_eur": 170.57,
         "deposit_for_400pm_eur": 13070.07
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Toyota Ireland website"
     },
     {
       "make": "Toyota",
@@ -5886,7 +6260,9 @@
         "amount_financed_eur": 16500,
         "monthly_payment_10k_deposit_eur": 229.68,
         "deposit_for_400pm_eur": 16135.79
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Toyota Ireland website"
     },
     {
       "make": "Toyota",
@@ -5917,7 +6293,9 @@
         "amount_financed_eur": 20500,
         "monthly_payment_10k_deposit_eur": 273.74,
         "deposit_for_400pm_eur": 4396.94
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check toyota.ie"
     },
     {
       "make": "Toyota",
@@ -5948,7 +6326,9 @@
         "amount_financed_eur": 23500,
         "monthly_payment_10k_deposit_eur": 337.51,
         "deposit_for_400pm_eur": 24912.09
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Toyota Ireland website"
     },
     {
       "make": "Toyota",
@@ -5979,7 +6359,9 @@
         "amount_financed_eur": 24500,
         "monthly_payment_10k_deposit_eur": 354.44,
         "deposit_for_400pm_eur": 26175.24
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Toyota Ireland website"
     },
     {
       "make": "Toyota",
@@ -6010,7 +6392,9 @@
         "amount_financed_eur": 25500,
         "monthly_payment_10k_deposit_eur": 371.38,
         "deposit_for_400pm_eur": 8754.82
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check toyota.ie"
     },
     {
       "make": "Toyota",
@@ -6041,7 +6425,9 @@
         "amount_financed_eur": 25995,
         "monthly_payment_10k_deposit_eur": 363.66,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Not yet on sale in Ireland"
     },
     {
       "make": "Toyota",
@@ -6072,7 +6458,42 @@
         "amount_financed_eur": 28000,
         "monthly_payment_10k_deposit_eur": 396.46,
         "deposit_for_400pm_eur": 30655.54
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Toyota Ireland website"
+    },
+    {
+      "make": "Toyota",
+      "model": "bZ4X",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 42160,
+      "interest_rate_pct": 3.9,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 42160,
+      "url": "https://www.toyota.ie/new-cars/bz4x",
+      "finance_24m": {
+        "gmfv_eur": 23188,
+        "amount_financed_eur": 32160,
+        "monthly_payment_10k_deposit_eur": 464.57,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 17707.2,
+        "amount_financed_eur": 32160,
+        "monthly_payment_10k_deposit_eur": 483.61,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 13491.2,
+        "amount_financed_eur": 32160,
+        "monthly_payment_10k_deposit_eur": 464.54,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Toyota",
@@ -6103,38 +6524,9 @@
         "amount_financed_eur": 32205,
         "monthly_payment_10k_deposit_eur": 465.27,
         "deposit_for_400pm_eur": 36012.07
-      }
-    },
-    {
-      "make": "Toyota",
-      "model": "bZ4X",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 44995,
-      "interest_rate_pct": 3.9,
-      "typical_pcp_term_months": 37,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 44995,
-      "url": "https://www.toyota.ie/new-cars/bz4x",
-      "finance_24m": {
-        "gmfv_eur": 24747.25,
-        "amount_financed_eur": 34995,
-        "monthly_payment_10k_deposit_eur": 524.98,
-        "deposit_for_400pm_eur": 12881.03
       },
-      "finance_36m": {
-        "gmfv_eur": 18897.9,
-        "amount_financed_eur": 34995,
-        "monthly_payment_10k_deposit_eur": 535.95,
-        "deposit_for_400pm_eur": 14611.78
-      },
-      "finance_48m": {
-        "gmfv_eur": 14398.4,
-        "amount_financed_eur": 34995,
-        "monthly_payment_10k_deposit_eur": 510.93,
-        "deposit_for_400pm_eur": 14922.51
-      }
+      "price_verified": "verified",
+      "price_source": "Toyota Ireland website"
     },
     {
       "make": "Toyota",
@@ -6165,7 +6557,9 @@
         "amount_financed_eur": 35900,
         "monthly_payment_10k_deposit_eur": 547.51,
         "deposit_for_400pm_eur": 40575.14
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Toyota Ireland website"
     },
     {
       "make": "Toyota",
@@ -6196,7 +6590,9 @@
         "amount_financed_eur": 36795,
         "monthly_payment_10k_deposit_eur": 562.67,
         "deposit_for_400pm_eur": 41705.66
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "Toyota Ireland website"
     },
     {
       "make": "Toyota",
@@ -6227,7 +6623,9 @@
         "amount_financed_eur": 42795,
         "monthly_payment_10k_deposit_eur": 664.29,
         "deposit_for_400pm_eur": 21498.66
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check toyota.ie"
     },
     {
       "make": "Toyota",
@@ -6258,100 +6656,75 @@
         "amount_financed_eur": 51995,
         "monthly_payment_10k_deposit_eur": 820.09,
         "deposit_for_400pm_eur": 28277.69
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check toyota.ie"
     },
     {
       "make": "Volkswagen",
       "model": "ID.3 Pure 52kWh",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 32905,
+      "price_eur": 31780,
       "interest_rate_pct": 1.9,
       "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 29405,
+      "net_price_after_grant_eur": 31780,
       "url": "https://www.volkswagen.ie/en/new-cars/id3.html",
       "finance_24m": {
-        "gmfv_eur": 18097.75,
-        "amount_financed_eur": 19405,
-        "monthly_payment_10k_deposit_eur": 84.21,
-        "deposit_for_400pm_eur": 37415.88
+        "gmfv_eur": 17479,
+        "amount_financed_eur": 21780,
+        "monthly_payment_10k_deposit_eur": 210.45,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 13820.1,
-        "amount_financed_eur": 19405,
-        "monthly_payment_10k_deposit_eur": 181.6,
-        "deposit_for_400pm_eur": 28473.44
+        "gmfv_eur": 13347.6,
+        "amount_financed_eur": 21780,
+        "monthly_payment_10k_deposit_eur": 262.29,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 10529.6,
-        "amount_financed_eur": 19405,
-        "monthly_payment_10k_deposit_eur": 208.84,
-        "deposit_for_400pm_eur": 20690.13
-      }
+        "gmfv_eur": 10169.6,
+        "amount_financed_eur": 21780,
+        "monthly_payment_10k_deposit_eur": 267.48,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Volkswagen",
       "model": "ID.4 Pure 52kWh",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 36630,
+      "price_eur": 39530,
       "interest_rate_pct": 0,
       "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 33130,
+      "net_price_after_grant_eur": 39530,
       "url": "https://www.volkswagen.ie/en/new-cars/ID4.html",
       "finance_24m": {
-        "gmfv_eur": 20146.5,
-        "amount_financed_eur": 23130,
-        "monthly_payment_10k_deposit_eur": 124.31,
-        "deposit_for_400pm_eur": 43676.5
+        "gmfv_eur": 21741.5,
+        "amount_financed_eur": 29530,
+        "monthly_payment_10k_deposit_eur": 324.52,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 15384.6,
-        "amount_financed_eur": 23130,
-        "monthly_payment_10k_deposit_eur": 215.15,
-        "deposit_for_400pm_eur": 34114.6
+        "gmfv_eur": 16602.6,
+        "amount_financed_eur": 29530,
+        "monthly_payment_10k_deposit_eur": 359.09,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 11721.6,
-        "amount_financed_eur": 23130,
-        "monthly_payment_10k_deposit_eur": 237.68,
-        "deposit_for_400pm_eur": 25651.6
-      }
-    },
-    {
-      "make": "Volkswagen",
-      "model": "ID.5 Pure 52kWh",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 39030,
-      "interest_rate_pct": 0,
-      "typical_pcp_term_months": 36,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 35530,
-      "url": "https://www.volkswagen.ie/en/new-cars/id5.html",
-      "finance_24m": {
-        "gmfv_eur": 21466.5,
-        "amount_financed_eur": 25530,
-        "monthly_payment_10k_deposit_eur": 169.31,
-        "deposit_for_400pm_eur": 47396.5
+        "gmfv_eur": 12649.6,
+        "amount_financed_eur": 29530,
+        "monthly_payment_10k_deposit_eur": 351.68,
+        "deposit_for_400pm_eur": 0
       },
-      "finance_36m": {
-        "gmfv_eur": 16392.6,
-        "amount_financed_eur": 25530,
-        "monthly_payment_10k_deposit_eur": 253.82,
-        "deposit_for_400pm_eur": 37522.6
-      },
-      "finance_48m": {
-        "gmfv_eur": 12489.6,
-        "amount_financed_eur": 25530,
-        "monthly_payment_10k_deposit_eur": 271.68,
-        "deposit_for_400pm_eur": 28819.6
-      }
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Volkswagen",
@@ -6382,7 +6755,42 @@
         "amount_financed_eur": 29905,
         "monthly_payment_10k_deposit_eur": 391.23,
         "deposit_for_400pm_eur": 9594.75
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from ID.3 Pure pricing"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.5 Pure 52kWh",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 42395,
+      "interest_rate_pct": 0,
+      "typical_pcp_term_months": 36,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 42395,
+      "url": "https://www.volkswagen.ie/en/new-cars/id5.html",
+      "finance_24m": {
+        "gmfv_eur": 23317.25,
+        "amount_financed_eur": 32395,
+        "monthly_payment_10k_deposit_eur": 378.24,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 17805.9,
+        "amount_financed_eur": 32395,
+        "monthly_payment_10k_deposit_eur": 405.25,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 13566.4,
+        "amount_financed_eur": 32395,
+        "monthly_payment_10k_deposit_eur": 392.26,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Volkswagen",
@@ -6413,7 +6821,9 @@
         "amount_financed_eur": 34630,
         "monthly_payment_10k_deposit_eur": 423.93,
         "deposit_for_400pm_eur": 11148.4
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from ID.4 Pure"
     },
     {
       "make": "Volkswagen",
@@ -6444,7 +6854,9 @@
         "amount_financed_eur": 37030,
         "monthly_payment_10k_deposit_eur": 457.93,
         "deposit_for_400pm_eur": 12780.4
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from ID.5 Pure"
     },
     {
       "make": "Volkswagen",
@@ -6475,7 +6887,9 @@
         "amount_financed_eur": 39115,
         "monthly_payment_10k_deposit_eur": 485.34,
         "deposit_for_400pm_eur": 46505.11
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From original dataset"
     },
     {
       "make": "Volkswagen",
@@ -6506,38 +6920,9 @@
         "amount_financed_eur": 41815,
         "monthly_payment_10k_deposit_eur": 502.38,
         "deposit_for_400pm_eur": 50315.8
-      }
-    },
-    {
-      "make": "Volkswagen",
-      "model": "ID.7 Pro Plus",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 57615,
-      "interest_rate_pct": 0.9,
-      "typical_pcp_term_months": 36,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 54115,
-      "url": "https://www.volkswagen.ie/en/new-cars/id7.html",
-      "finance_24m": {
-        "gmfv_eur": 31688.25,
-        "amount_financed_eur": 44115,
-        "monthly_payment_10k_deposit_eur": 546.42,
-        "deposit_for_400pm_eur": 75727.59
       },
-      "finance_36m": {
-        "gmfv_eur": 24198.3,
-        "amount_financed_eur": 44115,
-        "monthly_payment_10k_deposit_eur": 579.1,
-        "deposit_for_400pm_eur": 63466.84
-      },
-      "finance_48m": {
-        "gmfv_eur": 18436.8,
-        "amount_financed_eur": 44115,
-        "monthly_payment_10k_deposit_eur": 558.68,
-        "deposit_for_400pm_eur": 53048.55
-      }
+      "price_verified": "estimated",
+      "price_note": "From original dataset"
     },
     {
       "make": "Volkswagen",
@@ -6568,38 +6953,42 @@
         "amount_financed_eur": 48315,
         "monthly_payment_10k_deposit_eur": 617.8,
         "deposit_for_400pm_eur": 20454.2
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated"
     },
     {
       "make": "Volkswagen",
-      "model": "ID.Buzz Pro",
+      "model": "ID.7 Pro Plus",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 64415,
+      "price_eur": 59990,
       "interest_rate_pct": 0.9,
-      "typical_pcp_term_months": 37,
-      "grant_eligible": "No",
-      "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 64415,
-      "url": "https://www.volkswagen.ie/en/models/id-buzz.html",
+      "typical_pcp_term_months": 36,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 59990,
+      "url": "https://www.volkswagen.ie/en/new-cars/id7.html",
       "finance_24m": {
-        "gmfv_eur": 35428.25,
-        "amount_financed_eur": 54415,
-        "monthly_payment_10k_deposit_eur": 825.12,
-        "deposit_for_400pm_eur": 20107.94
+        "gmfv_eur": 32994.5,
+        "amount_financed_eur": 49990,
+        "monthly_payment_10k_deposit_eur": 739.55,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 27054.3,
-        "amount_financed_eur": 54415,
-        "monthly_payment_10k_deposit_eur": 790.9,
-        "deposit_for_400pm_eur": 23879.04
+        "gmfv_eur": 25195.8,
+        "amount_financed_eur": 49990,
+        "monthly_payment_10k_deposit_eur": 717.22,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 20612.8,
-        "amount_financed_eur": 54415,
-        "monthly_payment_10k_deposit_eur": 732.69,
-        "deposit_for_400pm_eur": 25679.23
-      }
+        "gmfv_eur": 19196.8,
+        "amount_financed_eur": 49990,
+        "monthly_payment_10k_deposit_eur": 667.78,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Volkswagen",
@@ -6630,7 +7019,42 @@
         "amount_financed_eur": 56815,
         "monthly_payment_10k_deposit_eur": 767.89,
         "deposit_for_400pm_eur": 68588.49
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From original dataset"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.Buzz Pro",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 67785,
+      "interest_rate_pct": 0.9,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "No",
+      "seai_grant_eur": 0,
+      "net_price_after_grant_eur": 67785,
+      "url": "https://www.volkswagen.ie/en/models/id-buzz.html",
+      "finance_24m": {
+        "gmfv_eur": 37281.75,
+        "amount_financed_eur": 57785,
+        "monthly_payment_10k_deposit_eur": 890.3,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 28469.7,
+        "amount_financed_eur": 57785,
+        "monthly_payment_10k_deposit_eur": 847.01,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 21691.2,
+        "amount_financed_eur": 57785,
+        "monthly_payment_10k_deposit_eur": 782.12,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Volkswagen",
@@ -6661,7 +7085,9 @@
         "amount_financed_eur": 59115,
         "monthly_payment_10k_deposit_eur": 801.63,
         "deposit_for_400pm_eur": 71598.48
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From original dataset"
     },
     {
       "make": "Volkswagen",
@@ -6692,38 +7118,42 @@
         "amount_financed_eur": 64415,
         "monthly_payment_10k_deposit_eur": 879.37,
         "deposit_for_400pm_eur": 32592.34
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from ID.Buzz Pro"
     },
     {
       "make": "Volvo",
       "model": "EX30 Plus RWD",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 45655,
+      "price_eur": 41555,
       "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 42155,
+      "net_price_after_grant_eur": 41555,
       "url": "https://www.volvocars.com/ie/cars/ex30-electric/",
       "finance_24m": {
-        "gmfv_eur": 25110.25,
-        "amount_financed_eur": 32155,
-        "monthly_payment_10k_deposit_eur": 411.28,
-        "deposit_for_400pm_eur": 55798.85
+        "gmfv_eur": 22855.25,
+        "amount_financed_eur": 31555,
+        "monthly_payment_10k_deposit_eur": 474.61,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 19175.1,
-        "amount_financed_eur": 32155,
-        "monthly_payment_10k_deposit_eur": 466.74,
-        "deposit_for_400pm_eur": 45347.41
+        "gmfv_eur": 17453.1,
+        "amount_financed_eur": 31555,
+        "monthly_payment_10k_deposit_eur": 493.28,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 14609.6,
-        "amount_financed_eur": 32155,
-        "monthly_payment_10k_deposit_eur": 462.92,
-        "deposit_for_400pm_eur": 36765.67
-      }
+        "gmfv_eur": 13297.6,
+        "amount_financed_eur": 31555,
+        "monthly_payment_10k_deposit_eur": 473.93,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Volvo",
@@ -6754,69 +7184,42 @@
         "amount_financed_eur": 39655,
         "monthly_payment_10k_deposit_eur": 611.11,
         "deposit_for_400pm_eur": 19184.95
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated from EX30 Plus pricing"
     },
     {
       "make": "Volvo",
       "model": "EX40",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 50000,
+      "price_eur": 51025,
       "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 36,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 46500,
+      "net_price_after_grant_eur": 51025,
       "url": "https://www.volvocars.com/ie/cars/ex40-electric/",
       "finance_24m": {
-        "gmfv_eur": 27500,
-        "amount_financed_eur": 36500,
-        "monthly_payment_10k_deposit_eur": 506.73,
-        "deposit_for_400pm_eur": 62310.95
-      },
-      "finance_36m": {
-        "gmfv_eur": 21000,
-        "amount_financed_eur": 36500,
-        "monthly_payment_10k_deposit_eur": 549.6,
-        "deposit_for_400pm_eur": 51268.31
-      },
-      "finance_48m": {
-        "gmfv_eur": 16000,
-        "amount_financed_eur": 36500,
-        "monthly_payment_10k_deposit_eur": 536.51,
-        "deposit_for_400pm_eur": 42254.05
-      }
-    },
-    {
-      "make": "Volvo",
-      "model": "EC40",
-      "year": "2025",
-      "type": "BEV",
-      "price_eur": 52995,
-      "interest_rate_pct": 4.9,
-      "typical_pcp_term_months": 37,
-      "grant_eligible": "Yes",
-      "seai_grant_eur": 3500,
-      "net_price_after_grant_eur": 52995,
-      "url": "https://www.volvocars.com/ie/cars/",
-      "finance_24m": {
-        "gmfv_eur": 29147.25,
-        "amount_financed_eur": 42995,
-        "monthly_payment_10k_deposit_eur": 725.92,
+        "gmfv_eur": 28063.75,
+        "amount_financed_eur": 41025,
+        "monthly_payment_10k_deposit_eur": 682.64,
         "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 22257.9,
-        "amount_financed_eur": 42995,
-        "monthly_payment_10k_deposit_eur": 711.47,
+        "gmfv_eur": 21430.5,
+        "amount_financed_eur": 41025,
+        "monthly_payment_10k_deposit_eur": 673.89,
         "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 16958.4,
-        "amount_financed_eur": 42995,
-        "monthly_payment_10k_deposit_eur": 667.67,
+        "gmfv_eur": 16328,
+        "amount_financed_eur": 41025,
+        "monthly_payment_10k_deposit_eur": 634.31,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Volvo",
@@ -6847,7 +7250,42 @@
         "amount_financed_eur": 44995,
         "monthly_payment_10k_deposit_eur": 701.54,
         "deposit_for_400pm_eur": 23119.73
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check volvocars.com/ie"
+    },
+    {
+      "make": "Volvo",
+      "model": "EC40",
+      "year": "2025",
+      "type": "BEV",
+      "price_eur": 55995,
+      "interest_rate_pct": 4.9,
+      "typical_pcp_term_months": 37,
+      "grant_eligible": "Yes",
+      "seai_grant_eur": 3500,
+      "net_price_after_grant_eur": 55995,
+      "url": "https://www.volvocars.com/ie/cars/",
+      "finance_24m": {
+        "gmfv_eur": 30797.25,
+        "amount_financed_eur": 45995,
+        "monthly_payment_10k_deposit_eur": 791.82,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_36m": {
+        "gmfv_eur": 23517.9,
+        "amount_financed_eur": 45995,
+        "monthly_payment_10k_deposit_eur": 768.68,
+        "deposit_for_400pm_eur": 0
+      },
+      "finance_48m": {
+        "gmfv_eur": 17918.4,
+        "amount_financed_eur": 45995,
+        "monthly_payment_10k_deposit_eur": 718.48,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Volvo",
@@ -6878,7 +7316,9 @@
         "amount_financed_eur": 49995,
         "monthly_payment_10k_deposit_eur": 786.22,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Not yet on sale - estimated pricing"
     },
     {
       "make": "Volvo",
@@ -6909,7 +7349,9 @@
         "amount_financed_eur": 56995,
         "monthly_payment_10k_deposit_eur": 904.77,
         "deposit_for_400pm_eur": 31961.94
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Estimated - check volvocars.com/ie"
     },
     {
       "make": "Volvo",
@@ -6940,38 +7382,42 @@
         "amount_financed_eur": 69995,
         "monthly_payment_10k_deposit_eur": 1124.94,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Volvo",
       "model": "EX90 Twin Motor",
       "year": "2025",
       "type": "BEV",
-      "price_eur": 82595,
+      "price_eur": 104890,
       "interest_rate_pct": 4.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
-      "net_price_after_grant_eur": 82595,
+      "net_price_after_grant_eur": 104890,
       "url": "https://www.volvocars.com/ie/cars/ex90/",
       "finance_24m": {
-        "gmfv_eur": 45427.25,
-        "amount_financed_eur": 72595,
-        "monthly_payment_10k_deposit_eur": 1376.17,
-        "deposit_for_400pm_eur": 32273.34
+        "gmfv_eur": 57689.5,
+        "amount_financed_eur": 94890,
+        "monthly_payment_10k_deposit_eur": 1865.94,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
-        "gmfv_eur": 34689.9,
-        "amount_financed_eur": 72595,
-        "monthly_payment_10k_deposit_eur": 1276,
-        "deposit_for_400pm_eur": 39272.16
+        "gmfv_eur": 44053.8,
+        "amount_financed_eur": 94890,
+        "monthly_payment_10k_deposit_eur": 1701.21,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
-        "gmfv_eur": 26430.4,
-        "amount_financed_eur": 72595,
-        "monthly_payment_10k_deposit_eur": 1168.97,
-        "deposit_for_400pm_eur": 43456.82
-      }
+        "gmfv_eur": 33564.8,
+        "amount_financed_eur": 94890,
+        "monthly_payment_10k_deposit_eur": 1546.56,
+        "deposit_for_400pm_eur": 0
+      },
+      "price_verified": "verified",
+      "price_source": "RTE April 2026 guide"
     },
     {
       "make": "Xpeng",
@@ -7002,7 +7448,9 @@
         "amount_financed_eur": 32000,
         "monthly_payment_10k_deposit_eur": 461.92,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "From Irish Times article Feb 2025"
     },
     {
       "make": "Xpeng",
@@ -7033,7 +7481,9 @@
         "amount_financed_eur": 42000,
         "monthly_payment_10k_deposit_eur": 625.55,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "Not yet confirmed for Ireland"
     },
     {
       "make": "Zeekr",
@@ -7064,7 +7514,9 @@
         "amount_financed_eur": 32995,
         "monthly_payment_10k_deposit_eur": 478.2,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "No Irish pricing confirmed yet"
     },
     {
       "make": "Zeekr",
@@ -7095,7 +7547,9 @@
         "amount_financed_eur": 39995,
         "monthly_payment_10k_deposit_eur": 592.74,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "No Irish pricing confirmed yet"
     },
     {
       "make": "Zeekr",
@@ -7126,7 +7580,9 @@
         "amount_financed_eur": 49995,
         "monthly_payment_10k_deposit_eur": 756.38,
         "deposit_for_400pm_eur": 0
-      }
+      },
+      "price_verified": "estimated",
+      "price_note": "No Irish pricing confirmed yet"
     }
   ]
 }
