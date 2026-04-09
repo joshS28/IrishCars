@@ -93,7 +93,8 @@
       "price_verified": "estimated",
       "price_note": "From Alfa Romeo Ireland website",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check alfaromeo.ie"
+      "rate_note": "Estimated - check alfaromeo.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14023/alfa_romeo_junior_ev_red_2025_004.jpg"
     },
     {
       "make": "Audi",
@@ -128,7 +129,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Audi Ireland finance calc, April 2026"
+      "rate_source": "Audi Ireland finance calc, April 2026",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11030/audi_q4_e_tron_40_blue_2021_suv_015.jpg"
     },
     {
       "make": "Audi",
@@ -163,7 +165,8 @@
       "price_verified": "estimated",
       "price_note": "No Irish source for this specific trim",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as Q4 40 - verify on audi.ie"
+      "rate_note": "Assumed same as Q4 40 - verify on audi.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11030/audi_q4_e_tron_40_blue_2021_suv_015.jpg"
     },
     {
       "make": "Audi",
@@ -198,7 +201,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from European pricing",
       "rate_verified": "verified",
-      "rate_source": "Audi Cork dealer, Sept 2025"
+      "rate_source": "Audi Cork dealer, Sept 2025",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13466/audi_q6_e_tron_suv_ev_2024_031.jpg"
     },
     {
       "make": "Audi",
@@ -233,7 +237,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Audi range - verify on audi.ie"
+      "rate_note": "Assumed from Audi range - verify on audi.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13528/audi_a6_e_tron_2025_004.jpg"
     },
     {
       "make": "Audi",
@@ -268,7 +273,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as Q6 - verify on audi.ie"
+      "rate_note": "Assumed same as Q6 - verify on audi.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13466/audi_q6_e_tron_suv_ev_2024_031.jpg"
     },
     {
       "make": "Audi",
@@ -303,7 +309,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check audi.ie for current price",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check audi.ie"
+      "rate_note": "Estimated - check audi.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13406/audi_e_tron_gt_2024_010.jpg"
     },
     {
       "make": "Audi",
@@ -338,7 +345,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check audi.ie"
+      "rate_note": "Estimated - check audi.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13406/audi_e_tron_gt_2024_010.jpg"
     },
     {
       "make": "BMW",
@@ -373,7 +381,8 @@
       "price_verified": "verified",
       "price_source": "BMW Ireland press release",
       "rate_verified": "verified",
-      "rate_source": "BMW Ireland"
+      "rate_source": "BMW Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11906/bmw_ix1_xdrive30_34.jpg"
     },
     {
       "make": "BMW",
@@ -408,7 +417,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "BMW Ireland"
+      "rate_source": "BMW Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12765/bmw_ix2_2024_red_025.jpg"
     },
     {
       "make": "BMW",
@@ -443,7 +453,8 @@
       "price_verified": "estimated",
       "price_note": "New Neue Klasse model - verify on bmw.ie",
       "rate_verified": "verified",
-      "rate_source": "BMW Ireland"
+      "rate_source": "BMW Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14349/bmw_ix3_ev_blue_2026_069.jpg"
     },
     {
       "make": "BMW",
@@ -478,7 +489,8 @@
       "price_verified": "estimated",
       "price_note": "RTE listed Touring variant - sedan price estimated",
       "rate_verified": "verified",
-      "rate_source": "BMW Ireland"
+      "rate_source": "BMW Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12431/bmw_i5_2024_058.jpg"
     },
     {
       "make": "BMW",
@@ -513,7 +525,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "BMW Ireland"
+      "rate_source": "BMW Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13225/bmw_i4_m50_lci_2024_006.jpg"
     },
     {
       "make": "BMW",
@@ -548,7 +561,8 @@
       "price_verified": "estimated",
       "price_note": "No official Irish source found",
       "rate_verified": "estimated",
-      "rate_note": "Assumed BMW standard rate"
+      "rate_note": "Assumed BMW standard rate",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14043/bmw_ix_m70_2025_001.jpg"
     },
     {
       "make": "BMW",
@@ -583,7 +597,8 @@
       "price_verified": "estimated",
       "price_note": "No official Irish source found",
       "rate_verified": "estimated",
-      "rate_note": "Assumed BMW standard rate"
+      "rate_note": "Assumed BMW standard rate",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14043/bmw_ix_m70_2025_001.jpg"
     },
     {
       "make": "BMW",
@@ -618,7 +633,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "BMW Ireland"
+      "rate_source": "BMW Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14043/bmw_ix_m70_2025_001.jpg"
     },
     {
       "make": "BMW",
@@ -653,7 +669,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed BMW standard rate"
+      "rate_note": "Assumed BMW standard rate",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12015/bmw_i7_7_series_dark_grey_2023_031.jpg"
     },
     {
       "make": "BYD",
@@ -688,7 +705,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14138/byd_dolphin_surf_lime_green_2025_001.jpg"
     },
     {
       "make": "BYD",
@@ -723,7 +741,8 @@
       "price_verified": "verified",
       "price_source": "Original dataset",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14138/byd_dolphin_surf_lime_green_2025_001.jpg"
     },
     {
       "make": "BYD",
@@ -758,7 +777,8 @@
       "price_verified": "verified",
       "price_source": "Original dataset",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14138/byd_dolphin_surf_lime_green_2025_001.jpg"
     },
     {
       "make": "BYD",
@@ -793,7 +813,8 @@
       "price_verified": "estimated",
       "price_note": "Not yet confirmed for Irish market",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from BYD range"
+      "rate_note": "Assumed from BYD range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13890/byd_atto_2_ev_green_2025_009.jpg"
     },
     {
       "make": "BYD",
@@ -828,7 +849,8 @@
       "price_verified": "verified",
       "price_source": "Original dataset",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14712/byd_atto_3_evo_2026_blue_092.jpg"
     },
     {
       "make": "BYD",
@@ -863,7 +885,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from Comfort trim pricing",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as Comfort trim"
+      "rate_note": "Assumed same as Comfort trim",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14712/byd_atto_3_evo_2026_blue_092.jpg"
     },
     {
       "make": "BYD",
@@ -898,7 +921,8 @@
       "price_verified": "estimated",
       "price_note": "From original dataset - not independently verified",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12348/byd_seal_blue_2023_006.jpg"
     },
     {
       "make": "BYD",
@@ -933,7 +957,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from BYD range"
+      "rate_note": "Assumed from BYD range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12348/byd_seal_blue_2023_006.jpg"
     },
     {
       "make": "BYD",
@@ -968,7 +993,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13741/byd_sealion_7_2025_blue_014.jpg"
     },
     {
       "make": "Citroen",
@@ -1003,7 +1029,8 @@
       "price_verified": "verified",
       "price_source": "Citroen Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Citroen Ireland offers, 2026"
+      "rate_source": "Citroen Ireland offers, 2026",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12783/citroen_e_c3_2024_017.jpg"
     },
     {
       "make": "Citroen",
@@ -1038,7 +1065,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from European pricing",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Citroen range"
+      "rate_note": "Assumed from Citroen range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13886/citroen_e_c3_aircross_red_2025_031.jpg"
     },
     {
       "make": "Citroen",
@@ -1073,7 +1101,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Citroen Ireland offers, 2026"
+      "rate_source": "Citroen Ireland offers, 2026",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13660/citroen_e_c4_2024_reveal6.jpg"
     },
     {
       "make": "Citroen",
@@ -1108,7 +1137,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from e-C4 pricing",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as e-C4"
+      "rate_note": "Assumed same as e-C4",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13660/citroen_e_c4x_2024_reveal1.jpg"
     },
     {
       "make": "Citroen",
@@ -1143,7 +1173,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Citroen range"
+      "rate_note": "Assumed from Citroen range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11811/citroen_e_berlingo_blue_long_electric_2022_027.jpg"
     },
     {
       "make": "Citroen",
@@ -1178,7 +1209,8 @@
       "price_verified": "estimated",
       "price_note": "Partially confirmed - check citroen.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Citroen range"
+      "rate_note": "Assumed from Citroen range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14072/citroen_c5_aircross_green_2025_030.jpg"
     },
     {
       "make": "Cupra",
@@ -1213,7 +1245,8 @@
       "price_verified": "estimated",
       "price_note": "Not yet on sale - pre-release pricing",
       "rate_verified": "estimated",
-      "rate_note": "Not yet on sale"
+      "rate_note": "Not yet on sale",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14361/_tb_9410__copyright_guido_ten_brink___sb_medien.jpg"
     },
     {
       "make": "Cupra",
@@ -1248,7 +1281,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Cupra Ireland"
+      "rate_source": "Cupra Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11236/cupra_born_electric_2022_017.jpg"
     },
     {
       "make": "Cupra",
@@ -1283,7 +1317,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Cupra Ireland"
+      "rate_source": "Cupra Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11236/cupra_born_electric_2022_017.jpg"
     },
     {
       "make": "Cupra",
@@ -1318,7 +1353,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from Cupra Ireland",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Cupra range"
+      "rate_note": "Assumed from Cupra range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11236/cupra_born_electric_2022_017.jpg"
     },
     {
       "make": "Cupra",
@@ -1353,7 +1389,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Cupra Ireland"
+      "rate_source": "Cupra Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12358/cupra_tavascan_2024_003.jpg"
     },
     {
       "make": "Cupra",
@@ -1388,7 +1425,8 @@
       "price_verified": "estimated",
       "price_note": "From Cupra Ireland offers page",
       "rate_verified": "verified",
-      "rate_source": "Cupra Ireland offers"
+      "rate_source": "Cupra Ireland offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12358/cupra_tavascan_2024_003.jpg"
     },
     {
       "make": "Cupra",
@@ -1423,7 +1461,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - not yet widely available",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Cupra range"
+      "rate_note": "Assumed from Cupra range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12358/cupra_tavascan_2024_003.jpg"
     },
     {
       "make": "Cupra",
@@ -1458,7 +1497,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from base Tavascan price",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Tavascan base"
+      "rate_note": "Assumed from Tavascan base",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12358/cupra_tavascan_2024_003.jpg"
     },
     {
       "make": "Dacia",
@@ -1493,7 +1533,8 @@
       "price_verified": "verified",
       "price_source": "Dacia Ireland / RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check dacia.ie"
+      "rate_note": "Estimated - check dacia.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13482/dacia_spring_beige_2024_009_2.jpg"
     },
     {
       "make": "Dacia",
@@ -1528,7 +1569,8 @@
       "price_verified": "verified",
       "price_source": "Dacia Ireland website",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check dacia.ie"
+      "rate_note": "Estimated - check dacia.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13482/dacia_spring_beige_2024_009_2.jpg"
     },
     {
       "make": "DS",
@@ -1563,7 +1605,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check dsautomobiles.ie",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check dsautomobiles.ie"
+      "rate_note": "Estimated - check dsautomobiles.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12141/ds_3_e_tense_electric_red_2023_037.jpg"
     },
     {
       "make": "DS",
@@ -1598,7 +1641,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check dsautomobiles.ie",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check dsautomobiles.ie"
+      "rate_note": "Estimated - check dsautomobiles.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14110/ds_n__4_ext_cam_019_blanche.jpg"
     },
     {
       "make": "Fiat",
@@ -1633,7 +1677,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Fiat Ireland finance, Nov 2025-Jan 2026"
+      "rate_source": "Fiat Ireland finance, Nov 2025-Jan 2026",
+      "imageUrl": "https://www.completecar.ie/img/galleries/10614/fiat_500_cabriolet_electric_blue_2021_040.jpg"
     },
     {
       "make": "Fiat",
@@ -1668,7 +1713,8 @@
       "price_verified": "estimated",
       "price_note": "Converted from UK pricing",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Fiat range"
+      "rate_note": "Assumed from Fiat range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13400/fronta002.jpg"
     },
     {
       "make": "Fiat",
@@ -1703,7 +1749,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Fiat Ireland finance, Nov 2025-Jan 2026"
+      "rate_source": "Fiat Ireland finance, Nov 2025-Jan 2026",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12727/fiat_600e_la_prima__summary__2024_052.jpg"
     },
     {
       "make": "Ford",
@@ -1738,7 +1785,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Spirit Ford Ireland, 261 offers"
+      "rate_source": "Spirit Ford Ireland, 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14040/ford_puma_gen_e_2025_yellow_01.jpg"
     },
     {
       "make": "Ford",
@@ -1773,7 +1821,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Spirit Ford Ireland, 261 offers"
+      "rate_source": "Spirit Ford Ireland, 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12277/ford_explorer_ev_2024_blue_004.jpg"
     },
     {
       "make": "Ford",
@@ -1808,7 +1857,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "0% may be available - check ford.ie"
+      "rate_note": "0% may be available - check ford.ie",
+      "imageUrl": "https://www.completecar.ie/img/news/13475_large.jpg"
     },
     {
       "make": "Ford",
@@ -1843,7 +1893,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - not in RTE guide",
       "rate_verified": "estimated",
-      "rate_note": "Promotional 0% may be available - check ford.ie"
+      "rate_note": "Promotional 0% may be available - check ford.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11246/ford_mustang_mach_e_gt_yellow_2022_011.jpg"
     },
     {
       "make": "Honda",
@@ -1878,7 +1929,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check honda.ie"
+      "rate_note": "Estimated - check honda.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13373/honda_eny_1_ev_2024_black_3.jpg"
     },
     {
       "make": "Hyundai",
@@ -1913,7 +1965,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Hyundai Ireland"
+      "rate_source": "Hyundai Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13454/hyundaiinster4901_1.jpg"
     },
     {
       "make": "Hyundai",
@@ -1948,7 +2001,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from Kona Electric pricing",
       "rate_verified": "verified",
-      "rate_source": "Bright Hyundai Ireland"
+      "rate_source": "Bright Hyundai Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12793/hyundai_kona_electric_2023_004.jpg"
     },
     {
       "make": "Hyundai",
@@ -1983,7 +2037,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Hyundai Ireland"
+      "rate_source": "Hyundai Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12793/hyundai_kona_electric_2023_004.jpg"
     },
     {
       "make": "Hyundai",
@@ -2018,7 +2073,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Bright Hyundai Ireland"
+      "rate_source": "Bright Hyundai Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14019/hyundai_ioniq6_2.jpg"
     },
     {
       "make": "Hyundai",
@@ -2053,7 +2109,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Hyundai Ireland"
+      "rate_source": "Hyundai Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11117/hyundai_ioniq_5_ev_2021_001.jpg"
     },
     {
       "make": "Hyundai",
@@ -2088,7 +2145,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check hyundai.ie",
       "rate_verified": "verified",
-      "rate_source": "Bright Hyundai Ireland"
+      "rate_source": "Bright Hyundai Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11117/hyundai_ioniq_5_ev_2021_001.jpg"
     },
     {
       "make": "Hyundai",
@@ -2123,7 +2181,8 @@
       "price_verified": "estimated",
       "price_note": "From original dataset - verify on hyundai.ie",
       "rate_verified": "estimated",
-      "rate_note": "From Bright Hyundai - may differ"
+      "rate_note": "From Bright Hyundai - may differ",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11117/hyundai_ioniq_5_ev_2021_001.jpg"
     },
     {
       "make": "Hyundai",
@@ -2158,7 +2217,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check hyundai.ie",
       "rate_verified": "verified",
-      "rate_source": "Bright Hyundai Ireland"
+      "rate_source": "Bright Hyundai Ireland",
+      "imageUrl": "https://www.completecar.ie/img/news/13749_large.jpg"
     },
     {
       "make": "Hyundai",
@@ -2193,7 +2253,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check hyundai.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as Santa Fe Hybrid"
+      "rate_note": "Assumed same as Santa Fe Hybrid",
+      "imageUrl": "https://www.completecar.ie/img/news/13749_large.jpg"
     },
     {
       "make": "Hyundai",
@@ -2228,7 +2289,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Hyundai Ireland"
+      "rate_source": "Hyundai Ireland",
+      "imageUrl": "https://www.completecar.ie/img/news/13749_large.jpg"
     },
     {
       "make": "Jeep",
@@ -2263,7 +2325,8 @@
       "price_verified": "verified",
       "price_source": "Jeep Ireland / RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check jeep.com/ie"
+      "rate_note": "Estimated - check jeep.com/ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12354/jeep_avenger_2023_013.jpg"
     },
     {
       "make": "Kia",
@@ -2298,7 +2361,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check kia.com/ie",
       "rate_verified": "verified",
-      "rate_source": "Kia Ireland 261 offers"
+      "rate_source": "Kia Ireland 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11772/kia_niro_ev_2022_white_005.jpg"
     },
     {
       "make": "Kia",
@@ -2333,7 +2397,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check kia.com/ie",
       "rate_verified": "verified",
-      "rate_source": "Kia Ireland 261 offers"
+      "rate_source": "Kia Ireland 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11772/kia_niro_ev_2022_white_005.jpg"
     },
     {
       "make": "Kia",
@@ -2368,7 +2433,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Kia Ireland 261 offers"
+      "rate_source": "Kia Ireland 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13324/ev3_front.jpg"
     },
     {
       "make": "Kia",
@@ -2403,7 +2469,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check kia.com/ie",
       "rate_verified": "verified",
-      "rate_source": "Kia Ireland 261 offers"
+      "rate_source": "Kia Ireland 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11772/kia_niro_ev_2022_white_005.jpg"
     },
     {
       "make": "Kia",
@@ -2438,7 +2505,8 @@
       "price_verified": "verified",
       "price_source": "Kia Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Kia Ireland 261 offers"
+      "rate_source": "Kia Ireland 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13909/kia_ev4_hatchback_gt_line_003.jpg"
     },
     {
       "make": "Kia",
@@ -2473,7 +2541,8 @@
       "price_verified": "estimated",
       "price_note": "From Kia Ireland website - verify trim",
       "rate_verified": "verified",
-      "rate_source": "Kia Ireland 261 offers"
+      "rate_source": "Kia Ireland 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13909/kia_ev4_hatchback_gt_line_003.jpg"
     },
     {
       "make": "Kia",
@@ -2508,7 +2577,8 @@
       "price_verified": "estimated",
       "price_note": "From Kia Ireland website - verify trim",
       "rate_verified": "estimated",
-      "rate_note": "Assumed 0% like other Kia EVs"
+      "rate_note": "Assumed 0% like other Kia EVs",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12775/_1_ev5_ext1.jpg"
     },
     {
       "make": "Kia",
@@ -2543,7 +2613,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check kia.com/ie",
       "rate_verified": "verified",
-      "rate_source": "Kia Ireland 261 offers"
+      "rate_source": "Kia Ireland 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11241/kia_ev6_gt_line_blue_2022_electric_008.jpg"
     },
     {
       "make": "Kia",
@@ -2578,7 +2649,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check kia.com/ie",
       "rate_verified": "verified",
-      "rate_source": "Kia Ireland 261 offers"
+      "rate_source": "Kia Ireland 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11241/kia_ev6_gt_line_blue_2022_electric_008.jpg"
     },
     {
       "make": "Kia",
@@ -2613,7 +2685,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Kia Ireland 261 offers"
+      "rate_source": "Kia Ireland 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11241/kia_ev6_gt_line_blue_2022_electric_008.jpg"
     },
     {
       "make": "Kia",
@@ -2648,7 +2721,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check kia.com/ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Kia standard rate"
+      "rate_note": "Assumed from Kia standard rate",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12438/kia_ev9_gt_line_blue_2023_027.jpg"
     },
     {
       "make": "Kia",
@@ -2683,7 +2757,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Kia Ireland 261 offers"
+      "rate_source": "Kia Ireland 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12438/kia_ev9_gt_line_blue_2023_027.jpg"
     },
     {
       "make": "Lexus",
@@ -2718,7 +2793,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check lexus.ie"
+      "rate_note": "Estimated - check lexus.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13965/lexus_rz_2025_025.jpg"
     },
     {
       "make": "Lotus",
@@ -2753,7 +2829,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from European pricing",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - no Irish PCP data"
+      "rate_note": "Estimated - no Irish PCP data",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11554/lotus_eletre_electric_suv_2022_013.jpg"
     },
     {
       "make": "Lotus",
@@ -2788,7 +2865,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from European pricing",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - no Irish PCP data"
+      "rate_note": "Estimated - no Irish PCP data",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12690/sh02004_011_lotus_alpha_78front_comp12_rbn_finalart_lotus.jpg"
     },
     {
       "make": "Mazda",
@@ -2823,7 +2901,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check mazda.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Mazda range"
+      "rate_note": "Assumed from Mazda range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/10456/mazda_mx_30_ev_red_2021_017.jpg"
     },
     {
       "make": "Mazda",
@@ -2858,7 +2937,8 @@
       "price_verified": "estimated",
       "price_note": "From original dataset - verify on mazda.ie",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/10456/mazda_mx_30_ev_red_2021_017.jpg"
     },
     {
       "make": "Mazda",
@@ -2893,7 +2973,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Mazda range"
+      "rate_note": "Assumed from Mazda range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/10456/mazda_mx_30_ev_red_2021_017.jpg"
     },
     {
       "make": "Mazda",
@@ -2928,7 +3009,8 @@
       "price_verified": "estimated",
       "price_note": "Not yet on sale - estimated pricing",
       "rate_verified": "estimated",
-      "rate_note": "Not yet on sale - assumed Mazda rate"
+      "rate_note": "Not yet on sale - assumed Mazda rate",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13829/mazda6e_2.jpg"
     },
     {
       "make": "Mazda",
@@ -2963,7 +3045,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from web search",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Mazda range"
+      "rate_note": "Assumed from Mazda range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13829/mazda6e_2.jpg"
     },
     {
       "make": "Mazda",
@@ -2998,7 +3081,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check mazda.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Mazda range"
+      "rate_note": "Assumed from Mazda range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13829/mazda6e_2.jpg"
     },
     {
       "make": "Mercedes-Benz",
@@ -3033,7 +3117,8 @@
       "price_verified": "verified",
       "price_source": "Mercedes-Benz Ireland / RTE guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check mercedes-benz.ie"
+      "rate_note": "Estimated - check mercedes-benz.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14231/mercedes_benz_cla_350_4matic_ev_grey_2025_021.jpg"
     },
     {
       "make": "Mercedes-Benz",
@@ -3068,7 +3153,8 @@
       "price_verified": "verified",
       "price_source": "Mercedes-Benz Ireland website",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check mercedes-benz.ie"
+      "rate_note": "Estimated - check mercedes-benz.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11017/mercedes_benz_eqa_250_2021_white__06.jpg"
     },
     {
       "make": "Mercedes-Benz",
@@ -3103,7 +3189,8 @@
       "price_verified": "estimated",
       "price_note": "May be outdated - check mercedes-benz.ie",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check mercedes-benz.ie"
+      "rate_note": "Estimated - check mercedes-benz.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11545/mercedes_benz_eqb_electric_suv_2022_grey_12.jpg"
     },
     {
       "make": "Mercedes-Benz",
@@ -3138,7 +3225,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check mercedes-benz.ie"
+      "rate_note": "Estimated - check mercedes-benz.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11734/mercedes_eqe_2022_silver__21.jpg"
     },
     {
       "make": "Mercedes-Benz",
@@ -3173,7 +3261,8 @@
       "price_verified": "estimated",
       "price_note": "From Mercedes Ireland website scrape",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check mercedes-benz.ie"
+      "rate_note": "Estimated - check mercedes-benz.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14356/mercedes_benz_glc_with_eq_technology_14.jpg"
     },
     {
       "make": "Mercedes-Benz",
@@ -3208,7 +3297,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check mercedes-benz.ie"
+      "rate_note": "Estimated - check mercedes-benz.ie",
+      "imageUrl": "https://www.completecar.ie/img/news/11972_large.jpg"
     },
     {
       "make": "Mercedes-Benz",
@@ -3243,7 +3333,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check mercedes-benz.ie"
+      "rate_note": "Estimated - check mercedes-benz.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11627/mercedes_benz_eqs_450_electric_2022_002.jpg"
     },
     {
       "make": "Mercedes-Benz",
@@ -3278,7 +3369,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from Mercedes Ireland website",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check mercedes-benz.ie"
+      "rate_note": "Estimated - check mercedes-benz.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12537/mercedes_benz_eqs_suv__2_.jpg"
     },
     {
       "make": "Mercedes-Benz",
@@ -3313,7 +3405,8 @@
       "price_verified": "estimated",
       "price_note": "From web search - verify on mercedes-benz.ie",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check mercedes-benz.ie"
+      "rate_note": "Estimated - check mercedes-benz.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13284/mercedes_benz_v_class_facelift_2024_006.jpg"
     },
     {
       "make": "Mercedes-Benz",
@@ -3348,7 +3441,8 @@
       "price_verified": "estimated",
       "price_note": "From web search - verify on mercedes-benz.ie",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check mercedes-benz.ie"
+      "rate_note": "Estimated - check mercedes-benz.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13846/mercedes_benz_g_580_eq_electric_2025_blue_009.jpg"
     },
     {
       "make": "MG",
@@ -3383,7 +3477,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check mg.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from MG range"
+      "rate_note": "Assumed from MG range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14704/mg4_ev_blue_uk_2026_066.jpg"
     },
     {
       "make": "MG",
@@ -3418,7 +3513,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check mg.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as ZS EV"
+      "rate_note": "Assumed same as ZS EV",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11589/mg_zs_ev_blue_electric_2022_006.jpg"
     },
     {
       "make": "MG",
@@ -3453,7 +3549,8 @@
       "price_verified": "verified",
       "price_source": "MG Ireland website",
       "rate_verified": "verified",
-      "rate_source": "MG Ireland"
+      "rate_source": "MG Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12274/mg_5_electric_estate_red_2023_10.jpg"
     },
     {
       "make": "MG",
@@ -3488,7 +3585,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "MG Ireland"
+      "rate_source": "MG Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14704/mg4_ev_blue_uk_2026_066.jpg"
     },
     {
       "make": "MG",
@@ -3523,7 +3621,8 @@
       "price_verified": "verified",
       "price_source": "MG Ireland website",
       "rate_verified": "verified",
-      "rate_source": "MG Ireland"
+      "rate_source": "MG Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14704/mg4_ev_blue_uk_2026_066.jpg"
     },
     {
       "make": "MG",
@@ -3558,7 +3657,8 @@
       "price_verified": "verified",
       "price_source": "MG Ireland website",
       "rate_verified": "verified",
-      "rate_source": "MG Ireland"
+      "rate_source": "MG Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11589/mg_zs_ev_blue_electric_2022_006.jpg"
     },
     {
       "make": "MG",
@@ -3593,7 +3693,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from MG range"
+      "rate_note": "Assumed from MG range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14082/mgs5_ev_suv_2025_01.jpg"
     },
     {
       "make": "MG",
@@ -3628,7 +3729,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check mg.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from MG range"
+      "rate_note": "Assumed from MG range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11589/mg_zs_ev_blue_electric_2022_006.jpg"
     },
     {
       "make": "MG",
@@ -3663,7 +3765,8 @@
       "price_verified": "estimated",
       "price_note": "Not yet on sale in Ireland",
       "rate_verified": "estimated",
-      "rate_note": "Not yet on sale"
+      "rate_note": "Not yet on sale",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14721/mgs6_ev_beige_2026_studio_014.jpg"
     },
     {
       "make": "MG",
@@ -3698,7 +3801,8 @@
       "price_verified": "verified",
       "price_source": "MG Ireland website",
       "rate_verified": "verified",
-      "rate_source": "MG Ireland"
+      "rate_source": "MG Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14704/mg4_ev_blue_uk_2026_066.jpg"
     },
     {
       "make": "MG",
@@ -3733,7 +3837,8 @@
       "price_verified": "verified",
       "price_source": "MG Ireland website",
       "rate_verified": "verified",
-      "rate_source": "MG Ireland"
+      "rate_source": "MG Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14704/mg4_ev_blue_uk_2026_066.jpg"
     },
     {
       "make": "MG",
@@ -3768,7 +3873,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from MG range"
+      "rate_note": "Assumed from MG range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13064/mg_cyberster_yellow_2024_016.jpg"
     },
     {
       "make": "MINI",
@@ -3803,7 +3909,8 @@
       "price_verified": "verified",
       "price_source": "BMW Group Ireland press / RTE guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed BMW Group rate - check mini.ie"
+      "rate_note": "Assumed BMW Group rate - check mini.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12662/mini_e_cooper_se_blue_2024_001.jpg"
     },
     {
       "make": "MINI",
@@ -3838,7 +3945,8 @@
       "price_verified": "verified",
       "price_source": "BMW Group Ireland press / RTE guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed BMW Group rate - check mini.ie"
+      "rate_note": "Assumed BMW Group rate - check mini.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13763/mini_aceman_se_red_2025_058.jpg"
     },
     {
       "make": "MINI",
@@ -3873,7 +3981,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed BMW Group rate - check mini.ie"
+      "rate_note": "Assumed BMW Group rate - check mini.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12661/mini_countryman_suv_2024_001.jpg"
     },
     {
       "make": "Nissan",
@@ -3908,7 +4017,8 @@
       "price_verified": "verified",
       "price_source": "Nissan Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Nissan Ireland - 0% on 40kWh Leaf"
+      "rate_source": "Nissan Ireland - 0% on 40kWh Leaf",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14267/nissan_leaf_blue_2026_denmark_039.jpg"
     },
     {
       "make": "Nissan",
@@ -3943,7 +4053,8 @@
       "price_verified": "estimated",
       "price_note": "From Nissan Ireland website",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Nissan range"
+      "rate_note": "Assumed from Nissan range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14122/nissan_micra_ev_blue_2025_010.jpg"
     },
     {
       "make": "Nissan",
@@ -3978,7 +4089,8 @@
       "price_verified": "estimated",
       "price_note": "From Nissan Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Nissan Ireland PCP offers"
+      "rate_source": "Nissan Ireland PCP offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11939/nissan_ariya_white_2022__2.jpg"
     },
     {
       "make": "Nissan",
@@ -4013,7 +4125,8 @@
       "price_verified": "estimated",
       "price_note": "Original dataset - new Leaf may have different price",
       "rate_verified": "verified",
-      "rate_source": "Nissan Ireland PCP offers"
+      "rate_source": "Nissan Ireland PCP offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14267/nissan_leaf_blue_2026_denmark_039.jpg"
     },
     {
       "make": "Nissan",
@@ -4048,7 +4161,8 @@
       "price_verified": "estimated",
       "price_note": "From Nissan Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Nissan Ireland PCP offers"
+      "rate_source": "Nissan Ireland PCP offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11939/nissan_ariya_white_2022__2.jpg"
     },
     {
       "make": "Nissan",
@@ -4083,7 +4197,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Nissan Ireland 2-4-1 deals"
+      "rate_source": "Nissan Ireland 2-4-1 deals",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11939/nissan_ariya_white_2022__2.jpg"
     },
     {
       "make": "Nissan",
@@ -4118,7 +4233,8 @@
       "price_verified": "estimated",
       "price_note": "From Nissan Ireland website",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Nissan range"
+      "rate_note": "Assumed from Nissan range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11939/nissan_ariya_white_2022__2.jpg"
     },
     {
       "make": "Nissan",
@@ -4153,7 +4269,8 @@
       "price_verified": "estimated",
       "price_note": "May be outdated - check nissan.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as 63kWh Ariya"
+      "rate_note": "Assumed same as 63kWh Ariya",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11939/nissan_ariya_white_2022__2.jpg"
     },
     {
       "make": "Opel",
@@ -4188,7 +4305,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland"
+      "rate_source": "Opel Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13180/newopelfrontera__3_.jpg"
     },
     {
       "make": "Opel",
@@ -4223,7 +4341,8 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland"
+      "rate_source": "Opel Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13180/newopelfrontera__3_.jpg"
     },
     {
       "make": "Opel",
@@ -4258,7 +4377,8 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland"
+      "rate_source": "Opel Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12424/opel_corsa_electric_2024_005.jpg"
     },
     {
       "make": "Opel",
@@ -4293,7 +4413,8 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland"
+      "rate_source": "Opel Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12424/opel_corsa_electric_2024_005.jpg"
     },
     {
       "make": "Opel",
@@ -4328,7 +4449,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Opel range"
+      "rate_note": "Assumed from Opel range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/10746/opel_mokka_e_2021_green_ev_electric_004.jpg"
     },
     {
       "make": "Opel",
@@ -4363,7 +4485,8 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland"
+      "rate_source": "Opel Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12424/opel_corsa_electric_2024_005.jpg"
     },
     {
       "make": "Opel",
@@ -4398,7 +4521,8 @@
       "price_verified": "estimated",
       "price_note": "From Opel Ireland offers",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Opel range"
+      "rate_note": "Assumed from Opel range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/10746/opel_mokka_e_2021_green_ev_electric_004.jpg"
     },
     {
       "make": "Opel",
@@ -4433,7 +4557,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Opel range"
+      "rate_note": "Assumed from Opel range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12506/opel_astra_electric_blue_2023_035.jpg"
     },
     {
       "make": "Opel",
@@ -4468,7 +4593,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check opel.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Opel range"
+      "rate_note": "Assumed from Opel range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12506/opel_astra_electric_blue_2023_035.jpg"
     },
     {
       "make": "Opel",
@@ -4503,7 +4629,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland"
+      "rate_source": "Opel Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13220/newopelgrandland__7_.jpg"
     },
     {
       "make": "Opel",
@@ -4538,7 +4665,8 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland"
+      "rate_source": "Opel Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13220/newopelgrandland__7_.jpg"
     },
     {
       "make": "Opel",
@@ -4573,7 +4701,8 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland"
+      "rate_source": "Opel Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13220/newopelgrandland__7_.jpg"
     },
     {
       "make": "Opel",
@@ -4608,7 +4737,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from Astra Electric",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Opel range"
+      "rate_note": "Assumed from Opel range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12506/opel_astra_electric_blue_2023_035.jpg"
     },
     {
       "make": "Opel",
@@ -4643,7 +4773,8 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland"
+      "rate_source": "Opel Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13220/newopelgrandland__7_.jpg"
     },
     {
       "make": "Opel",
@@ -4678,7 +4809,8 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland"
+      "rate_source": "Opel Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13220/newopelgrandland__7_.jpg"
     },
     {
       "make": "Opel",
@@ -4713,7 +4845,8 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland"
+      "rate_source": "Opel Ireland",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13220/newopelgrandland__7_.jpg"
     },
     {
       "make": "Peugeot",
@@ -4748,7 +4881,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12555/2214552_bp6laj7t3d.jpg"
     },
     {
       "make": "Peugeot",
@@ -4783,7 +4917,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12533/peugeot_e_2008_electric_grey_2023_024.jpg"
     },
     {
       "make": "Peugeot",
@@ -4818,7 +4953,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Peugeot EV range"
+      "rate_note": "Assumed from Peugeot EV range",
+      "imageUrl": "https://www.completecar.ie/img/news/11881_large.jpg"
     },
     {
       "make": "Peugeot",
@@ -4853,7 +4989,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check peugeot.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed for hybrid models"
+      "rate_note": "Assumed for hybrid models",
+      "imageUrl": "https://www.completecar.ie/img/news/11881_large.jpg"
     },
     {
       "make": "Peugeot",
@@ -4888,7 +5025,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Peugeot EV range"
+      "rate_note": "Assumed from Peugeot EV range",
+      "imageUrl": "https://www.completecar.ie/img/news/13621_large.jpg"
     },
     {
       "make": "Peugeot",
@@ -4923,7 +5061,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Peugeot EV range"
+      "rate_note": "Assumed from Peugeot EV range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12852/peugeot_e_rifter_2024_green_002.jpg"
     },
     {
       "make": "Peugeot",
@@ -4958,7 +5097,8 @@
       "price_verified": "estimated",
       "price_note": "From original dataset - verify",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/news/13621_large.jpg"
     },
     {
       "make": "Peugeot",
@@ -4993,7 +5133,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Peugeot EV range"
+      "rate_note": "Assumed from Peugeot EV range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13080/peugeot_e_3008_electric_white_2024_004.jpg"
     },
     {
       "make": "Peugeot",
@@ -5028,7 +5169,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check peugeot.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed for hybrid models"
+      "rate_note": "Assumed for hybrid models",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13080/peugeot_e_3008_electric_white_2024_004.jpg"
     },
     {
       "make": "Peugeot",
@@ -5063,7 +5205,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check peugeot.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed for hybrid models"
+      "rate_note": "Assumed for hybrid models",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13460/peugeot_e_5008_gt_blue_2024_090.jpg"
     },
     {
       "make": "Peugeot",
@@ -5098,7 +5241,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Peugeot EV range"
+      "rate_note": "Assumed from Peugeot EV range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13460/peugeot_e_5008_gt_blue_2024_090.jpg"
     },
     {
       "make": "Polestar",
@@ -5133,7 +5277,8 @@
       "price_verified": "verified",
       "price_source": "Polestar Ireland / RTE guide",
       "rate_verified": "verified",
-      "rate_source": "Polestar Ireland PCP, 261 offers"
+      "rate_source": "Polestar Ireland PCP, 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11557/polestar_2_fwd_2022_grey_001.jpg"
     },
     {
       "make": "Polestar",
@@ -5168,7 +5313,8 @@
       "price_verified": "estimated",
       "price_note": "From Polestar Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Polestar Ireland PCP"
+      "rate_source": "Polestar Ireland PCP",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11557/polestar_2_fwd_2022_grey_001.jpg"
     },
     {
       "make": "Polestar",
@@ -5203,7 +5349,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Spirit Polestar Dublin, 261 offers"
+      "rate_source": "Spirit Polestar Dublin, 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13462/polestar_4_2024_010.jpg"
     },
     {
       "make": "Polestar",
@@ -5238,7 +5385,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Polestar Ireland PCP, 261 offers"
+      "rate_source": "Polestar Ireland PCP, 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11960/polestar_3_suv_ev_white_2023_005.jpg"
     },
     {
       "make": "Porsche",
@@ -5273,7 +5421,8 @@
       "price_verified": "estimated",
       "price_note": "From web search",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check porsche.ie configurator"
+      "rate_note": "Estimated - check porsche.ie configurator",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13494/02_macan.jpg"
     },
     {
       "make": "Porsche",
@@ -5308,7 +5457,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check porsche.ie configurator"
+      "rate_note": "Estimated - check porsche.ie configurator",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13494/02_macan.jpg"
     },
     {
       "make": "Porsche",
@@ -5343,7 +5493,8 @@
       "price_verified": "verified",
       "price_source": "Porsche Ireland configurator",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check porsche.ie configurator"
+      "rate_note": "Estimated - check porsche.ie configurator",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13022/porsche_taycan_2024_006.jpg"
     },
     {
       "make": "Porsche",
@@ -5378,7 +5529,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check porsche.ie configurator"
+      "rate_note": "Estimated - check porsche.ie configurator",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13167/porsche_taycan_turbo_sport_turismo_2024_023.jpg"
     },
     {
       "make": "Porsche",
@@ -5413,7 +5565,8 @@
       "price_verified": "estimated",
       "price_note": "From original dataset - may be outdated",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check porsche.ie configurator"
+      "rate_note": "Estimated - check porsche.ie configurator",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13850/porsche_taycan_2025_009.jpg"
     },
     {
       "make": "Porsche",
@@ -5448,7 +5601,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check Porsche Ireland configurator",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check porsche.ie configurator"
+      "rate_note": "Estimated - check porsche.ie configurator",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13850/porsche_taycan_2025_009.jpg"
     },
     {
       "make": "Porsche",
@@ -5483,7 +5637,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from Porsche range",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check porsche.ie configurator"
+      "rate_note": "Estimated - check porsche.ie configurator",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13850/porsche_taycan_2025_009.jpg"
     },
     {
       "make": "Porsche",
@@ -5518,7 +5673,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from Porsche range",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check porsche.ie configurator"
+      "rate_note": "Estimated - check porsche.ie configurator",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13850/porsche_taycan_2025_009.jpg"
     },
     {
       "make": "Renault",
@@ -5553,7 +5709,8 @@
       "price_verified": "estimated",
       "price_note": "Not yet on sale in Ireland",
       "rate_verified": "estimated",
-      "rate_note": "Not yet on sale"
+      "rate_note": "Not yet on sale",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14510/renault_twingo_2026_091.jpg"
     },
     {
       "make": "Renault",
@@ -5588,7 +5745,8 @@
       "price_verified": "verified",
       "price_source": "Renault Ireland price list April 2026",
       "rate_verified": "verified",
-      "rate_source": "Renault Ireland offers"
+      "rate_source": "Renault Ireland offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13061/renault_5_e_tech_electric_2024_yellow_53.jpg"
     },
     {
       "make": "Renault",
@@ -5623,7 +5781,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Renault range"
+      "rate_note": "Assumed from Renault range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13655/renault_4_electric_2025_004.jpg"
     },
     {
       "make": "Renault",
@@ -5658,7 +5817,8 @@
       "price_verified": "verified",
       "price_source": "Renault Ireland price list April 2026",
       "rate_verified": "verified",
-      "rate_source": "Renault Ireland offers"
+      "rate_source": "Renault Ireland offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13061/renault_5_e_tech_electric_2024_yellow_53.jpg"
     },
     {
       "make": "Renault",
@@ -5693,7 +5853,8 @@
       "price_verified": "verified",
       "price_source": "Renault Ireland price list April 2026",
       "rate_verified": "verified",
-      "rate_source": "Renault Ireland offers"
+      "rate_source": "Renault Ireland offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13655/renault_4_electric_2025_004.jpg"
     },
     {
       "make": "Renault",
@@ -5728,7 +5889,8 @@
       "price_verified": "estimated",
       "price_note": "From Renault price list - higher trim",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Renault range"
+      "rate_note": "Assumed from Renault range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13655/renault_4_electric_2025_004.jpg"
     },
     {
       "make": "Renault",
@@ -5763,7 +5925,8 @@
       "price_verified": "verified",
       "price_source": "Renault Ireland price list April 2026",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Renault range"
+      "rate_note": "Assumed from Renault range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13256/renault_scenic_e_tech_electric___esprit_alpine_shale_grey.jpg"
     },
     {
       "make": "Renault",
@@ -5798,7 +5961,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Renault Ireland offers"
+      "rate_source": "Renault Ireland offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11498/renault_megane_e_tech_electric_2022_031.jpg"
     },
     {
       "make": "Renault",
@@ -5833,7 +5997,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Renault Ireland offers"
+      "rate_source": "Renault Ireland offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13256/renault_scenic_e_tech_electric___esprit_alpine_shale_grey.jpg"
     },
     {
       "make": "Renault",
@@ -5868,7 +6033,8 @@
       "price_verified": "verified",
       "price_source": "Renault Ireland price list April 2026",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Renault range"
+      "rate_note": "Assumed from Renault range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13256/renault_scenic_e_tech_electric___esprit_alpine_shale_grey.jpg"
     },
     {
       "make": "Renault",
@@ -5903,7 +6069,8 @@
       "price_verified": "verified",
       "price_source": "Renault Ireland price list April 2026",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as base Scenic"
+      "rate_note": "Assumed same as base Scenic",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13256/renault_scenic_e_tech_electric___esprit_alpine_shale_grey.jpg"
     },
     {
       "make": "Renault",
@@ -5938,7 +6105,8 @@
       "price_verified": "verified",
       "price_source": "Renault Ireland price list April 2026",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Renault range"
+      "rate_note": "Assumed from Renault range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13256/renault_scenic_e_tech_electric___esprit_alpine_shale_grey.jpg"
     },
     {
       "make": "Skoda",
@@ -5973,7 +6141,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from base Elroq",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as base Elroq"
+      "rate_note": "Assumed same as base Elroq",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13782/skoda_elroq_green_2025_033.jpg"
     },
     {
       "make": "Skoda",
@@ -6008,7 +6177,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13782/skoda_elroq_green_2025_033.jpg"
     },
     {
       "make": "Skoda",
@@ -6043,7 +6213,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from base Elroq",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as base Elroq"
+      "rate_note": "Assumed same as base Elroq",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13782/skoda_elroq_green_2025_033.jpg"
     },
     {
       "make": "Skoda",
@@ -6078,7 +6249,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14007/skoda_enyaq_facelift_2025_green_007.jpg"
     },
     {
       "make": "Skoda",
@@ -6113,7 +6285,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check skoda.ie",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14007/skoda_enyaq_facelift_2025_green_007.jpg"
     },
     {
       "make": "Skoda",
@@ -6148,7 +6321,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from Enyaq pricing",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as Enyaq"
+      "rate_note": "Assumed same as Enyaq",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14007/skoda_enyaq_coupe_sportline_facelift_2025_red_008.jpg"
     },
     {
       "make": "Skoda",
@@ -6183,7 +6357,8 @@
       "price_verified": "verified",
       "price_source": "Original dataset",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14007/skoda_enyaq_facelift_2025_green_007.jpg"
     },
     {
       "make": "Skoda",
@@ -6218,7 +6393,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check skoda.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as Superb PHEV"
+      "rate_note": "Assumed same as Superb PHEV",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14007/skoda_enyaq_facelift_2025_green_007.jpg"
     },
     {
       "make": "Smart",
@@ -6253,7 +6429,8 @@
       "price_verified": "verified",
       "price_source": "Smart Ireland / RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check smartelectric.ie"
+      "rate_note": "Estimated - check smartelectric.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12900/smart__1__rear_.jpg"
     },
     {
       "make": "Smart",
@@ -6288,7 +6465,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check smartelectric.ie"
+      "rate_note": "Estimated - check smartelectric.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12904/smart_3_2024_014.jpg"
     },
     {
       "make": "Subaru",
@@ -6323,7 +6501,8 @@
       "price_verified": "verified",
       "price_source": "Subaru Ireland / RTE guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check subaru.ie"
+      "rate_note": "Estimated - check subaru.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14049/new_solterra_lr.jpg"
     },
     {
       "make": "Suzuki",
@@ -6358,7 +6537,8 @@
       "price_verified": "estimated",
       "price_note": "From dealer listing - verify on suzuki.ie",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check suzuki.ie"
+      "rate_note": "Estimated - check suzuki.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14473/suzuki_e_vitara_2026_uk_drive_030.jpg"
     },
     {
       "make": "Tesla",
@@ -6394,7 +6574,7 @@
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
       "rate_source": "Original dataset",
-      "imageUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-3-Main-Hero-Desktop-LHD-Animation.jpg"
+      "imageUrl": "https://www.completecar.ie/img/galleries/12787/12664_large.jpg"
     },
     {
       "make": "Tesla",
@@ -6430,7 +6610,7 @@
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
       "rate_source": "Original dataset",
-      "imageUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-Y-Main-Hero-Desktop-LHD-Animation.jpg"
+      "imageUrl": "https://www.completecar.ie/img/galleries/14694/tesla_model_y_long_range_rear_wheel_drive_12.jpg"
     },
     {
       "make": "Tesla",
@@ -6466,7 +6646,7 @@
       "price_note": "Estimated from RWD price + typical LR premium",
       "rate_verified": "estimated",
       "rate_note": "Assumed same as Model 3 RWD",
-      "imageUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-3-Main-Hero-Desktop-LHD-Animation.jpg"
+      "imageUrl": "https://www.completecar.ie/img/galleries/12787/12664_large.jpg"
     },
     {
       "make": "Tesla",
@@ -6502,7 +6682,7 @@
       "price_note": "Estimated from RWD price + typical LR premium",
       "rate_verified": "estimated",
       "rate_note": "Assumed same as Model Y RWD",
-      "imageUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-Y-Main-Hero-Desktop-LHD-Animation.jpg"
+      "imageUrl": "https://www.completecar.ie/img/galleries/14694/tesla_model_y_long_range_rear_wheel_drive_12.jpg"
     },
     {
       "make": "Tesla",
@@ -6538,7 +6718,7 @@
       "price_note": "Estimated - check tesla.com/en_ie",
       "rate_verified": "estimated",
       "rate_note": "Assumed same as Model 3 RWD",
-      "imageUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-3-Main-Hero-Desktop-LHD-Animation.jpg"
+      "imageUrl": "https://www.completecar.ie/img/galleries/12787/12664_large.jpg"
     },
     {
       "make": "Tesla",
@@ -6574,7 +6754,7 @@
       "price_note": "Estimated - check tesla.com/en_ie",
       "rate_verified": "estimated",
       "rate_note": "Assumed same as Model Y RWD",
-      "imageUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-Y-Main-Hero-Desktop-LHD-Animation.jpg"
+      "imageUrl": "https://www.completecar.ie/img/galleries/14694/tesla_model_y_long_range_rear_wheel_drive_12.jpg"
     },
     {
       "make": "Toyota",
@@ -6609,7 +6789,8 @@
       "price_verified": "verified",
       "price_source": "Toyota Ireland website",
       "rate_verified": "verified",
-      "rate_source": "CompleteCar.ie Toyota 261 offers"
+      "rate_source": "CompleteCar.ie Toyota 261 offers",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13966/toyota_bz4x_2025_016.jpg"
     },
     {
       "make": "Toyota",
@@ -6644,7 +6825,8 @@
       "price_verified": "verified",
       "price_source": "Toyota Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13966/toyota_bz4x_2025_016.jpg"
     },
     {
       "make": "Toyota",
@@ -6679,7 +6861,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check toyota.ie",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check toyota.ie"
+      "rate_note": "Estimated - check toyota.ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13966/toyota_bz4x_2025_016.jpg"
     },
     {
       "make": "Toyota",
@@ -6714,7 +6897,8 @@
       "price_verified": "verified",
       "price_source": "Toyota Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13966/toyota_bz4x_2025_016.jpg"
     },
     {
       "make": "Toyota",
@@ -6749,7 +6933,8 @@
       "price_verified": "verified",
       "price_source": "Toyota Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13966/toyota_bz4x_2025_016.jpg"
     },
     {
       "make": "Toyota",
@@ -6784,7 +6969,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check toyota.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as Corolla"
+      "rate_note": "Assumed same as Corolla",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13966/toyota_bz4x_2025_016.jpg"
     },
     {
       "make": "Toyota",
@@ -6819,7 +7005,8 @@
       "price_verified": "estimated",
       "price_note": "Not yet on sale in Ireland",
       "rate_verified": "estimated",
-      "rate_note": "Not yet on sale"
+      "rate_note": "Not yet on sale",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13791/urbancruiserhero_3.jpg"
     },
     {
       "make": "Toyota",
@@ -6854,7 +7041,8 @@
       "price_verified": "verified",
       "price_source": "Toyota Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13962/toyota_c_hr_ev_2025_002.jpg"
     },
     {
       "make": "Toyota",
@@ -6889,7 +7077,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "CompleteCar.ie - 3.9% or €2k booster"
+      "rate_source": "CompleteCar.ie - 3.9% or €2k booster",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13966/toyota_bz4x_2025_016.jpg"
     },
     {
       "make": "Toyota",
@@ -6924,7 +7113,8 @@
       "price_verified": "verified",
       "price_source": "Toyota Ireland website",
       "rate_verified": "verified",
-      "rate_source": "CompleteCar.ie - 4.9% or €2k booster"
+      "rate_source": "CompleteCar.ie - 4.9% or €2k booster",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13962/toyota_c_hr_ev_2025_002.jpg"
     },
     {
       "make": "Toyota",
@@ -6959,7 +7149,8 @@
       "price_verified": "verified",
       "price_source": "Toyota Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13966/toyota_bz4x_2025_016.jpg"
     },
     {
       "make": "Toyota",
@@ -6994,7 +7185,8 @@
       "price_verified": "verified",
       "price_source": "Toyota Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13966/toyota_bz4x_2025_016.jpg"
     },
     {
       "make": "Toyota",
@@ -7029,7 +7221,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check toyota.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as RAV4 Hybrid"
+      "rate_note": "Assumed same as RAV4 Hybrid",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13966/toyota_bz4x_2025_016.jpg"
     },
     {
       "make": "Toyota",
@@ -7064,7 +7257,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check toyota.ie",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from Toyota range"
+      "rate_note": "Assumed from Toyota range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13966/toyota_bz4x_2025_016.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7099,7 +7293,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12585/volkswagen_id_3_2023_green_027.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7134,7 +7329,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11358/volkswagen_id_4_gtx_suv_2022_red_021.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7169,7 +7365,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from ID.3 Pure pricing",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as ID.3 Pure"
+      "rate_note": "Assumed same as ID.3 Pure",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12585/volkswagen_id_3_2023_green_027.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7204,7 +7401,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11632/volkswagen_id5_pro_silver_2022_011.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7239,7 +7437,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from ID.4 Pure",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as ID.4 Pure"
+      "rate_note": "Assumed same as ID.4 Pure",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11358/volkswagen_id_4_gtx_suv_2022_red_021.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7274,7 +7473,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from ID.5 Pure",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as ID.5 Pure"
+      "rate_note": "Assumed same as ID.5 Pure",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11632/volkswagen_id5_pro_silver_2022_011.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7309,7 +7509,8 @@
       "price_verified": "estimated",
       "price_note": "From original dataset",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12490/db2023au00261_large.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7344,7 +7545,8 @@
       "price_verified": "estimated",
       "price_note": "From original dataset",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11358/volkswagen_id_4_gtx_suv_2022_red_021.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7379,7 +7581,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated",
       "rate_verified": "estimated",
-      "rate_note": "Assumed same as ID.5 range"
+      "rate_note": "Assumed same as ID.5 range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/11632/volkswagen_id5_pro_silver_2022_011.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7414,7 +7617,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12490/db2023au00261_large.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7449,7 +7653,8 @@
       "price_verified": "estimated",
       "price_note": "From original dataset",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12490/db2023au00261_large.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7484,7 +7689,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from ID.7 range"
+      "rate_note": "Assumed from ID.7 range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13488/volkswagen_id_buzz_lwb_2024_yellow_white_022.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7519,7 +7725,8 @@
       "price_verified": "estimated",
       "price_note": "From original dataset",
       "rate_verified": "verified",
-      "rate_source": "Original dataset"
+      "rate_source": "Original dataset",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12490/db2023au00261_large.jpg"
     },
     {
       "make": "Volkswagen",
@@ -7554,7 +7761,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from ID.Buzz Pro",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from ID.7 range"
+      "rate_note": "Assumed from ID.7 range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13488/volkswagen_id_buzz_lwb_2024_yellow_white_022.jpg"
     },
     {
       "make": "Volvo",
@@ -7589,7 +7797,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Volvo Ireland - Core 3.95%, Plus/Ultra 0%"
+      "rate_source": "Volvo Ireland - Core 3.95%, Plus/Ultra 0%",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12459/volvo_ex30_2024_002.jpg"
     },
     {
       "make": "Volvo",
@@ -7624,7 +7833,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated from EX30 Plus pricing",
       "rate_verified": "estimated",
-      "rate_note": "Assumed from EX30 range"
+      "rate_note": "Assumed from EX30 range",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12459/volvo_ex30_2024_002.jpg"
     },
     {
       "make": "Volvo",
@@ -7659,7 +7869,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check volvocars.com/ie"
+      "rate_note": "Estimated - check volvocars.com/ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12140/volvo_xc40_electric_2023_001.jpg"
     },
     {
       "make": "Volvo",
@@ -7694,7 +7905,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check volvocars.com/ie",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check volvocars.com/ie"
+      "rate_note": "Estimated - check volvocars.com/ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12140/volvo_xc40_electric_2023_001.jpg"
     },
     {
       "make": "Volvo",
@@ -7729,7 +7941,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check volvocars.com/ie"
+      "rate_note": "Estimated - check volvocars.com/ie",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12140/volvo_c40_electric_2023_006.jpg"
     },
     {
       "make": "Volvo",
@@ -7764,7 +7977,8 @@
       "price_verified": "estimated",
       "price_note": "Not yet on sale - estimated pricing",
       "rate_verified": "estimated",
-      "rate_note": "Not yet on sale"
+      "rate_note": "Not yet on sale",
+      "imageUrl": "https://www.completecar.ie/img/news/14653_large.jpg"
     },
     {
       "make": "Volvo",
@@ -7799,7 +8013,8 @@
       "price_verified": "estimated",
       "price_note": "Estimated - check volvocars.com/ie",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check volvocars.com/ie"
+      "rate_note": "Estimated - check volvocars.com/ie",
+      "imageUrl": "https://www.completecar.ie/img/news/12020_large.jpg"
     },
     {
       "make": "Volvo",
@@ -7834,7 +8049,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Not yet on sale"
+      "rate_note": "Not yet on sale",
+      "imageUrl": "https://www.completecar.ie/img/galleries/13948/volvo_es90_electric_saloon_2025_004.jpg"
     },
     {
       "make": "Volvo",
@@ -7869,7 +8085,8 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check volvocars.com/ie"
+      "rate_note": "Estimated - check volvocars.com/ie",
+      "imageUrl": "https://www.completecar.ie/img/news/12020_large.jpg"
     },
     {
       "make": "Xpeng",
@@ -7904,7 +8121,8 @@
       "price_verified": "estimated",
       "price_note": "From Irish Times article Feb 2025",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check with MSL Xpeng Dublin"
+      "rate_note": "Estimated - check with MSL Xpeng Dublin",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14350/xpeng_g6_awd_2026_020.jpg"
     },
     {
       "make": "Xpeng",
@@ -7939,7 +8157,8 @@
       "price_verified": "estimated",
       "price_note": "Not yet confirmed for Ireland",
       "rate_verified": "estimated",
-      "rate_note": "Estimated - check with MSL Xpeng Dublin"
+      "rate_note": "Estimated - check with MSL Xpeng Dublin",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14351/speng_g9_performance_2026_011.jpg"
     },
     {
       "make": "Zeekr",
@@ -7974,7 +8193,8 @@
       "price_verified": "estimated",
       "price_note": "No Irish pricing confirmed yet",
       "rate_verified": "estimated",
-      "rate_note": "No Irish PCP data yet"
+      "rate_note": "No Irish PCP data yet",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12762/zeekr_x_2024_047.jpg"
     },
     {
       "make": "Zeekr",
@@ -8009,7 +8229,8 @@
       "price_verified": "estimated",
       "price_note": "No Irish pricing confirmed yet",
       "rate_verified": "estimated",
-      "rate_note": "No Irish PCP data yet"
+      "rate_note": "No Irish PCP data yet",
+      "imageUrl": "https://www.completecar.ie/img/galleries/14038/zeekr_7x_grey_2025_005.jpg"
     },
     {
       "make": "Zeekr",
@@ -8044,7 +8265,8 @@
       "price_verified": "estimated",
       "price_note": "No Irish pricing confirmed yet",
       "rate_verified": "estimated",
-      "rate_note": "No Irish PCP data yet"
+      "rate_note": "No Irish PCP data yet",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12768/zeekr_001_2023_white_043.jpg"
     }
   ]
 }
