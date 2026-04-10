@@ -4305,7 +4305,7 @@
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland",
+      "rate_source": "Opel Ireland website, confirmed by user",
       "imageUrl": "https://www.completecar.ie/img/galleries/13180/newopelfrontera__3_.jpg"
     },
     {
@@ -4341,7 +4341,7 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland",
+      "rate_source": "Opel Ireland website, confirmed by user",
       "imageUrl": "https://www.completecar.ie/img/galleries/13180/newopelfrontera__3_.jpg"
     },
     {
@@ -4377,7 +4377,7 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland",
+      "rate_source": "Opel Ireland website, confirmed by user",
       "imageUrl": "https://www.completecar.ie/img/galleries/12424/opel_corsa_electric_2024_005.jpg"
     },
     {
@@ -4413,7 +4413,7 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland",
+      "rate_source": "Opel Ireland website, confirmed by user",
       "imageUrl": "https://www.completecar.ie/img/galleries/12424/opel_corsa_electric_2024_005.jpg"
     },
     {
@@ -4448,9 +4448,9 @@
       },
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
-      "rate_verified": "estimated",
-      "rate_note": "Assumed from Opel range",
-      "imageUrl": "https://www.completecar.ie/img/galleries/10746/opel_mokka_e_2021_green_ev_electric_004.jpg"
+      "rate_verified": "verified",
+      "imageUrl": "https://www.completecar.ie/img/galleries/10746/opel_mokka_e_2021_green_ev_electric_004.jpg",
+      "rate_source": "Opel Ireland website, confirmed by user"
     },
     {
       "make": "Opel",
@@ -4485,7 +4485,7 @@
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland",
+      "rate_source": "Opel Ireland website, confirmed by user",
       "imageUrl": "https://www.completecar.ie/img/galleries/12424/opel_corsa_electric_2024_005.jpg"
     },
     {
@@ -4520,9 +4520,9 @@
       },
       "price_verified": "estimated",
       "price_note": "From Opel Ireland offers",
-      "rate_verified": "estimated",
-      "rate_note": "Assumed from Opel range",
-      "imageUrl": "https://www.completecar.ie/img/galleries/10746/opel_mokka_e_2021_green_ev_electric_004.jpg"
+      "rate_verified": "verified",
+      "imageUrl": "https://www.completecar.ie/img/galleries/10746/opel_mokka_e_2021_green_ev_electric_004.jpg",
+      "rate_source": "Opel Ireland website, confirmed by user"
     },
     {
       "make": "Opel",
@@ -4556,9 +4556,9 @@
       },
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
-      "rate_verified": "estimated",
-      "rate_note": "Assumed from Opel range",
-      "imageUrl": "https://www.completecar.ie/img/galleries/12506/opel_astra_electric_blue_2023_035.jpg"
+      "rate_verified": "verified",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12506/opel_astra_electric_blue_2023_035.jpg",
+      "rate_source": "Opel Ireland website, confirmed by user"
     },
     {
       "make": "Opel",
@@ -4592,9 +4592,9 @@
       },
       "price_verified": "estimated",
       "price_note": "Estimated - check opel.ie",
-      "rate_verified": "estimated",
-      "rate_note": "Assumed from Opel range",
-      "imageUrl": "https://www.completecar.ie/img/galleries/12506/opel_astra_electric_blue_2023_035.jpg"
+      "rate_verified": "verified",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12506/opel_astra_electric_blue_2023_035.jpg",
+      "rate_source": "Opel Ireland website, confirmed by user"
     },
     {
       "make": "Opel",
@@ -4602,7 +4602,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 39065,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 2.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
@@ -4610,26 +4610,26 @@
       "url": "https://www.opel.ie/e-mobility/e-models.html",
       "finance_24m": {
         "gmfv_eur": 21485.75,
-        "amount_financed_eur": 25565,
-        "monthly_payment_10k_deposit_eur": 246.79,
-        "deposit_for_400pm_eur": 46220.32
+        "amount_financed_eur": 29065,
+        "monthly_payment_10k_deposit_eur": 377.35,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 16407.3,
-        "amount_financed_eur": 25565,
-        "monthly_payment_10k_deposit_eur": 323.29,
-        "deposit_for_400pm_eur": 36594.72
+        "amount_financed_eur": 29065,
+        "monthly_payment_10k_deposit_eur": 407.19,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 12500.8,
-        "amount_financed_eur": 25565,
-        "monthly_payment_10k_deposit_eur": 335.02,
-        "deposit_for_400pm_eur": 28512.19
+        "amount_financed_eur": 29065,
+        "monthly_payment_10k_deposit_eur": 396.12,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
       "price_source": "RTE April 2026 guide",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland",
+      "rate_source": "Opel Ireland website, confirmed by user",
       "imageUrl": "https://www.completecar.ie/img/galleries/13220/newopelgrandland__7_.jpg"
     },
     {
@@ -4638,7 +4638,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 40936,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 2.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
@@ -4646,26 +4646,26 @@
       "url": "https://www.opel.ie/e-mobility/e-models.html",
       "finance_24m": {
         "gmfv_eur": 22514.8,
-        "amount_financed_eur": 27436,
-        "monthly_payment_10k_deposit_eur": 286.66,
-        "deposit_for_400pm_eur": 49043.27
+        "amount_financed_eur": 30936,
+        "monthly_payment_10k_deposit_eur": 415.99,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 17193.12,
-        "amount_financed_eur": 27436,
-        "monthly_payment_10k_deposit_eur": 357.83,
-        "deposit_for_400pm_eur": 39164.91
+        "amount_financed_eur": 30936,
+        "monthly_payment_10k_deposit_eur": 440.6,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 13099.52,
-        "amount_financed_eur": 27436,
-        "monthly_payment_10k_deposit_eur": 365.64,
-        "deposit_for_400pm_eur": 30895.56
+        "amount_financed_eur": 30936,
+        "monthly_payment_10k_deposit_eur": 425.67,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland",
+      "rate_source": "Opel Ireland website, confirmed by user",
       "imageUrl": "https://www.completecar.ie/img/galleries/13220/newopelgrandland__7_.jpg"
     },
     {
@@ -4674,7 +4674,7 @@
       "year": "2025",
       "type": "HEV",
       "price_eur": 40995,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 2.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -4683,25 +4683,25 @@
       "finance_24m": {
         "gmfv_eur": 22547.25,
         "amount_financed_eur": 30995,
-        "monthly_payment_10k_deposit_eur": 439.75,
-        "deposit_for_400pm_eur": 52632.29
+        "monthly_payment_10k_deposit_eur": 417.21,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 17217.9,
         "amount_financed_eur": 30995,
-        "monthly_payment_10k_deposit_eur": 462.1,
-        "deposit_for_400pm_eur": 42745.95
+        "monthly_payment_10k_deposit_eur": 441.66,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 13118.4,
         "amount_financed_eur": 30995,
-        "monthly_payment_10k_deposit_eur": 445.47,
-        "deposit_for_400pm_eur": 34470.72
+        "monthly_payment_10k_deposit_eur": 426.6,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland",
+      "rate_source": "Opel Ireland website, confirmed by user",
       "imageUrl": "https://www.completecar.ie/img/galleries/13220/newopelgrandland__7_.jpg"
     },
     {
@@ -4736,9 +4736,9 @@
       },
       "price_verified": "estimated",
       "price_note": "Estimated from Astra Electric",
-      "rate_verified": "estimated",
-      "rate_note": "Assumed from Opel range",
-      "imageUrl": "https://www.completecar.ie/img/galleries/12506/opel_astra_electric_blue_2023_035.jpg"
+      "rate_verified": "verified",
+      "imageUrl": "https://www.completecar.ie/img/galleries/12506/opel_astra_electric_blue_2023_035.jpg",
+      "rate_source": "Opel Ireland website, confirmed by user"
     },
     {
       "make": "Opel",
@@ -4746,7 +4746,7 @@
       "year": "2025",
       "type": "HEV",
       "price_eur": 42995,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 2.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -4755,25 +4755,25 @@
       "finance_24m": {
         "gmfv_eur": 23647.25,
         "amount_financed_eur": 32995,
-        "monthly_payment_10k_deposit_eur": 482.36,
-        "deposit_for_400pm_eur": 55649.88
+        "monthly_payment_10k_deposit_eur": 458.51,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 18057.9,
         "amount_financed_eur": 32995,
-        "monthly_payment_10k_deposit_eur": 499.03,
-        "deposit_for_400pm_eur": 45493.35
+        "monthly_payment_10k_deposit_eur": 477.37,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 13758.4,
         "amount_financed_eur": 32995,
-        "monthly_payment_10k_deposit_eur": 478.2,
-        "deposit_for_400pm_eur": 37018.41
+        "monthly_payment_10k_deposit_eur": 458.19,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland",
+      "rate_source": "Opel Ireland website, confirmed by user",
       "imageUrl": "https://www.completecar.ie/img/galleries/13220/newopelgrandland__7_.jpg"
     },
     {
@@ -4782,7 +4782,7 @@
       "year": "2025",
       "type": "BEV",
       "price_eur": 43763,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 2.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "Yes",
       "seai_grant_eur": 3500,
@@ -4790,26 +4790,26 @@
       "url": "https://www.opel.ie/e-mobility/e-models.html",
       "finance_24m": {
         "gmfv_eur": 24069.65,
-        "amount_financed_eur": 30263,
-        "monthly_payment_10k_deposit_eur": 346.9,
-        "deposit_for_400pm_eur": 53308.64
+        "amount_financed_eur": 33763,
+        "monthly_payment_10k_deposit_eur": 474.37,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 18380.46,
-        "amount_financed_eur": 30263,
-        "monthly_payment_10k_deposit_eur": 410.03,
-        "deposit_for_400pm_eur": 43048.35
+        "amount_financed_eur": 33763,
+        "monthly_payment_10k_deposit_eur": 491.08,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 14004.16,
-        "amount_financed_eur": 30263,
-        "monthly_payment_10k_deposit_eur": 411.9,
-        "deposit_for_400pm_eur": 34496.73
+        "amount_financed_eur": 33763,
+        "monthly_payment_10k_deposit_eur": 470.32,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland",
+      "rate_source": "Opel Ireland website, confirmed by user",
       "imageUrl": "https://www.completecar.ie/img/galleries/13220/newopelgrandland__7_.jpg"
     },
     {
@@ -4818,7 +4818,7 @@
       "year": "2025",
       "type": "HEV",
       "price_eur": 44995,
-      "interest_rate_pct": 3.9,
+      "interest_rate_pct": 2.9,
       "typical_pcp_term_months": 37,
       "grant_eligible": "No",
       "seai_grant_eur": 0,
@@ -4827,25 +4827,25 @@
       "finance_24m": {
         "gmfv_eur": 24747.25,
         "amount_financed_eur": 34995,
-        "monthly_payment_10k_deposit_eur": 524.98,
-        "deposit_for_400pm_eur": 58667.47
+        "monthly_payment_10k_deposit_eur": 499.81,
+        "deposit_for_400pm_eur": 0
       },
       "finance_36m": {
         "gmfv_eur": 18897.9,
         "amount_financed_eur": 34995,
-        "monthly_payment_10k_deposit_eur": 535.95,
-        "deposit_for_400pm_eur": 48240.74
+        "monthly_payment_10k_deposit_eur": 513.08,
+        "deposit_for_400pm_eur": 0
       },
       "finance_48m": {
         "gmfv_eur": 14398.4,
         "amount_financed_eur": 34995,
-        "monthly_payment_10k_deposit_eur": 510.93,
-        "deposit_for_400pm_eur": 39566.11
+        "monthly_payment_10k_deposit_eur": 489.78,
+        "deposit_for_400pm_eur": 0
       },
       "price_verified": "verified",
       "price_source": "Opel Ireland website",
       "rate_verified": "verified",
-      "rate_source": "Opel Ireland",
+      "rate_source": "Opel Ireland website, confirmed by user",
       "imageUrl": "https://www.completecar.ie/img/galleries/13220/newopelgrandland__7_.jpg"
     },
     {

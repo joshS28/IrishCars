@@ -15,7 +15,7 @@ const SORT_OPTIONS = [
   { value: 'range-desc', label: 'Range (High-Low)' },
 ]
 
-export default function FinanceByDeposit() {
+export default function FinanceByDeposit({ carData }) {
   const [deposit, setDeposit] = useState(10000)
 
   const customSort = useCallback((cars, sort) => {
@@ -30,7 +30,7 @@ export default function FinanceByDeposit() {
     })
   }, [])
 
-  const { filters, setFilters, filtered, makes } = useCarFilters(customSort)
+  const { filters, setFilters, filtered, makes, bounds } = useCarFilters(carData, customSort)
   const carsWithCalc = useCalculatedPayments(filtered, deposit)
 
   // Apply monthly-based sorting after calculation
@@ -51,6 +51,7 @@ export default function FinanceByDeposit() {
         onFilterChange={setFilters}
         makes={makes}
         sortOptions={SORT_OPTIONS}
+        bounds={bounds}
       />
 
       <div className="text-sm text-gray-500 mb-4">

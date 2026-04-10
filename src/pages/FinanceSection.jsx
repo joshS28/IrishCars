@@ -9,7 +9,7 @@ const TABS = [
   { id: 'byPayment', label: 'Choose Payment' },
 ]
 
-export default function FinanceSection() {
+export default function FinanceSection({ carData }) {
   const [activeTab, setActiveTab] = useState('browse')
 
   return (
@@ -30,9 +30,9 @@ export default function FinanceSection() {
         ))}
       </div>
 
-      {activeTab === 'browse' && <FinanceBrowse />}
-      {activeTab === 'byDeposit' && <FinanceByDeposit />}
-      {activeTab === 'byPayment' && <FinanceByPayment />}
+      {activeTab === 'browse' && <FinanceBrowse carData={carData} />}
+      {activeTab === 'byDeposit' && <FinanceByDeposit carData={carData} />}
+      {activeTab === 'byPayment' && <FinanceByPayment carData={carData} />}
     </div>
   )
 }

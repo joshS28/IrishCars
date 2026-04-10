@@ -8,7 +8,7 @@ export default function LandingPage({ onNavigate }) {
         Compare EV and Hybrid car prices and finance options across Ireland
       </p>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 w-full max-w-2xl">
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 w-full max-w-4xl">
         {/* Browse Car Prices - V2 */}
         <div className="relative bg-white rounded-xl border-2 border-gray-200 p-8 opacity-60 cursor-not-allowed">
           <span className="absolute top-3 right-3 bg-gray-200 text-gray-500 text-xs font-medium px-2 py-1 rounded-full">
@@ -38,6 +38,22 @@ export default function LandingPage({ onNavigate }) {
           <h3 className="text-xl font-semibold text-gray-800 mb-2">Browse Finance Options</h3>
           <p className="text-sm text-gray-500">
             Explore PCP finance, adjust deposits and monthly payments
+          </p>
+        </button>
+
+        {/* Car Database - Active */}
+        <button
+          onClick={() => onNavigate('database')}
+          className="bg-white rounded-xl border-2 border-blue-500 p-8 hover:shadow-lg hover:border-blue-600 transition-all text-left cursor-pointer group"
+        >
+          <div className="text-4xl mb-4">
+            <svg xmlns="http://www.w3.org/2000/svg" className="h-12 w-12 text-blue-600 mx-auto group-hover:scale-110 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4" />
+            </svg>
+          </div>
+          <h3 className="text-xl font-semibold text-gray-800 mb-2">Car Database</h3>
+          <p className="text-sm text-gray-500">
+            View and edit car data used in all calculations
           </p>
         </button>
       </div>

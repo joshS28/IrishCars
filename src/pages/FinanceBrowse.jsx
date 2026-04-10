@@ -3,13 +3,13 @@ import FilterBar from '../components/FilterBar'
 import { useCarFilters } from '../hooks/useCarFilters'
 import { useCalculatedPayments } from '../hooks/useFinanceCalculations'
 
-export default function FinanceBrowse() {
-  const { filters, setFilters, filtered, makes } = useCarFilters()
+export default function FinanceBrowse({ carData }) {
+  const { filters, setFilters, filtered, makes, bounds } = useCarFilters(carData)
   const carsWithCalc = useCalculatedPayments(filtered, 10000)
 
   return (
     <div>
-      <FilterBar filters={filters} onFilterChange={setFilters} makes={makes} />
+      <FilterBar filters={filters} onFilterChange={setFilters} makes={makes} bounds={bounds} />
 
       <div className="text-sm text-gray-500 mb-4">
         Showing {carsWithCalc.length} cars

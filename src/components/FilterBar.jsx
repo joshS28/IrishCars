@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import { BODY_STYLES } from '../data/carExtras'
-import { FILTER_BOUNDS } from '../hooks/useCarFilters'
 import { formatCurrency } from '../utils/formatters'
 
 const CAR_TYPES = ['BEV', 'HEV', 'PHEV']
@@ -115,7 +114,9 @@ function RangeSlider({ label, min, max, value, onChange, step, formatValue }) {
   )
 }
 
-export default function FilterBar({ filters, onFilterChange, makes, sortOptions }) {
+const DEFAULT_BOUNDS = { priceMin: 0, priceMax: 250000, rateMin: 0, rateMax: 10, rangeMin: 0, rangeMax: 1000 }
+
+export default function FilterBar({ filters, onFilterChange, makes, sortOptions, bounds: FILTER_BOUNDS = DEFAULT_BOUNDS }) {
   return (
     <div className="bg-white rounded-lg border border-gray-200 mb-4 p-3 space-y-3">
       {/* Row 1: Brand, Powertrain, Body Style */}
