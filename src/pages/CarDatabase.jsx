@@ -205,7 +205,7 @@ export default function CarDatabase({ carData, updateCar, setCarData }) {
                   <td className="py-2 px-3">
                     <div className="flex items-center gap-2">
                       {car.imageUrl && (
-                        <img src={car.imageUrl} alt="" className="w-10 h-7 object-contain rounded" loading="lazy" />
+                        <img src={car.imageUrl} alt="" className="w-8 h-5 object-cover rounded shrink-0" loading="lazy" />
                       )}
                       <div>
                         <span className="font-medium text-gray-900">{car.make}</span>
